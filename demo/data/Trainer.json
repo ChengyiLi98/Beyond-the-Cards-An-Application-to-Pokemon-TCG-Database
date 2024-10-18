@@ -1,0 +1,2953 @@
+[
+    {
+        "Trainer_ID": 1,
+        "Trainer_name": "Aaron",
+        "Pokemon_team": "BDSP second rematch",
+        "Badges_obtained": 2,
+        "Region": [
+            "Galar",
+            "Kalos",
+            "Sinnoh",
+            "Alola"
+        ]
+    },
+    {
+        "Trainer_ID": 2,
+        "Trainer_name": "Acerola",
+        "Pokemon_team": "USUM Elite Four rematch",
+        "Badges_obtained": 4,
+        "Region": [
+            "Galar"
+        ]
+    },
+    {
+        "Trainer_ID": 3,
+        "Trainer_name": "Adaman",
+        "Pokemon_team": "Path of Tenacity, fifth clear",
+        "Badges_obtained": 5,
+        "Region": [
+            "Galar"
+        ]
+    },
+    {
+        "Trainer_ID": 4,
+        "Trainer_name": "Agatha",
+        "Pokemon_team": "FRLG League rematch",
+        "Badges_obtained": 5,
+        "Region": [
+            "Paldea",
+            "Alola"
+        ]
+    },
+    {
+        "Trainer_ID": 5,
+        "Trainer_name": "Akari/Rei",
+        "Pokemon_team": "Training Grounds post-request 98",
+        "Badges_obtained": 2,
+        "Region": [
+            "Unova"
+        ]
+    },
+    {
+        "Trainer_ID": 6,
+        "Trainer_name": "Alder",
+        "Pokemon_team": "BW Pokemon League rematch",
+        "Badges_obtained": 4,
+        "Region": [
+            "Paldea"
+        ]
+    },
+    {
+        "Trainer_ID": 7,
+        "Trainer_name": "Alex",
+        "Pokemon_team": "HGSS Route 13",
+        "Badges_obtained": 2,
+        "Region": [
+            "Galar",
+            "Kanto",
+            "Hoenn",
+            "Alola",
+            "Johto"
+        ]
+    },
+    {
+        "Trainer_ID": 8,
+        "Trainer_name": "Aliana",
+        "Pokemon_team": "Lysandre Labs",
+        "Badges_obtained": 1,
+        "Region": [
+            "Hisui"
+        ]
+    },
+    {
+        "Trainer_ID": 9,
+        "Trainer_name": "Allister",
+        "Pokemon_team": "Champion Cup post-GST",
+        "Badges_obtained": 0,
+        "Region": [
+            "Alola",
+            "Sinnoh",
+            "Kalos"
+        ]
+    },
+    {
+        "Trainer_ID": 10,
+        "Trainer_name": "Amarys",
+        "Pokemon_team": "League Club",
+        "Badges_obtained": 4,
+        "Region": [
+            "Unova",
+            "Kalos",
+            "Sinnoh",
+            "Hisui"
+        ]
+    },
+    {
+        "Trainer_ID": 11,
+        "Trainer_name": "Anabel",
+        "Pokemon_team": "Looker Bureau",
+        "Badges_obtained": 0,
+        "Region": [
+            "Kanto"
+        ]
+    },
+    {
+        "Trainer_ID": 12,
+        "Trainer_name": "Archer",
+        "Pokemon_team": "LGPE third battle",
+        "Badges_obtained": 2,
+        "Region": [
+            "Hoenn"
+        ]
+    },
+    {
+        "Trainer_ID": 13,
+        "Trainer_name": "Archie",
+        "Pokemon_team": "Rainbow Rocket",
+        "Badges_obtained": 2,
+        "Region": [
+            "Alola",
+            "Sinnoh",
+            "Unova"
+        ]
+    },
+    {
+        "Trainer_ID": 14,
+        "Trainer_name": "Ardos",
+        "Pokemon_team": "Citadark Isle",
+        "Badges_obtained": 4,
+        "Region": [
+            "Sinnoh"
+        ]
+    },
+    {
+        "Trainer_ID": 15,
+        "Trainer_name": "Arezu",
+        "Pokemon_team": "Path of Tenacity, fifth clear",
+        "Badges_obtained": 2,
+        "Region": [
+            "Paldea",
+            "Kalos",
+            "Kanto",
+            "Alola"
+        ]
+    },
+    {
+        "Trainer_ID": 16,
+        "Trainer_name": "Ariana",
+        "Pokemon_team": "FRLG Rocket Warehouse",
+        "Badges_obtained": 2,
+        "Region": [
+            "Hoenn",
+            "Galar",
+            "Sinnoh"
+        ]
+    },
+    {
+        "Trainer_ID": 17,
+        "Trainer_name": "Aristo",
+        "Pokemon_team": "Mt. Lanakila route boss",
+        "Badges_obtained": 4,
+        "Region": [
+            "Paldea",
+            "Johto",
+            "Kalos",
+            "Galar",
+            "Hisui"
+        ]
+    },
+    {
+        "Trainer_ID": 18,
+        "Trainer_name": "Arven",
+        "Pokemon_team": "League Club",
+        "Badges_obtained": 2,
+        "Region": [
+            "Unova",
+            "Sinnoh",
+            "Paldea",
+            "Hisui"
+        ]
+    },
+    {
+        "Trainer_ID": 19,
+        "Trainer_name": "Atticus",
+        "Pokemon_team": "Team Star rematch",
+        "Badges_obtained": 4,
+        "Region": [
+            "Unova",
+            "Johto"
+        ]
+    },
+    {
+        "Trainer_ID": 20,
+        "Trainer_name": "Avery",
+        "Pokemon_team": "Battle Court post-GST",
+        "Badges_obtained": 1,
+        "Region": [
+            "Hoenn"
+        ]
+    },
+    {
+        "Trainer_ID": 21,
+        "Trainer_name": "AZ",
+        "Pokemon_team": "Lumiose City, credits",
+        "Badges_obtained": 2,
+        "Region": [
+            "Kanto"
+        ]
+    },
+    {
+        "Trainer_ID": 22,
+        "Trainer_name": "Barry",
+        "Pokemon_team": "Fight Area, after 20 rematches",
+        "Badges_obtained": 3,
+        "Region": [
+            "Hisui"
+        ]
+    },
+    {
+        "Trainer_ID": 23,
+        "Trainer_name": "Bea",
+        "Pokemon_team": "Champion Cup post-GST",
+        "Badges_obtained": 5,
+        "Region": [
+            "Kanto"
+        ]
+    },
+    {
+        "Trainer_ID": 24,
+        "Trainer_name": "Bede",
+        "Pokemon_team": "Champion Cup post-GST",
+        "Badges_obtained": 2,
+        "Region": [
+            "Sinnoh"
+        ]
+    },
+    {
+        "Trainer_ID": 25,
+        "Trainer_name": "Benga",
+        "Pokemon_team": "Black Tower or White Treehollow",
+        "Badges_obtained": 4,
+        "Region": [
+            "Galar",
+            "Paldea",
+            "Johto",
+            "Kanto",
+            "Sinnoh"
+        ]
+    },
+    {
+        "Trainer_ID": 26,
+        "Trainer_name": "Beni",
+        "Pokemon_team": "Path of Tenacity, fifth clear",
+        "Badges_obtained": 3,
+        "Region": [
+            "Alola",
+            "Johto",
+            "Kanto",
+            "Hisui",
+            "Sinnoh"
+        ]
+    },
+    {
+        "Trainer_ID": 27,
+        "Trainer_name": "Bertha",
+        "Pokemon_team": "BDSP second rematch",
+        "Badges_obtained": 5,
+        "Region": [
+            "Hoenn",
+            "Sinnoh"
+        ]
+    },
+    {
+        "Trainer_ID": 28,
+        "Trainer_name": "Bianca",
+        "Pokemon_team": "BW2 Memory Link",
+        "Badges_obtained": 4,
+        "Region": [
+            "Paldea",
+            "Sinnoh"
+        ]
+    },
+    {
+        "Trainer_ID": 29,
+        "Trainer_name": "Blaine",
+        "Pokemon_team": "HGSS Fighting Dojo",
+        "Badges_obtained": 1,
+        "Region": [
+            "Sinnoh",
+            "Galar",
+            "Alola",
+            "Unova",
+            "Hoenn"
+        ]
+    },
+    {
+        "Trainer_ID": 30,
+        "Trainer_name": "Blue",
+        "Pokemon_team": "FRLG League rematch",
+        "Badges_obtained": 1,
+        "Region": [
+            "Hoenn"
+        ]
+    },
+    {
+        "Trainer_ID": 31,
+        "Trainer_name": "Brassius",
+        "Pokemon_team": "League Club",
+        "Badges_obtained": 4,
+        "Region": [
+            "Kanto",
+            "Kalos"
+        ]
+    },
+    {
+        "Trainer_ID": 32,
+        "Trainer_name": "Brawly",
+        "Pokemon_team": "Emerald fourth rematch",
+        "Badges_obtained": 1,
+        "Region": [
+            "Unova",
+            "Kanto",
+            "Galar",
+            "Alola"
+        ]
+    },
+    {
+        "Trainer_ID": 33,
+        "Trainer_name": "Brock",
+        "Pokemon_team": "HGSS Fighting Dojo",
+        "Badges_obtained": 4,
+        "Region": [
+            "Hoenn",
+            "Kalos",
+            "Paldea"
+        ]
+    },
+    {
+        "Trainer_ID": 34,
+        "Trainer_name": "Bruno",
+        "Pokemon_team": "HGSS League rematch",
+        "Badges_obtained": 5,
+        "Region": [
+            "Galar",
+            "Kalos",
+            "Hisui",
+            "Sinnoh",
+            "Hoenn"
+        ]
+    },
+    {
+        "Trainer_ID": 35,
+        "Trainer_name": "Brycen ",
+        "Pokemon_team": "BW Gym Battle",
+        "Badges_obtained": 1,
+        "Region": [
+            "Paldea",
+            "Kanto",
+            "Galar",
+            "Kalos",
+            "Alola"
+        ]
+    },
+    {
+        "Trainer_ID": 36,
+        "Trainer_name": "Bryony",
+        "Pokemon_team": "Lysandre Labs",
+        "Badges_obtained": 1,
+        "Region": [
+            "Paldea"
+        ]
+    },
+    {
+        "Trainer_ID": 37,
+        "Trainer_name": "Buck",
+        "Pokemon_team": "Battleground",
+        "Badges_obtained": 4,
+        "Region": [
+            "Kanto",
+            "Unova"
+        ]
+    },
+    {
+        "Trainer_ID": 38,
+        "Trainer_name": "Buck",
+        "Pokemon_team": "Battleground",
+        "Badges_obtained": 5,
+        "Region": [
+            "Paldea",
+            "Sinnoh",
+            "Unova",
+            "Kalos"
+        ]
+    },
+    {
+        "Trainer_ID": 39,
+        "Trainer_name": "Bugsy",
+        "Pokemon_team": "HGSS Fighting Dojo",
+        "Badges_obtained": 2,
+        "Region": [
+            "Sinnoh",
+            "Galar",
+            "Paldea",
+            "Kanto",
+            "Unova"
+        ]
+    },
+    {
+        "Trainer_ID": 40,
+        "Trainer_name": "Burgh",
+        "Pokemon_team": "BW2 Gym Battle, challenge mode",
+        "Badges_obtained": 1,
+        "Region": [
+            "Alola",
+            "Kanto"
+        ]
+    },
+    {
+        "Trainer_ID": 41,
+        "Trainer_name": "Byron",
+        "Pokemon_team": "Brilliant Diamond/Shining Pearl rematch",
+        "Badges_obtained": 5,
+        "Region": [
+            "Galar"
+        ]
+    },
+    {
+        "Trainer_ID": 42,
+        "Trainer_name": "Caitlin",
+        "Pokemon_team": "BW2 League Rematch, Challenge Mode",
+        "Badges_obtained": 3,
+        "Region": [
+            "Kalos",
+            "Hisui"
+        ]
+    },
+    {
+        "Trainer_ID": 43,
+        "Trainer_name": "Candice",
+        "Pokemon_team": "Brilliant Diamond/Shining Pearl rematch",
+        "Badges_obtained": 5,
+        "Region": [
+            "Hoenn",
+            "Kanto"
+        ]
+    },
+    {
+        "Trainer_ID": 44,
+        "Trainer_name": "Carmine",
+        "Pokemon_team": "League Club",
+        "Badges_obtained": 2,
+        "Region": [
+            "Hoenn"
+        ]
+    },
+    {
+        "Trainer_ID": 45,
+        "Trainer_name": "Celosia",
+        "Pokemon_team": "Lysandre Labs",
+        "Badges_obtained": 5,
+        "Region": [
+            "Alola"
+        ]
+    },
+    {
+        "Trainer_ID": 46,
+        "Trainer_name": "Charm",
+        "Pokemon_team": "Strongest possible encounter",
+        "Badges_obtained": 5,
+        "Region": [
+            "Paldea",
+            "Galar",
+            "Hisui",
+            "Hoenn"
+        ]
+    },
+    {
+        "Trainer_ID": 47,
+        "Trainer_name": "Cheren",
+        "Pokemon_team": "BW2 Memory Link",
+        "Badges_obtained": 5,
+        "Region": [
+            "Galar",
+            "Hisui",
+            "Kanto",
+            "Sinnoh",
+            "Johto"
+        ]
+    },
+    {
+        "Trainer_ID": 48,
+        "Trainer_name": "Cheryl",
+        "Pokemon_team": "Battleground",
+        "Badges_obtained": 1,
+        "Region": [
+            "Hoenn"
+        ]
+    },
+    {
+        "Trainer_ID": 49,
+        "Trainer_name": "Cheryl",
+        "Pokemon_team": "Battleground",
+        "Badges_obtained": 1,
+        "Region": [
+            "Alola",
+            "Kalos"
+        ]
+    },
+    {
+        "Trainer_ID": 50,
+        "Trainer_name": "Chili",
+        "Pokemon_team": "BW2 Tag battle, challenge mode",
+        "Badges_obtained": 5,
+        "Region": [
+            "Kalos",
+            "Sinnoh",
+            "Galar",
+            "Kanto"
+        ]
+    },
+    {
+        "Trainer_ID": 51,
+        "Trainer_name": "Chuck",
+        "Pokemon_team": "HGSS Fighting Dojo",
+        "Badges_obtained": 3,
+        "Region": [
+            "Galar",
+            "Paldea",
+            "Kalos",
+            "Sinnoh",
+            "Kanto"
+        ]
+    },
+    {
+        "Trainer_ID": 52,
+        "Trainer_name": "Cilan",
+        "Pokemon_team": "BW2 Tag battle, challenge mode",
+        "Badges_obtained": 4,
+        "Region": [
+            "Hisui",
+            "Johto",
+            "Sinnoh"
+        ]
+    },
+    {
+        "Trainer_ID": 53,
+        "Trainer_name": "Clair",
+        "Pokemon_team": "HGSS Fighting Dojo",
+        "Badges_obtained": 1,
+        "Region": [
+            "Kanto",
+            "Unova"
+        ]
+    },
+    {
+        "Trainer_ID": 54,
+        "Trainer_name": "Clavell",
+        "Pokemon_team": "League Club",
+        "Badges_obtained": 2,
+        "Region": [
+            "Kalos",
+            "Unova",
+            "Kanto"
+        ]
+    },
+    {
+        "Trainer_ID": 55,
+        "Trainer_name": "Clay",
+        "Pokemon_team": "BW2 Gym Battle, challenge mode",
+        "Badges_obtained": 4,
+        "Region": [
+            "Johto",
+            "Hoenn"
+        ]
+    },
+    {
+        "Trainer_ID": 56,
+        "Trainer_name": "Clemont",
+        "Pokemon_team": "Battle Chateau",
+        "Badges_obtained": 5,
+        "Region": [
+            "Kalos",
+            "Paldea"
+        ]
+    },
+    {
+        "Trainer_ID": 57,
+        "Trainer_name": "Clover",
+        "Pokemon_team": "Strongest possible encounter",
+        "Badges_obtained": 1,
+        "Region": [
+            "Paldea",
+            "Hoenn"
+        ]
+    },
+    {
+        "Trainer_ID": 58,
+        "Trainer_name": "Coin",
+        "Pokemon_team": "Strongest possible encounter",
+        "Badges_obtained": 5,
+        "Region": [
+            "Kalos"
+        ]
+    },
+    {
+        "Trainer_ID": 59,
+        "Trainer_name": "Colress",
+        "Pokemon_team": "Plasma Frigate rematch, Challenge Mode",
+        "Badges_obtained": 4,
+        "Region": [
+            "Hisui",
+            "Paldea"
+        ]
+    },
+    {
+        "Trainer_ID": 60,
+        "Trainer_name": "Courtney",
+        "Pokemon_team": "Ruby Seafloor Cavern",
+        "Badges_obtained": 3,
+        "Region": [
+            "Hoenn",
+            "Galar"
+        ]
+    },
+    {
+        "Trainer_ID": 61,
+        "Trainer_name": "Crasher Wake",
+        "Pokemon_team": "Brilliant Diamond/Shining Pearl rematch",
+        "Badges_obtained": 3,
+        "Region": [
+            "Unova",
+            "Johto",
+            "Sinnoh",
+            "Hisui",
+            "Kalos"
+        ]
+    },
+    {
+        "Trainer_ID": 62,
+        "Trainer_name": "Cress",
+        "Pokemon_team": "BW2 Tag battle, challenge mode",
+        "Badges_obtained": 0,
+        "Region": [
+            "Sinnoh",
+            "Johto"
+        ]
+    },
+    {
+        "Trainer_ID": 63,
+        "Trainer_name": "Crispin",
+        "Pokemon_team": "League Club",
+        "Badges_obtained": 4,
+        "Region": [
+            "Hoenn",
+            "Sinnoh",
+            "Kalos",
+            "Kanto",
+            "Unova"
+        ]
+    },
+    {
+        "Trainer_ID": 64,
+        "Trainer_name": "Cynthia",
+        "Pokemon_team": "BDSP second rematch",
+        "Badges_obtained": 4,
+        "Region": [
+            "Sinnoh",
+            "Kanto",
+            "Kalos"
+        ]
+    },
+    {
+        "Trainer_ID": 65,
+        "Trainer_name": "Cyrano",
+        "Pokemon_team": "League Club",
+        "Badges_obtained": 2,
+        "Region": [
+            "Kalos",
+            "Paldea",
+            "Hoenn",
+            "Kanto",
+            "Hisui"
+        ]
+    },
+    {
+        "Trainer_ID": 66,
+        "Trainer_name": "Cyrus",
+        "Pokemon_team": "Rainbow Rocket",
+        "Badges_obtained": 5,
+        "Region": [
+            "Galar",
+            "Kalos"
+        ]
+    },
+    {
+        "Trainer_ID": 67,
+        "Trainer_name": "Dakim",
+        "Pokemon_team": "Deep Colosseum",
+        "Badges_obtained": 2,
+        "Region": [
+            "Kalos",
+            "Galar",
+            "Hoenn"
+        ]
+    },
+    {
+        "Trainer_ID": 68,
+        "Trainer_name": "Dendra",
+        "Pokemon_team": "League Club",
+        "Badges_obtained": 1,
+        "Region": [
+            "Kalos",
+            "Hoenn"
+        ]
+    },
+    {
+        "Trainer_ID": 69,
+        "Trainer_name": "Dexio",
+        "Pokemon_team": "Alola Route 16",
+        "Badges_obtained": 0,
+        "Region": [
+            "Kalos",
+            "Hisui",
+            "Sinnoh",
+            "Johto"
+        ]
+    },
+    {
+        "Trainer_ID": 70,
+        "Trainer_name": "Diantha",
+        "Pokemon_team": "XY Pokemon League",
+        "Badges_obtained": 4,
+        "Region": [
+            "Alola",
+            "Sinnoh",
+            "Unova"
+        ]
+    },
+    {
+        "Trainer_ID": 71,
+        "Trainer_name": "Drake",
+        "Pokemon_team": "ORAS League rematch",
+        "Badges_obtained": 2,
+        "Region": [
+            "Alola"
+        ]
+    },
+    {
+        "Trainer_ID": 72,
+        "Trainer_name": "Drasna",
+        "Pokemon_team": "XY Pokemon League",
+        "Badges_obtained": 2,
+        "Region": [
+            "Hoenn"
+        ]
+    },
+    {
+        "Trainer_ID": 73,
+        "Trainer_name": "Drayden",
+        "Pokemon_team": "BW2 Gym Battle, challenge mode",
+        "Badges_obtained": 3,
+        "Region": [
+            "Alola",
+            "Hoenn",
+            "Johto"
+        ]
+    },
+    {
+        "Trainer_ID": 74,
+        "Trainer_name": "Drayton",
+        "Pokemon_team": "League Club",
+        "Badges_obtained": 5,
+        "Region": [
+            "Kanto",
+            "Paldea",
+            "Hisui",
+            "Alola"
+        ]
+    },
+    {
+        "Trainer_ID": 75,
+        "Trainer_name": "Dulse",
+        "Pokemon_team": "Vast Poni Canyon",
+        "Badges_obtained": 1,
+        "Region": [
+            "Paldea",
+            "Hoenn",
+            "Johto",
+            "Kanto"
+        ]
+    },
+    {
+        "Trainer_ID": 76,
+        "Trainer_name": "Eagun",
+        "Pokemon_team": "Pokemon HQ Lab",
+        "Badges_obtained": 0,
+        "Region": [
+            "Johto",
+            "Hoenn",
+            "Hisui",
+            "Galar"
+        ]
+    },
+    {
+        "Trainer_ID": 77,
+        "Trainer_name": "Ein",
+        "Pokemon_team": "Deep Colosseum",
+        "Badges_obtained": 5,
+        "Region": [
+            "Kanto",
+            "Galar",
+            "Sinnoh",
+            "Alola"
+        ]
+    },
+    {
+        "Trainer_ID": 78,
+        "Trainer_name": "Eldes",
+        "Pokemon_team": "Citadark Isle",
+        "Badges_obtained": 0,
+        "Region": [
+            "Kalos"
+        ]
+    },
+    {
+        "Trainer_ID": 79,
+        "Trainer_name": "Elesa",
+        "Pokemon_team": "BW2 Gym Battle, challenge mode",
+        "Badges_obtained": 1,
+        "Region": [
+            "Hoenn",
+            "Alola"
+        ]
+    },
+    {
+        "Trainer_ID": 80,
+        "Trainer_name": "Emma",
+        "Pokemon_team": "Looker Bureau",
+        "Badges_obtained": 4,
+        "Region": [
+            "Paldea",
+            "Hoenn",
+            "Sinnoh",
+            "Kanto",
+            "Johto"
+        ]
+    },
+    {
+        "Trainer_ID": 81,
+        "Trainer_name": "Eri",
+        "Pokemon_team": "Team Star rematch",
+        "Badges_obtained": 2,
+        "Region": [
+            "Hisui",
+            "Johto",
+            "Paldea",
+            "Hoenn",
+            "Kalos"
+        ]
+    },
+    {
+        "Trainer_ID": 82,
+        "Trainer_name": "Erika",
+        "Pokemon_team": "HGSS Fighting Dojo",
+        "Badges_obtained": 3,
+        "Region": [
+            "Alola"
+        ]
+    },
+    {
+        "Trainer_ID": 83,
+        "Trainer_name": "Evice",
+        "Pokemon_team": "Tower Colosseum rematch",
+        "Badges_obtained": 1,
+        "Region": [
+            "Galar",
+            "Hoenn"
+        ]
+    },
+    {
+        "Trainer_ID": 84,
+        "Trainer_name": "Faba",
+        "Pokemon_team": "Post-Rainbow Rocket",
+        "Badges_obtained": 2,
+        "Region": [
+            "Kalos",
+            "Paldea",
+            "Galar",
+            "Hoenn",
+            "Kanto"
+        ]
+    },
+    {
+        "Trainer_ID": 85,
+        "Trainer_name": "Falkner",
+        "Pokemon_team": "HGSS Fighting Dojo",
+        "Badges_obtained": 0,
+        "Region": [
+            "Alola",
+            "Kanto",
+            "Unova",
+            "Kalos"
+        ]
+    },
+    {
+        "Trainer_ID": 86,
+        "Trainer_name": "Fantina",
+        "Pokemon_team": "Brilliant Diamond/Shining Pearl rematch",
+        "Badges_obtained": 3,
+        "Region": [
+            "Hoenn",
+            "Johto",
+            "Kanto",
+            "Galar",
+            "Kalos"
+        ]
+    },
+    {
+        "Trainer_ID": 87,
+        "Trainer_name": "Flannery",
+        "Pokemon_team": "Emerald fourth rematch",
+        "Badges_obtained": 4,
+        "Region": [
+            "Hoenn",
+            "Unova",
+            "Kanto",
+            "Johto",
+            "Hisui"
+        ]
+    },
+    {
+        "Trainer_ID": 88,
+        "Trainer_name": "Flint",
+        "Pokemon_team": "BDSP second rematch",
+        "Badges_obtained": 3,
+        "Region": [
+            "Sinnoh",
+            "Alola",
+            "Galar",
+            "Hisui",
+            "Johto"
+        ]
+    },
+    {
+        "Trainer_ID": 89,
+        "Trainer_name": "Folly",
+        "Pokemon_team": "Colosseum second rematch",
+        "Badges_obtained": 2,
+        "Region": [
+            "Unova"
+        ]
+    },
+    {
+        "Trainer_ID": 90,
+        "Trainer_name": "Gaeric",
+        "Pokemon_team": "Path of Tenacity, fifth clear",
+        "Badges_obtained": 1,
+        "Region": [
+            "Unova",
+            "Galar",
+            "Kalos",
+            "Sinnoh"
+        ]
+    },
+    {
+        "Trainer_ID": 91,
+        "Trainer_name": "Gardenia",
+        "Pokemon_team": "Brilliant Diamond/Shining Pearl rematch",
+        "Badges_obtained": 0,
+        "Region": [
+            "Kanto"
+        ]
+    },
+    {
+        "Trainer_ID": 92,
+        "Trainer_name": "Geeta",
+        "Pokemon_team": "Academy Ace Tournament",
+        "Badges_obtained": 2,
+        "Region": [
+            "Hoenn",
+            "Alola",
+            "Kanto",
+            "Johto"
+        ]
+    },
+    {
+        "Trainer_ID": 93,
+        "Trainer_name": "Ghetsis",
+        "Pokemon_team": "Rainbow Rocket",
+        "Badges_obtained": 0,
+        "Region": [
+            "Kalos",
+            "Paldea",
+            "Hoenn",
+            "Hisui"
+        ]
+    },
+    {
+        "Trainer_ID": 94,
+        "Trainer_name": "Giacomo",
+        "Pokemon_team": "Team Star rematch",
+        "Badges_obtained": 2,
+        "Region": [
+            "Kalos",
+            "Hoenn",
+            "Hisui",
+            "Paldea"
+        ]
+    },
+    {
+        "Trainer_ID": 95,
+        "Trainer_name": "Giovanni",
+        "Pokemon_team": "Rainbow Rocket",
+        "Badges_obtained": 4,
+        "Region": [
+            "Paldea",
+            "Hoenn",
+            "Hisui"
+        ]
+    },
+    {
+        "Trainer_ID": 96,
+        "Trainer_name": "Glacia",
+        "Pokemon_team": "ORAS League rematch",
+        "Badges_obtained": 3,
+        "Region": [
+            "Kanto",
+            "Hisui",
+            "Hoenn",
+            "Paldea"
+        ]
+    },
+    {
+        "Trainer_ID": 97,
+        "Trainer_name": "Gladion",
+        "Pokemon_team": "USUM Title Defense",
+        "Badges_obtained": 5,
+        "Region": [
+            "Paldea",
+            "Sinnoh",
+            "Alola"
+        ]
+    },
+    {
+        "Trainer_ID": 98,
+        "Trainer_name": "Gonzap",
+        "Pokemon_team": "Colosseum rematch",
+        "Badges_obtained": 2,
+        "Region": [
+            "Paldea",
+            "Kanto",
+            "Kalos",
+            "Galar",
+            "Hisui"
+        ]
+    },
+    {
+        "Trainer_ID": 99,
+        "Trainer_name": "Gordie",
+        "Pokemon_team": "Champion Cup post-GST",
+        "Badges_obtained": 2,
+        "Region": [
+            "Kanto",
+            "Sinnoh",
+            "Hoenn",
+            "Galar"
+        ]
+    },
+    {
+        "Trainer_ID": 100,
+        "Trainer_name": "Gorrigan",
+        "Pokemon_team": "Citadark Isle",
+        "Badges_obtained": 1,
+        "Region": [
+            "Hisui",
+            "Hoenn",
+            "Alola"
+        ]
+    },
+    {
+        "Trainer_ID": 101,
+        "Trainer_name": "Grant",
+        "Pokemon_team": "Battle Chateau",
+        "Badges_obtained": 1,
+        "Region": [
+            "Sinnoh",
+            "Hisui",
+            "Kanto",
+            "Kalos",
+            "Paldea"
+        ]
+    },
+    {
+        "Trainer_ID": 102,
+        "Trainer_name": "Green",
+        "Pokemon_team": "Cerulean City",
+        "Badges_obtained": 0,
+        "Region": [
+            "Hisui"
+        ]
+    },
+    {
+        "Trainer_ID": 103,
+        "Trainer_name": "Greevil",
+        "Pokemon_team": "Rematch after all Shadows snagged",
+        "Badges_obtained": 0,
+        "Region": [
+            "Alola",
+            "Sinnoh",
+            "Johto",
+            "Hoenn",
+            "Galar"
+        ]
+    },
+    {
+        "Trainer_ID": 104,
+        "Trainer_name": "Grimsley",
+        "Pokemon_team": "BW2 League Rematch, Challenge Mode",
+        "Badges_obtained": 4,
+        "Region": [
+            "Hisui",
+            "Hoenn",
+            "Kalos",
+            "Alola",
+            "Sinnoh"
+        ]
+    },
+    {
+        "Trainer_ID": 105,
+        "Trainer_name": "Grusha",
+        "Pokemon_team": "League Club",
+        "Badges_obtained": 5,
+        "Region": [
+            "Unova",
+            "Galar",
+            "Alola",
+            "Hisui",
+            "Sinnoh"
+        ]
+    },
+    {
+        "Trainer_ID": 106,
+        "Trainer_name": "Guzma",
+        "Pokemon_team": "USUM Title Defense",
+        "Badges_obtained": 0,
+        "Region": [
+            "Hisui"
+        ]
+    },
+    {
+        "Trainer_ID": 107,
+        "Trainer_name": "Hala",
+        "Pokemon_team": "SM Elite Four rematch",
+        "Badges_obtained": 1,
+        "Region": [
+            "Johto"
+        ]
+    },
+    {
+        "Trainer_ID": 108,
+        "Trainer_name": "Hapu",
+        "Pokemon_team": "USUM Title Defense",
+        "Badges_obtained": 0,
+        "Region": [
+            "Hoenn",
+            "Kanto",
+            "Galar",
+            "Hisui"
+        ]
+    },
+    {
+        "Trainer_ID": 109,
+        "Trainer_name": "Harjit",
+        "Pokemon_team": "Cerulean City Coach Trainer",
+        "Badges_obtained": 0,
+        "Region": [
+            "Sinnoh",
+            "Johto",
+            "Kalos"
+        ]
+    },
+    {
+        "Trainer_ID": 110,
+        "Trainer_name": "Hassel",
+        "Pokemon_team": "League Club",
+        "Badges_obtained": 3,
+        "Region": [
+            "Paldea",
+            "Sinnoh",
+            "Hisui",
+            "Johto"
+        ]
+    },
+    {
+        "Trainer_ID": 111,
+        "Trainer_name": "Hau",
+        "Pokemon_team": "USUM Title Defense",
+        "Badges_obtained": 0,
+        "Region": [
+            "Alola",
+            "Kalos",
+            "Johto"
+        ]
+    },
+    {
+        "Trainer_ID": 112,
+        "Trainer_name": "Honey",
+        "Pokemon_team": "Battle Court",
+        "Badges_obtained": 5,
+        "Region": [
+            "Paldea",
+            "Hoenn"
+        ]
+    },
+    {
+        "Trainer_ID": 113,
+        "Trainer_name": "Hop",
+        "Pokemon_team": "Slumbering Weald, round 2",
+        "Badges_obtained": 0,
+        "Region": [
+            "Unova"
+        ]
+    },
+    {
+        "Trainer_ID": 114,
+        "Trainer_name": "Hugh",
+        "Pokemon_team": "Driftveil City, challenge mode",
+        "Badges_obtained": 2,
+        "Region": [
+            "Galar"
+        ]
+    },
+    {
+        "Trainer_ID": 115,
+        "Trainer_name": "Ilima",
+        "Pokemon_team": "USUM rematch",
+        "Badges_obtained": 0,
+        "Region": [
+            "Paldea",
+            "Kalos",
+            "Kanto"
+        ]
+    },
+    {
+        "Trainer_ID": 116,
+        "Trainer_name": "Ingo",
+        "Pokemon_team": "Training Grounds \"but tougher\" team",
+        "Badges_obtained": 3,
+        "Region": [
+            "Galar",
+            "Unova",
+            "Hoenn",
+            "Johto",
+            "Kalos"
+        ]
+    },
+    {
+        "Trainer_ID": 117,
+        "Trainer_name": "Iono",
+        "Pokemon_team": "League Club",
+        "Badges_obtained": 1,
+        "Region": [
+            "Hoenn",
+            "Galar",
+            "Kalos",
+            "Johto"
+        ]
+    },
+    {
+        "Trainer_ID": 118,
+        "Trainer_name": "Irida",
+        "Pokemon_team": "Path of Tenacity, fifth clear",
+        "Badges_obtained": 3,
+        "Region": [
+            "Paldea",
+            "Sinnoh"
+        ]
+    },
+    {
+        "Trainer_ID": 119,
+        "Trainer_name": "Iris",
+        "Pokemon_team": "BW2 League Rematch, Challenge Mode",
+        "Badges_obtained": 2,
+        "Region": [
+            "Kanto",
+            "Hisui",
+            "Johto"
+        ]
+    },
+    {
+        "Trainer_ID": 120,
+        "Trainer_name": "Jacq",
+        "Pokemon_team": "League Club",
+        "Badges_obtained": 1,
+        "Region": [
+            "Sinnoh",
+            "Kanto"
+        ]
+    },
+    {
+        "Trainer_ID": 121,
+        "Trainer_name": "James",
+        "Pokemon_team": "LGPE Postgame Rematch",
+        "Badges_obtained": 3,
+        "Region": [
+            "Alola",
+            "Kanto"
+        ]
+    },
+    {
+        "Trainer_ID": 122,
+        "Trainer_name": "Janine",
+        "Pokemon_team": "HGSS Fighting Dojo",
+        "Badges_obtained": 1,
+        "Region": [
+            "Kalos"
+        ]
+    },
+    {
+        "Trainer_ID": 123,
+        "Trainer_name": "Jasmine",
+        "Pokemon_team": "HGSS Fighting Dojo",
+        "Badges_obtained": 2,
+        "Region": [
+            "Sinnoh",
+            "Johto",
+            "Galar",
+            "Kanto"
+        ]
+    },
+    {
+        "Trainer_ID": 124,
+        "Trainer_name": "Jessie",
+        "Pokemon_team": "LGPE Postgame Rematch",
+        "Badges_obtained": 5,
+        "Region": [
+            "Hisui"
+        ]
+    },
+    {
+        "Trainer_ID": 125,
+        "Trainer_name": "Joey",
+        "Pokemon_team": "HGSS fourth battle",
+        "Badges_obtained": 2,
+        "Region": [
+            "Hisui"
+        ]
+    },
+    {
+        "Trainer_ID": 126,
+        "Trainer_name": "Juan",
+        "Pokemon_team": "Emerald fourth rematch",
+        "Badges_obtained": 2,
+        "Region": [
+            "Paldea",
+            "Hisui",
+            "Galar",
+            "Alola"
+        ]
+    },
+    {
+        "Trainer_ID": 127,
+        "Trainer_name": "Jupiter",
+        "Pokemon_team": "Platinum Stark Mountain",
+        "Badges_obtained": 4,
+        "Region": [
+            "Galar",
+            "Hisui"
+        ]
+    },
+    {
+        "Trainer_ID": 128,
+        "Trainer_name": "Kabu",
+        "Pokemon_team": "Champion Cup post-GST",
+        "Badges_obtained": 3,
+        "Region": [
+            "Galar",
+            "Kalos",
+            "Hoenn",
+            "Johto",
+            "Unova"
+        ]
+    },
+    {
+        "Trainer_ID": 129,
+        "Trainer_name": "Kahili",
+        "Pokemon_team": "USUM Elite Four rematch",
+        "Badges_obtained": 1,
+        "Region": [
+            "Kalos",
+            "Unova",
+            "Kanto",
+            "Alola"
+        ]
+    },
+    {
+        "Trainer_ID": 130,
+        "Trainer_name": "Kamado",
+        "Pokemon_team": "Path of Tenacity, fifth clear",
+        "Badges_obtained": 5,
+        "Region": [
+            "Alola",
+            "Sinnoh"
+        ]
+    },
+    {
+        "Trainer_ID": 131,
+        "Trainer_name": "Karen",
+        "Pokemon_team": "HGSS League rematch",
+        "Badges_obtained": 3,
+        "Region": [
+            "Hoenn",
+            "Johto",
+            "Kalos"
+        ]
+    },
+    {
+        "Trainer_ID": 132,
+        "Trainer_name": "Katy",
+        "Pokemon_team": "League Club",
+        "Badges_obtained": 5,
+        "Region": [
+            "Alola"
+        ]
+    },
+    {
+        "Trainer_ID": 133,
+        "Trainer_name": "Kiawe",
+        "Pokemon_team": "USUM rematch",
+        "Badges_obtained": 4,
+        "Region": [
+            "Paldea",
+            "Unova",
+            "Alola",
+            "Hoenn",
+            "Sinnoh"
+        ]
+    },
+    {
+        "Trainer_ID": 134,
+        "Trainer_name": "Kieran",
+        "Pokemon_team": "League Club",
+        "Badges_obtained": 0,
+        "Region": [
+            "Hoenn",
+            "Paldea",
+            "Alola",
+            "Hisui"
+        ]
+    },
+    {
+        "Trainer_ID": 135,
+        "Trainer_name": "Klara",
+        "Pokemon_team": "Battle Court post-GST",
+        "Badges_obtained": 1,
+        "Region": [
+            "Paldea",
+            "Alola",
+            "Hoenn"
+        ]
+    },
+    {
+        "Trainer_ID": 136,
+        "Trainer_name": "Kofu",
+        "Pokemon_team": "League Club",
+        "Badges_obtained": 1,
+        "Region": [
+            "Hoenn"
+        ]
+    },
+    {
+        "Trainer_ID": 137,
+        "Trainer_name": "Koga",
+        "Pokemon_team": "HGSS League rematch",
+        "Badges_obtained": 3,
+        "Region": [
+            "Paldea",
+            "Johto",
+            "Kanto",
+            "Alola",
+            "Kalos"
+        ]
+    },
+    {
+        "Trainer_ID": 138,
+        "Trainer_name": "Korrina",
+        "Pokemon_team": "Battle Chateau",
+        "Badges_obtained": 5,
+        "Region": [
+            "Alola"
+        ]
+    },
+    {
+        "Trainer_ID": 139,
+        "Trainer_name": "Kukui",
+        "Pokemon_team": "USUM Title Defense",
+        "Badges_obtained": 5,
+        "Region": [
+            "Galar",
+            "Alola",
+            "Kanto",
+            "Hisui",
+            "Hoenn"
+        ]
+    },
+    {
+        "Trainer_ID": 140,
+        "Trainer_name": "Lacey",
+        "Pokemon_team": "League Club",
+        "Badges_obtained": 0,
+        "Region": [
+            "Kalos",
+            "Paldea"
+        ]
+    },
+    {
+        "Trainer_ID": 141,
+        "Trainer_name": "Lana",
+        "Pokemon_team": "USUM rematch",
+        "Badges_obtained": 5,
+        "Region": [
+            "Hoenn",
+            "Kanto",
+            "Galar",
+            "Kalos",
+            "Hisui"
+        ]
+    },
+    {
+        "Trainer_ID": 142,
+        "Trainer_name": "Lance",
+        "Pokemon_team": "HGSS League rematch",
+        "Badges_obtained": 5,
+        "Region": [
+            "Hoenn",
+            "Sinnoh"
+        ]
+    },
+    {
+        "Trainer_ID": 143,
+        "Trainer_name": "Larry",
+        "Pokemon_team": "League Club",
+        "Badges_obtained": 1,
+        "Region": [
+            "Kalos",
+            "Unova",
+            "Johto"
+        ]
+    },
+    {
+        "Trainer_ID": 144,
+        "Trainer_name": "Lenora",
+        "Pokemon_team": "BW Gym Battle",
+        "Badges_obtained": 0,
+        "Region": [
+            "Alola",
+            "Kanto"
+        ]
+    },
+    {
+        "Trainer_ID": 145,
+        "Trainer_name": "Leon",
+        "Pokemon_team": "Champion Cup post-GST",
+        "Badges_obtained": 3,
+        "Region": [
+            "Kalos",
+            "Kanto",
+            "Hisui",
+            "Hoenn",
+            "Johto"
+        ]
+    },
+    {
+        "Trainer_ID": 146,
+        "Trainer_name": "Lian",
+        "Pokemon_team": "Path of Tenacity, fifth clear",
+        "Badges_obtained": 4,
+        "Region": [
+            "Kanto"
+        ]
+    },
+    {
+        "Trainer_ID": 147,
+        "Trainer_name": "Lillie",
+        "Pokemon_team": "Aether Paradise",
+        "Badges_obtained": 0,
+        "Region": [
+            "Alola",
+            "Hoenn",
+            "Galar",
+            "Unova",
+            "Kanto"
+        ]
+    },
+    {
+        "Trainer_ID": 148,
+        "Trainer_name": "Lorelei",
+        "Pokemon_team": "FRLG League rematch",
+        "Badges_obtained": 1,
+        "Region": [
+            "Paldea",
+            "Hisui"
+        ]
+    },
+    {
+        "Trainer_ID": 149,
+        "Trainer_name": "Lovrina",
+        "Pokemon_team": "Citadark Isle",
+        "Badges_obtained": 2,
+        "Region": [
+            "Kanto",
+            "Hoenn",
+            "Johto",
+            "Galar",
+            "Hisui"
+        ]
+    },
+    {
+        "Trainer_ID": 150,
+        "Trainer_name": "Lt. Surge",
+        "Pokemon_team": "HGSS Fighting Dojo",
+        "Badges_obtained": 3,
+        "Region": [
+            "Kanto",
+            "Hisui"
+        ]
+    },
+    {
+        "Trainer_ID": 151,
+        "Trainer_name": "Lucian",
+        "Pokemon_team": "BDSP second rematch",
+        "Badges_obtained": 0,
+        "Region": [
+            "Kanto",
+            "Sinnoh",
+            "Kalos",
+            "Galar",
+            "Hoenn"
+        ]
+    },
+    {
+        "Trainer_ID": 152,
+        "Trainer_name": "Lusamine",
+        "Pokemon_team": "USUM Title Defense",
+        "Badges_obtained": 1,
+        "Region": [
+            "Hisui",
+            "Kalos"
+        ]
+    },
+    {
+        "Trainer_ID": 153,
+        "Trainer_name": "Lysandre",
+        "Pokemon_team": "Rainbow Rocket",
+        "Badges_obtained": 1,
+        "Region": [
+            "Alola",
+            "Kalos",
+            "Kanto"
+        ]
+    },
+    {
+        "Trainer_ID": 154,
+        "Trainer_name": "Mable",
+        "Pokemon_team": "Lysandre Labs",
+        "Badges_obtained": 4,
+        "Region": [
+            "Johto",
+            "Kalos",
+            "Unova",
+            "Kanto"
+        ]
+    },
+    {
+        "Trainer_ID": 155,
+        "Trainer_name": "Mai",
+        "Pokemon_team": "Training Grounds, request 102",
+        "Badges_obtained": 0,
+        "Region": [
+            "Johto",
+            "Alola"
+        ]
+    },
+    {
+        "Trainer_ID": 156,
+        "Trainer_name": "Mallow",
+        "Pokemon_team": "USUM rematch",
+        "Badges_obtained": 0,
+        "Region": [
+            "Unova",
+            "Paldea",
+            "Hoenn"
+        ]
+    },
+    {
+        "Trainer_ID": 157,
+        "Trainer_name": "Malva",
+        "Pokemon_team": "XY Pokemon League",
+        "Badges_obtained": 0,
+        "Region": [
+            "Kanto"
+        ]
+    },
+    {
+        "Trainer_ID": 158,
+        "Trainer_name": "Marley",
+        "Pokemon_team": "Battleground",
+        "Badges_obtained": 3,
+        "Region": [
+            "Johto",
+            "Alola",
+            "Galar"
+        ]
+    },
+    {
+        "Trainer_ID": 159,
+        "Trainer_name": "Marley",
+        "Pokemon_team": "Battleground",
+        "Badges_obtained": 5,
+        "Region": [
+            "Alola"
+        ]
+    },
+    {
+        "Trainer_ID": 160,
+        "Trainer_name": "Marlon",
+        "Pokemon_team": "BW2 Gym Battle, challenge mode",
+        "Badges_obtained": 1,
+        "Region": [
+            "Alola",
+            "Hoenn"
+        ]
+    },
+    {
+        "Trainer_ID": 161,
+        "Trainer_name": "Marnie",
+        "Pokemon_team": "Champion Cup post-GST",
+        "Badges_obtained": 0,
+        "Region": [
+            "Alola",
+            "Paldea",
+            "Johto"
+        ]
+    },
+    {
+        "Trainer_ID": 162,
+        "Trainer_name": "Mars",
+        "Pokemon_team": "Platinum Stark Mountain",
+        "Badges_obtained": 2,
+        "Region": [
+            "Hoenn",
+            "Hisui",
+            "Kalos"
+        ]
+    },
+    {
+        "Trainer_ID": 163,
+        "Trainer_name": "Marshall",
+        "Pokemon_team": "BW2 League Rematch, Challenge Mode",
+        "Badges_obtained": 0,
+        "Region": [
+            "Alola",
+            "Sinnoh",
+            "Paldea",
+            "Johto",
+            "Hisui"
+        ]
+    },
+    {
+        "Trainer_ID": 164,
+        "Trainer_name": "Master Trainer",
+        "Pokemon_team": "7 strongest Master Trainers",
+        "Badges_obtained": 0,
+        "Region": [
+            "Kalos",
+            "Hisui",
+            "Hoenn",
+            "Johto"
+        ]
+    },
+    {
+        "Trainer_ID": 165,
+        "Trainer_name": "Matt",
+        "Pokemon_team": "Sapphire Aqua Hideout",
+        "Badges_obtained": 3,
+        "Region": [
+            "Hisui"
+        ]
+    },
+    {
+        "Trainer_ID": 166,
+        "Trainer_name": "Maxie",
+        "Pokemon_team": "Rainbow Rocket",
+        "Badges_obtained": 4,
+        "Region": [
+            "Alola",
+            "Paldea",
+            "Sinnoh"
+        ]
+    },
+    {
+        "Trainer_ID": 167,
+        "Trainer_name": "May/Brendan",
+        "Pokemon_team": "ORAS Route 103, credits",
+        "Badges_obtained": 4,
+        "Region": [
+            "Johto"
+        ]
+    },
+    {
+        "Trainer_ID": 168,
+        "Trainer_name": "Maylene",
+        "Pokemon_team": "Brilliant Diamond/Shining Pearl rematch",
+        "Badges_obtained": 1,
+        "Region": [
+            "Johto",
+            "Hisui",
+            "Galar",
+            "Kalos",
+            "Hoenn"
+        ]
+    },
+    {
+        "Trainer_ID": 169,
+        "Trainer_name": "Mela",
+        "Pokemon_team": "Team Star rematch",
+        "Badges_obtained": 3,
+        "Region": [
+            "Kanto",
+            "Sinnoh"
+        ]
+    },
+    {
+        "Trainer_ID": 170,
+        "Trainer_name": "Melli",
+        "Pokemon_team": "Path of Tenacity, fifth clear",
+        "Badges_obtained": 5,
+        "Region": [
+            "Kanto",
+            "Kalos",
+            "Hoenn",
+            "Sinnoh",
+            "Unova"
+        ]
+    },
+    {
+        "Trainer_ID": 171,
+        "Trainer_name": "Melony",
+        "Pokemon_team": "Champion Cup post-GST",
+        "Badges_obtained": 4,
+        "Region": [
+            "Hoenn",
+            "Alola"
+        ]
+    },
+    {
+        "Trainer_ID": 172,
+        "Trainer_name": "Milo",
+        "Pokemon_team": "Champion Cup post-GST",
+        "Badges_obtained": 3,
+        "Region": [
+            "Hisui",
+            "Kalos"
+        ]
+    },
+    {
+        "Trainer_ID": 173,
+        "Trainer_name": "Mina",
+        "Pokemon_team": "Poni Gauntlet",
+        "Badges_obtained": 3,
+        "Region": [
+            "Kanto",
+            "Paldea",
+            "Hisui",
+            "Hoenn",
+            "Sinnoh"
+        ]
+    },
+    {
+        "Trainer_ID": 174,
+        "Trainer_name": "Mira",
+        "Pokemon_team": "Battleground",
+        "Badges_obtained": 5,
+        "Region": [
+            "Kanto",
+            "Hoenn"
+        ]
+    },
+    {
+        "Trainer_ID": 175,
+        "Trainer_name": "Mira",
+        "Pokemon_team": "Battleground",
+        "Badges_obtained": 1,
+        "Region": [
+            "Galar",
+            "Paldea",
+            "Alola",
+            "Hoenn"
+        ]
+    },
+    {
+        "Trainer_ID": 176,
+        "Trainer_name": "Mirakle B.",
+        "Pokemon_team": "Pyrite Cave",
+        "Badges_obtained": 3,
+        "Region": [
+            "Kalos",
+            "Paldea"
+        ]
+    },
+    {
+        "Trainer_ID": 177,
+        "Trainer_name": "Miriam",
+        "Pokemon_team": "League Club",
+        "Badges_obtained": 4,
+        "Region": [
+            "Kalos",
+            "Paldea"
+        ]
+    },
+    {
+        "Trainer_ID": 178,
+        "Trainer_name": "Miror B.",
+        "Pokemon_team": "Gateon Port",
+        "Badges_obtained": 3,
+        "Region": [
+            "Paldea"
+        ]
+    },
+    {
+        "Trainer_ID": 179,
+        "Trainer_name": "Misty",
+        "Pokemon_team": "HGSS Fighting Dojo",
+        "Badges_obtained": 0,
+        "Region": [
+            "Hisui",
+            "Alola",
+            "Hoenn",
+            "Paldea"
+        ]
+    },
+    {
+        "Trainer_ID": 180,
+        "Trainer_name": "Molayne",
+        "Pokemon_team": "USUM Elite Four rematch",
+        "Badges_obtained": 1,
+        "Region": [
+            "Paldea",
+            "Kanto"
+        ]
+    },
+    {
+        "Trainer_ID": 181,
+        "Trainer_name": "Morimoto",
+        "Pokemon_team": "BW2 post-Hall of Fame, Challenge Mode",
+        "Badges_obtained": 0,
+        "Region": [
+            "Paldea",
+            "Galar",
+            "Kalos",
+            "Hoenn",
+            "Alola"
+        ]
+    },
+    {
+        "Trainer_ID": 182,
+        "Trainer_name": "Morty",
+        "Pokemon_team": "HGSS Fighting Dojo",
+        "Badges_obtained": 3,
+        "Region": [
+            "Galar",
+            "Paldea",
+            "Sinnoh",
+            "Johto"
+        ]
+    },
+    {
+        "Trainer_ID": 183,
+        "Trainer_name": "Mustard",
+        "Pokemon_team": "Battle Court post-GST",
+        "Badges_obtained": 5,
+        "Region": [
+            "Alola",
+            "Paldea",
+            "Kanto",
+            "Unova"
+        ]
+    },
+    {
+        "Trainer_ID": 184,
+        "Trainer_name": "N",
+        "Pokemon_team": "BW2 Season Battles, Challenge Mode",
+        "Badges_obtained": 0,
+        "Region": [
+            "Sinnoh",
+            "Alola",
+            "Johto",
+            "Paldea"
+        ]
+    },
+    {
+        "Trainer_ID": 185,
+        "Trainer_name": "Nanu",
+        "Pokemon_team": "Seafolk Village",
+        "Badges_obtained": 3,
+        "Region": [
+            "Sinnoh",
+            "Paldea",
+            "Hisui",
+            "Kanto",
+            "Unova"
+        ]
+    },
+    {
+        "Trainer_ID": 186,
+        "Trainer_name": "Nascour",
+        "Pokemon_team": "Tower Colosseum rematch",
+        "Badges_obtained": 5,
+        "Region": [
+            "Hisui",
+            "Galar"
+        ]
+    },
+    {
+        "Trainer_ID": 187,
+        "Trainer_name": "Nemona",
+        "Pokemon_team": "League Club",
+        "Badges_obtained": 0,
+        "Region": [
+            "Kanto",
+            "Unova",
+            "Johto",
+            "Kalos",
+            "Galar"
+        ]
+    },
+    {
+        "Trainer_ID": 188,
+        "Trainer_name": "Nessa",
+        "Pokemon_team": "Champion Cup post-GST",
+        "Badges_obtained": 1,
+        "Region": [
+            "Unova",
+            "Hoenn",
+            "Alola",
+            "Paldea",
+            "Hisui"
+        ]
+    },
+    {
+        "Trainer_ID": 189,
+        "Trainer_name": "Norman",
+        "Pokemon_team": "Emerald fourth rematch",
+        "Badges_obtained": 4,
+        "Region": [
+            "Kalos"
+        ]
+    },
+    {
+        "Trainer_ID": 190,
+        "Trainer_name": "Oleana",
+        "Pokemon_team": "Rose Tower",
+        "Badges_obtained": 1,
+        "Region": [
+            "Johto",
+            "Paldea",
+            "Sinnoh",
+            "Hisui"
+        ]
+    },
+    {
+        "Trainer_ID": 191,
+        "Trainer_name": "Olivia",
+        "Pokemon_team": "USUM Elite Four rematch",
+        "Badges_obtained": 5,
+        "Region": [
+            "Hoenn",
+            "Unova",
+            "Galar",
+            "Johto",
+            "Paldea"
+        ]
+    },
+    {
+        "Trainer_ID": 192,
+        "Trainer_name": "Olympia",
+        "Pokemon_team": "Battle Chateau",
+        "Badges_obtained": 0,
+        "Region": [
+            "Hoenn",
+            "Paldea",
+            "Alola"
+        ]
+    },
+    {
+        "Trainer_ID": 193,
+        "Trainer_name": "Opal",
+        "Pokemon_team": "Champion Cup post-GST",
+        "Badges_obtained": 3,
+        "Region": [
+            "Kanto",
+            "Paldea",
+            "Hoenn"
+        ]
+    },
+    {
+        "Trainer_ID": 194,
+        "Trainer_name": "Ortega",
+        "Pokemon_team": "Team Star rematch",
+        "Badges_obtained": 4,
+        "Region": [
+            "Hoenn",
+            "Unova",
+            "Sinnoh",
+            "Kanto"
+        ]
+    },
+    {
+        "Trainer_ID": 195,
+        "Trainer_name": "Penny",
+        "Pokemon_team": "League Club",
+        "Badges_obtained": 2,
+        "Region": [
+            "Hisui",
+            "Unova",
+            "Galar",
+            "Alola",
+            "Paldea"
+        ]
+    },
+    {
+        "Trainer_ID": 196,
+        "Trainer_name": "Peony",
+        "Pokemon_team": "Max Lair",
+        "Badges_obtained": 3,
+        "Region": [
+            "Unova",
+            "Paldea",
+            "Alola"
+        ]
+    },
+    {
+        "Trainer_ID": 197,
+        "Trainer_name": "Petrel",
+        "Pokemon_team": "HGSS Radio Tower",
+        "Badges_obtained": 0,
+        "Region": [
+            "Paldea",
+            "Alola",
+            "Hisui"
+        ]
+    },
+    {
+        "Trainer_ID": 198,
+        "Trainer_name": "Phoebe",
+        "Pokemon_team": "ORAS League rematch",
+        "Badges_obtained": 5,
+        "Region": [
+            "Galar",
+            "Johto",
+            "Hisui",
+            "Hoenn",
+            "Paldea"
+        ]
+    },
+    {
+        "Trainer_ID": 199,
+        "Trainer_name": "Piers",
+        "Pokemon_team": "Champion Cup post-GST",
+        "Badges_obtained": 0,
+        "Region": [
+            "Sinnoh",
+            "Kalos"
+        ]
+    },
+    {
+        "Trainer_ID": 200,
+        "Trainer_name": "Plumeria",
+        "Pokemon_team": "USUM Title Defense",
+        "Badges_obtained": 2,
+        "Region": [
+            "Alola",
+            "Johto",
+            "Hisui",
+            "Sinnoh"
+        ]
+    },
+    {
+        "Trainer_ID": 201,
+        "Trainer_name": "Poppy",
+        "Pokemon_team": "SV Elite Four",
+        "Badges_obtained": 5,
+        "Region": [
+            "Johto",
+            "Hoenn",
+            "Alola",
+            "Paldea"
+        ]
+    },
+    {
+        "Trainer_ID": 202,
+        "Trainer_name": "Proton",
+        "Pokemon_team": "HGSS Radio Tower",
+        "Badges_obtained": 5,
+        "Region": [
+            "Hisui",
+            "Hoenn",
+            "Johto",
+            "Galar"
+        ]
+    },
+    {
+        "Trainer_ID": 203,
+        "Trainer_name": "Pryce",
+        "Pokemon_team": "HGSS Fighting Dojo",
+        "Badges_obtained": 3,
+        "Region": [
+            "Alola",
+            "Sinnoh"
+        ]
+    },
+    {
+        "Trainer_ID": 204,
+        "Trainer_name": "Raifort",
+        "Pokemon_team": "League Club",
+        "Badges_obtained": 2,
+        "Region": [
+            "Johto",
+            "Galar",
+            "Hoenn"
+        ]
+    },
+    {
+        "Trainer_ID": 205,
+        "Trainer_name": "Raihan",
+        "Pokemon_team": "Champion Cup post-GST",
+        "Badges_obtained": 5,
+        "Region": [
+            "Alola",
+            "Hoenn",
+            "Unova",
+            "Kanto",
+            "Hisui"
+        ]
+    },
+    {
+        "Trainer_ID": 206,
+        "Trainer_name": "Ramos",
+        "Pokemon_team": "Battle Chateau",
+        "Badges_obtained": 5,
+        "Region": [
+            "Paldea",
+            "Galar"
+        ]
+    },
+    {
+        "Trainer_ID": 207,
+        "Trainer_name": "Red",
+        "Pokemon_team": "Let's Go Pikachu/Eevee",
+        "Badges_obtained": 5,
+        "Region": [
+            "Hoenn",
+            "Hisui"
+        ]
+    },
+    {
+        "Trainer_ID": 208,
+        "Trainer_name": "Rika",
+        "Pokemon_team": "League Club",
+        "Badges_obtained": 2,
+        "Region": [
+            "Alola",
+            "Hoenn",
+            "Sinnoh",
+            "Unova"
+        ]
+    },
+    {
+        "Trainer_ID": 209,
+        "Trainer_name": "Riley",
+        "Pokemon_team": "Battleground",
+        "Badges_obtained": 0,
+        "Region": [
+            "Hisui",
+            "Galar"
+        ]
+    },
+    {
+        "Trainer_ID": 210,
+        "Trainer_name": "Riley",
+        "Pokemon_team": "Battleground",
+        "Badges_obtained": 4,
+        "Region": [
+            "Unova",
+            "Paldea",
+            "Alola",
+            "Sinnoh",
+            "Kalos"
+        ]
+    },
+    {
+        "Trainer_ID": 211,
+        "Trainer_name": "Roark",
+        "Pokemon_team": "Brilliant Diamond/Shining Pearl rematch",
+        "Badges_obtained": 2,
+        "Region": [
+            "Kalos"
+        ]
+    },
+    {
+        "Trainer_ID": 212,
+        "Trainer_name": "Rose",
+        "Pokemon_team": "Energy Plant",
+        "Badges_obtained": 0,
+        "Region": [
+            "Johto",
+            "Kanto",
+            "Hisui",
+            "Sinnoh",
+            "Galar"
+        ]
+    },
+    {
+        "Trainer_ID": 213,
+        "Trainer_name": "Roxanne",
+        "Pokemon_team": "Emerald fourth rematch",
+        "Badges_obtained": 3,
+        "Region": [
+            "Galar",
+            "Paldea"
+        ]
+    },
+    {
+        "Trainer_ID": 214,
+        "Trainer_name": "Roxie",
+        "Pokemon_team": "BW2 Gym Battle, challenge mode",
+        "Badges_obtained": 0,
+        "Region": [
+            "Hisui"
+        ]
+    },
+    {
+        "Trainer_ID": 215,
+        "Trainer_name": "Rye",
+        "Pokemon_team": "Training Grounds, request 88",
+        "Badges_obtained": 5,
+        "Region": [
+            "Kalos",
+            "Hisui",
+            "Paldea",
+            "Alola",
+            "Johto"
+        ]
+    },
+    {
+        "Trainer_ID": 216,
+        "Trainer_name": "Ryme",
+        "Pokemon_team": "League Club",
+        "Badges_obtained": 3,
+        "Region": [
+            "Galar",
+            "Johto",
+            "Unova"
+        ]
+    },
+    {
+        "Trainer_ID": 217,
+        "Trainer_name": "Ryuki",
+        "Pokemon_team": "USUM Title Defense",
+        "Badges_obtained": 3,
+        "Region": [
+            "Alola",
+            "Johto",
+            "Sinnoh",
+            "Paldea",
+            "Kanto"
+        ]
+    },
+    {
+        "Trainer_ID": 218,
+        "Trainer_name": "Sabi",
+        "Pokemon_team": "Rematch, post-request 102",
+        "Badges_obtained": 2,
+        "Region": [
+            "Hisui",
+            "Sinnoh",
+            "Johto",
+            "Galar"
+        ]
+    },
+    {
+        "Trainer_ID": 219,
+        "Trainer_name": "Sabrina",
+        "Pokemon_team": "HGSS Fighting Dojo",
+        "Badges_obtained": 0,
+        "Region": [
+            "Kalos",
+            "Galar",
+            "Hisui",
+            "Paldea"
+        ]
+    },
+    {
+        "Trainer_ID": 220,
+        "Trainer_name": "Sada",
+        "Pokemon_team": "Area Zero",
+        "Badges_obtained": 3,
+        "Region": [
+            "Unova",
+            "Hoenn"
+        ]
+    },
+    {
+        "Trainer_ID": 221,
+        "Trainer_name": "Saguaro",
+        "Pokemon_team": "League Club",
+        "Badges_obtained": 0,
+        "Region": [
+            "Johto",
+            "Kalos",
+            "Hoenn"
+        ]
+    },
+    {
+        "Trainer_ID": 222,
+        "Trainer_name": "Salvatore",
+        "Pokemon_team": "League Club",
+        "Badges_obtained": 2,
+        "Region": [
+            "Kalos"
+        ]
+    },
+    {
+        "Trainer_ID": 223,
+        "Trainer_name": "Saturn",
+        "Pokemon_team": "Platinum Galactic HQ",
+        "Badges_obtained": 3,
+        "Region": [
+            "Unova",
+            "Kalos",
+            "Hoenn",
+            "Johto"
+        ]
+    },
+    {
+        "Trainer_ID": 224,
+        "Trainer_name": "Serena/Calem",
+        "Pokemon_team": "Kiloude City",
+        "Badges_obtained": 3,
+        "Region": [
+            "Galar",
+            "Sinnoh"
+        ]
+    },
+    {
+        "Trainer_ID": 225,
+        "Trainer_name": "Shadow Triad",
+        "Pokemon_team": "Icirrus City rematch, Challenge Mode",
+        "Badges_obtained": 4,
+        "Region": [
+            "Sinnoh",
+            "Unova",
+            "Hoenn",
+            "Alola"
+        ]
+    },
+    {
+        "Trainer_ID": 226,
+        "Trainer_name": "Shaun",
+        "Pokemon_team": "BW2 Wellspring Cave, challenge mode",
+        "Badges_obtained": 5,
+        "Region": [
+            "Galar",
+            "Unova"
+        ]
+    },
+    {
+        "Trainer_ID": 227,
+        "Trainer_name": "Shauna",
+        "Pokemon_team": "XY Route 19",
+        "Badges_obtained": 3,
+        "Region": [
+            "Galar",
+            "Paldea",
+            "Unova",
+            "Hisui"
+        ]
+    },
+    {
+        "Trainer_ID": 228,
+        "Trainer_name": "Shauntal",
+        "Pokemon_team": "BW2 League Rematch, Challenge Mode",
+        "Badges_obtained": 2,
+        "Region": [
+            "Alola"
+        ]
+    },
+    {
+        "Trainer_ID": 229,
+        "Trainer_name": "Shelly",
+        "Pokemon_team": "Emerald Seafloor Cavern",
+        "Badges_obtained": 1,
+        "Region": [
+            "Galar"
+        ]
+    },
+    {
+        "Trainer_ID": 230,
+        "Trainer_name": "Shielbert",
+        "Pokemon_team": "Energy Plant",
+        "Badges_obtained": 1,
+        "Region": [
+            "Alola",
+            "Kalos",
+            "Sinnoh",
+            "Galar",
+            "Kanto"
+        ]
+    },
+    {
+        "Trainer_ID": 231,
+        "Trainer_name": "Sidney",
+        "Pokemon_team": "ORAS League rematch",
+        "Badges_obtained": 3,
+        "Region": [
+            "Unova",
+            "Sinnoh",
+            "Alola"
+        ]
+    },
+    {
+        "Trainer_ID": 232,
+        "Trainer_name": "Siebold",
+        "Pokemon_team": "XY Pokemon League",
+        "Badges_obtained": 3,
+        "Region": [
+            "Johto",
+            "Unova",
+            "Galar",
+            "Paldea"
+        ]
+    },
+    {
+        "Trainer_ID": 233,
+        "Trainer_name": "Silver",
+        "Pokemon_team": "HGSS Indigo Plateau (Mon/Wed)",
+        "Badges_obtained": 1,
+        "Region": [
+            "Paldea"
+        ]
+    },
+    {
+        "Trainer_ID": 234,
+        "Trainer_name": "Sina",
+        "Pokemon_team": "Heahea City",
+        "Badges_obtained": 2,
+        "Region": [
+            "Hoenn",
+            "Sinnoh",
+            "Johto",
+            "Alola"
+        ]
+    },
+    {
+        "Trainer_ID": 235,
+        "Trainer_name": "Skyla",
+        "Pokemon_team": "BW2 Gym Battle, challenge mode",
+        "Badges_obtained": 4,
+        "Region": [
+            "Unova",
+            "Galar",
+            "Kanto",
+            "Johto",
+            "Hoenn"
+        ]
+    },
+    {
+        "Trainer_ID": 236,
+        "Trainer_name": "Snattle",
+        "Pokemon_team": "Citadark Isle",
+        "Badges_obtained": 3,
+        "Region": [
+            "Hoenn",
+            "Galar",
+            "Unova",
+            "Kalos",
+            "Sinnoh"
+        ]
+    },
+    {
+        "Trainer_ID": 237,
+        "Trainer_name": "Soliera",
+        "Pokemon_team": "Vast Poni Canyon",
+        "Badges_obtained": 4,
+        "Region": [
+            "Unova",
+            "Sinnoh",
+            "Kanto"
+        ]
+    },
+    {
+        "Trainer_ID": 238,
+        "Trainer_name": "Sophocles",
+        "Pokemon_team": "USUM Title Defense",
+        "Badges_obtained": 1,
+        "Region": [
+            "Johto",
+            "Hoenn",
+            "Alola"
+        ]
+    },
+    {
+        "Trainer_ID": 239,
+        "Trainer_name": "Sordward",
+        "Pokemon_team": "Energy Plant",
+        "Badges_obtained": 5,
+        "Region": [
+            "Kanto",
+            "Johto"
+        ]
+    },
+    {
+        "Trainer_ID": 240,
+        "Trainer_name": "Steven Stone",
+        "Pokemon_team": "ORAS League rematch",
+        "Badges_obtained": 5,
+        "Region": [
+            "Hisui"
+        ]
+    },
+    {
+        "Trainer_ID": 241,
+        "Trainer_name": "Sycamore",
+        "Pokemon_team": "Couriway Town",
+        "Badges_obtained": 4,
+        "Region": [
+            "Galar",
+            "Sinnoh"
+        ]
+    },
+    {
+        "Trainer_ID": 242,
+        "Trainer_name": "Tabitha",
+        "Pokemon_team": "Emerald Magma Hideout",
+        "Badges_obtained": 5,
+        "Region": [
+            "Unova",
+            "Galar",
+            "Alola",
+            "Paldea",
+            "Johto"
+        ]
+    },
+    {
+        "Trainer_ID": 243,
+        "Trainer_name": "Tate/Liza",
+        "Pokemon_team": "Emerald fourth rematch",
+        "Badges_obtained": 5,
+        "Region": [
+            "Unova",
+            "Galar",
+            "Hisui",
+            "Kalos",
+            "Sinnoh"
+        ]
+    },
+    {
+        "Trainer_ID": 244,
+        "Trainer_name": "Tierno",
+        "Pokemon_team": "XY Route 19",
+        "Badges_obtained": 2,
+        "Region": [
+            "Paldea",
+            "Kanto"
+        ]
+    },
+    {
+        "Trainer_ID": 245,
+        "Trainer_name": "Trace",
+        "Pokemon_team": "LGPE League Rematch",
+        "Badges_obtained": 4,
+        "Region": [
+            "Johto"
+        ]
+    },
+    {
+        "Trainer_ID": 246,
+        "Trainer_name": "Trevor",
+        "Pokemon_team": "XY Route 19",
+        "Badges_obtained": 4,
+        "Region": [
+            "Hisui",
+            "Alola",
+            "Hoenn",
+            "Johto"
+        ]
+    },
+    {
+        "Trainer_ID": 247,
+        "Trainer_name": "Tristan",
+        "Pokemon_team": "USUM Title Defense",
+        "Badges_obtained": 5,
+        "Region": [
+            "Paldea",
+            "Galar"
+        ]
+    },
+    {
+        "Trainer_ID": 248,
+        "Trainer_name": "Trudly",
+        "Pokemon_team": "Colosseum rematch",
+        "Badges_obtained": 1,
+        "Region": [
+            "Sinnoh",
+            "Kanto",
+            "Galar",
+            "Kalos"
+        ]
+    },
+    {
+        "Trainer_ID": 249,
+        "Trainer_name": "Tulip",
+        "Pokemon_team": "League Club",
+        "Badges_obtained": 4,
+        "Region": [
+            "Unova",
+            "Sinnoh",
+            "Hoenn",
+            "Hisui"
+        ]
+    },
+    {
+        "Trainer_ID": 250,
+        "Trainer_name": "Turo",
+        "Pokemon_team": "Area Zero",
+        "Badges_obtained": 4,
+        "Region": [
+            "Unova",
+            "Sinnoh"
+        ]
+    },
+    {
+        "Trainer_ID": 251,
+        "Trainer_name": "Tyme",
+        "Pokemon_team": "League Club",
+        "Badges_obtained": 5,
+        "Region": [
+            "Unova",
+            "Alola",
+            "Kanto",
+            "Kalos"
+        ]
+    },
+    {
+        "Trainer_ID": 252,
+        "Trainer_name": "Valerie",
+        "Pokemon_team": "Battle Chateau",
+        "Badges_obtained": 1,
+        "Region": [
+            "Sinnoh",
+            "Hoenn"
+        ]
+    },
+    {
+        "Trainer_ID": 253,
+        "Trainer_name": "Venus",
+        "Pokemon_team": "Deep Colosseum",
+        "Badges_obtained": 1,
+        "Region": [
+            "Hisui",
+            "Hoenn",
+            "Sinnoh"
+        ]
+    },
+    {
+        "Trainer_ID": 254,
+        "Trainer_name": "Viola",
+        "Pokemon_team": "Battle Chateau",
+        "Badges_obtained": 2,
+        "Region": [
+            "Kanto",
+            "Johto",
+            "Hoenn"
+        ]
+    },
+    {
+        "Trainer_ID": 255,
+        "Trainer_name": "Volkner",
+        "Pokemon_team": "Brilliant Diamond/Shining Pearl rematch",
+        "Badges_obtained": 5,
+        "Region": [
+            "Johto"
+        ]
+    },
+    {
+        "Trainer_ID": 256,
+        "Trainer_name": "Volo",
+        "Pokemon_team": "Temple of Sinnoh",
+        "Badges_obtained": 0,
+        "Region": [
+            "Kalos",
+            "Hisui"
+        ]
+    },
+    {
+        "Trainer_ID": 257,
+        "Trainer_name": "Wallace",
+        "Pokemon_team": "Emerald Pokemon League",
+        "Badges_obtained": 1,
+        "Region": [
+            "Sinnoh",
+            "Hoenn",
+            "Johto",
+            "Unova"
+        ]
+    },
+    {
+        "Trainer_ID": 258,
+        "Trainer_name": "Wally",
+        "Pokemon_team": "Battle Maison, fourth battle",
+        "Badges_obtained": 4,
+        "Region": [
+            "Johto"
+        ]
+    },
+    {
+        "Trainer_ID": 259,
+        "Trainer_name": "Wattson",
+        "Pokemon_team": "Emerald fourth rematch",
+        "Badges_obtained": 0,
+        "Region": [
+            "Kalos",
+            "Alola",
+            "Hisui",
+            "Johto",
+            "Sinnoh"
+        ]
+    },
+    {
+        "Trainer_ID": 260,
+        "Trainer_name": "Whitney",
+        "Pokemon_team": "HGSS Fighting Dojo",
+        "Badges_obtained": 5,
+        "Region": [
+            "Alola",
+            "Kalos",
+            "Galar"
+        ]
+    },
+    {
+        "Trainer_ID": 261,
+        "Trainer_name": "Wikstrom",
+        "Pokemon_team": "XY Pokemon League",
+        "Badges_obtained": 2,
+        "Region": [
+            "Unova"
+        ]
+    },
+    {
+        "Trainer_ID": 262,
+        "Trainer_name": "Will",
+        "Pokemon_team": "HGSS League rematch",
+        "Badges_obtained": 4,
+        "Region": [
+            "Galar",
+            "Kalos",
+            "Hoenn"
+        ]
+    },
+    {
+        "Trainer_ID": 263,
+        "Trainer_name": "Willie",
+        "Pokemon_team": "XD rematch",
+        "Badges_obtained": 1,
+        "Region": [
+            "Galar"
+        ]
+    },
+    {
+        "Trainer_ID": 264,
+        "Trainer_name": "Winona",
+        "Pokemon_team": "Emerald fourth rematch",
+        "Badges_obtained": 1,
+        "Region": [
+            "Hisui",
+            "Hoenn",
+            "Galar",
+            "Johto"
+        ]
+    },
+    {
+        "Trainer_ID": 265,
+        "Trainer_name": "Wulfric",
+        "Pokemon_team": "XY Gym Battle",
+        "Badges_obtained": 4,
+        "Region": [
+            "Kalos",
+            "Alola"
+        ]
+    },
+    {
+        "Trainer_ID": 266,
+        "Trainer_name": "Xerosic",
+        "Pokemon_team": "Lysandre Labs",
+        "Badges_obtained": 1,
+        "Region": [
+            "Alola",
+            "Hoenn",
+            "Unova",
+            "Hisui"
+        ]
+    },
+    {
+        "Trainer_ID": 267,
+        "Trainer_name": "Zinnia",
+        "Pokemon_team": "Sky Pillar",
+        "Badges_obtained": 4,
+        "Region": [
+            "Johto"
+        ]
+    },
+    {
+        "Trainer_ID": 268,
+        "Trainer_name": "Zinzolin",
+        "Pokemon_team": "Plasma Frigate rematch, Challenge Mode",
+        "Badges_obtained": 4,
+        "Region": [
+            "Alola",
+            "Hisui",
+            "Kanto"
+        ]
+    },
+    {
+        "Trainer_ID": 269,
+        "Trainer_name": "Zisu",
+        "Pokemon_team": "Path of Tenacity, fifth clear",
+        "Badges_obtained": 3,
+        "Region": [
+            "Johto",
+            "Galar",
+            "Kalos"
+        ]
+    }
+]

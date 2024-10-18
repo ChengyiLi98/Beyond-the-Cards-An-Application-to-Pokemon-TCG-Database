@@ -1,0 +1,381 @@
+[
+    {
+        "Type_ID": 1,
+        "Type_name": "Normal",
+        "Super_effective_against": [],
+        "Not_effective_against": [
+            13,
+            17
+        ],
+        "No_effect": [
+            14
+        ],
+        "Weakness": [
+            7
+        ]
+    },
+    {
+        "Type_ID": 2,
+        "Type_name": "Fire",
+        "Super_effective_against": [
+            5,
+            6,
+            12,
+            17
+        ],
+        "Not_effective_against": [
+            2,
+            3,
+            13,
+            15
+        ],
+        "No_effect": [],
+        "Weakness": [
+            3,
+            13,
+            9
+        ]
+    },
+    {
+        "Type_ID": 3,
+        "Type_name": "Water",
+        "Super_effective_against": [
+            2,
+            9,
+            13
+        ],
+        "Not_effective_against": [
+            3,
+            5,
+            15
+        ],
+        "No_effect": [],
+        "Weakness": [
+            4,
+            5
+        ]
+    },
+    {
+        "Type_ID": 4,
+        "Type_name": "Electric",
+        "Super_effective_against": [
+            3,
+            10
+        ],
+        "Not_effective_against": [
+            4,
+            5,
+            15
+        ],
+        "No_effect": [
+            9
+        ],
+        "Weakness": [
+            9
+        ]
+    },
+    {
+        "Type_ID": 5,
+        "Type_name": "Grass",
+        "Super_effective_against": [
+            3,
+            9,
+            13
+        ],
+        "Not_effective_against": [
+            2,
+            5,
+            8,
+            10,
+            12,
+            15,
+            17
+        ],
+        "No_effect": [],
+        "Weakness": [
+            2,
+            6,
+            8,
+            10,
+            12
+        ]
+    },
+    {
+        "Type_ID": 6,
+        "Type_name": "Ice",
+        "Super_effective_against": [
+            5,
+            9,
+            10,
+            15
+        ],
+        "Not_effective_against": [
+            3,
+            6,
+            17
+        ],
+        "No_effect": [],
+        "Weakness": [
+            2,
+            7,
+            13,
+            17
+        ]
+    },
+    {
+        "Type_ID": 7,
+        "Type_name": "Fighting",
+        "Super_effective_against": [
+            1,
+            6,
+            13,
+            16,
+            17
+        ],
+        "Not_effective_against": [
+            8,
+            10,
+            11,
+            12
+        ],
+        "No_effect": [
+            14
+        ],
+        "Weakness": [
+            10,
+            11,
+            18
+        ]
+    },
+    {
+        "Type_ID": 8,
+        "Type_name": "Poison",
+        "Super_effective_against": [
+            5,
+            18
+        ],
+        "Not_effective_against": [
+            8,
+            9,
+            13,
+            14
+        ],
+        "No_effect": [
+            17
+        ],
+        "Weakness": [
+            9,
+            11
+        ]
+    },
+    {
+        "Type_ID": 9,
+        "Type_name": "Ground",
+        "Super_effective_against": [
+            2,
+            4,
+            8,
+            13,
+            17
+        ],
+        "Not_effective_against": [
+            5,
+            12
+        ],
+        "No_effect": [
+            10
+        ],
+        "Weakness": [
+            3,
+            5,
+            6
+        ]
+    },
+    {
+        "Type_ID": 10,
+        "Type_name": "Flying",
+        "Super_effective_against": [
+            5,
+            7,
+            12
+        ],
+        "Not_effective_against": [
+            4,
+            13,
+            17
+        ],
+        "No_effect": [],
+        "Weakness": [
+            4,
+            6,
+            13
+        ]
+    },
+    {
+        "Type_ID": 11,
+        "Type_name": "Psychic",
+        "Super_effective_against": [
+            7,
+            8
+        ],
+        "Not_effective_against": [
+            11,
+            17
+        ],
+        "No_effect": [
+            16
+        ],
+        "Weakness": [
+            12,
+            14,
+            16
+        ]
+    },
+    {
+        "Type_ID": 12,
+        "Type_name": "Bug",
+        "Super_effective_against": [
+            5,
+            11,
+            16
+        ],
+        "Not_effective_against": [
+            2,
+            7,
+            8,
+            10,
+            14,
+            17,
+            18
+        ],
+        "No_effect": [],
+        "Weakness": [
+            2,
+            10,
+            13
+        ]
+    },
+    {
+        "Type_ID": 13,
+        "Type_name": "Rock",
+        "Super_effective_against": [
+            2,
+            6,
+            10,
+            12
+        ],
+        "Not_effective_against": [
+            7,
+            9,
+            17
+        ],
+        "No_effect": [],
+        "Weakness": [
+            3,
+            5,
+            7,
+            9,
+            17
+        ]
+    },
+    {
+        "Type_ID": 14,
+        "Type_name": "Ghost",
+        "Super_effective_against": [
+            14,
+            11
+        ],
+        "Not_effective_against": [],
+        "No_effect": [
+            1
+        ],
+        "Weakness": [
+            14,
+            16
+        ]
+    },
+    {
+        "Type_ID": 15,
+        "Type_name": "Dragon",
+        "Super_effective_against": [
+            15
+        ],
+        "Not_effective_against": [
+            17
+        ],
+        "No_effect": [
+            18
+        ],
+        "Weakness": [
+            6,
+            15,
+            18
+        ]
+    },
+    {
+        "Type_ID": 16,
+        "Type_name": "Darkness",
+        "Super_effective_against": [
+            11,
+            14
+        ],
+        "Not_effective_against": [
+            7,
+            16,
+            18
+        ],
+        "No_effect": [],
+        "Weakness": [
+            7,
+            12,
+            18
+        ]
+    },
+    {
+        "Type_ID": 17,
+        "Type_name": "Metal",
+        "Super_effective_against": [
+            6,
+            13,
+            18
+        ],
+        "Not_effective_against": [
+            3,
+            4,
+            17
+        ],
+        "No_effect": [],
+        "Weakness": [
+            2,
+            7,
+            9
+        ]
+    },
+    {
+        "Type_ID": 18,
+        "Type_name": "Fairy",
+        "Super_effective_against": [
+            7,
+            15,
+            16
+        ],
+        "Not_effective_against": [
+            2,
+            8,
+            17
+        ],
+        "No_effect": [],
+        "Weakness": [
+            8,
+            17
+        ]
+    },
+    {
+        "Type_ID": 19,
+        "Type_name": "Colorless",
+        "Super_effective_against": [],
+        "Not_effective_against": [],
+        "No_effect": [],
+        "Weakness": []
+    }
+]

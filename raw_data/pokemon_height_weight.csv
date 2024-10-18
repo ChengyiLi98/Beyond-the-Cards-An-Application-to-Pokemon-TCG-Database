@@ -1,0 +1,1026 @@
+Number,Name,Type,Height(m),Weight(lbs),BMI,Image Link
+1,Bulbasaur,"['Grass', 'Poison']",0.7,15.2,6.9,https://img.pokemondb.net/sprites/scarlet-violet/icon/bulbasaur.png
+2,Ivysaur,"['Grass', 'Poison']",1,28.7,13,https://img.pokemondb.net/sprites/scarlet-violet/icon/ivysaur.png
+3,Venusaur,"['Grass', 'Poison']",2,220.5,100,https://img.pokemondb.net/sprites/scarlet-violet/icon/venusaur.png
+4,Charmander,['Fire'],0.6,18.7,8.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/charmander.png
+5,Charmeleon,['Fire'],1.1,41.9,19,https://img.pokemondb.net/sprites/scarlet-violet/icon/charmeleon.png
+6,Charizard,"['Fire', 'Flying']",1.7,199.5,90.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/charizard.png
+7,Squirtle,['Water'],0.5,19.8,9,https://img.pokemondb.net/sprites/scarlet-violet/icon/squirtle.png
+8,Wartortle,['Water'],1,49.6,22.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/wartortle.png
+9,Blastoise,['Water'],1.6,188.5,85.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/blastoise.png
+10,Caterpie,['Bug'],0.3,6.4,2.9,https://img.pokemondb.net/sprites/scarlet-violet/icon/caterpie.png
+11,Metapod,['Bug'],0.7,21.8,9.9,https://img.pokemondb.net/sprites/scarlet-violet/icon/metapod.png
+12,Butterfree,"['Bug', 'Flying']",1.1,70.5,32,https://img.pokemondb.net/sprites/scarlet-violet/icon/butterfree.png
+13,Weedle,"['Bug', 'Poison']",0.3,7.1,3.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/weedle.png
+14,Kakuna,"['Bug', 'Poison']",0.6,22,10,https://img.pokemondb.net/sprites/scarlet-violet/icon/kakuna.png
+15,Beedrill,"['Bug', 'Poison']",1,65,29.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/beedrill.png
+16,Pidgey,"['Normal', 'Flying']",0.3,4,1.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/pidgey.png
+17,Pidgeotto,"['Normal', 'Flying']",1.1,66.1,30,https://img.pokemondb.net/sprites/scarlet-violet/icon/pidgeotto.png
+18,Pidgeot,"['Normal', 'Flying']",1.5,87.1,39.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/pidgeot.png
+19,Rattata,['Normal'],0.3,7.7,3.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/rattata.png
+20,Raticate,['Normal'],0.7,40.8,18.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/raticate.png
+21,Spearow,"['Normal', 'Flying']",0.3,4.4,2,https://img.pokemondb.net/sprites/scarlet-violet/icon/spearow.png
+22,Fearow,"['Normal', 'Flying']",1.2,83.8,38,https://img.pokemondb.net/sprites/scarlet-violet/icon/fearow.png
+23,Ekans,['Poison'],2,15.2,6.9,https://img.pokemondb.net/sprites/scarlet-violet/icon/ekans.png
+24,Arbok,['Poison'],3.5,143.3,65,https://img.pokemondb.net/sprites/scarlet-violet/icon/arbok.png
+25,Pikachu,['Electric'],0.4,13.2,6,https://img.pokemondb.net/sprites/scarlet-violet/icon/pikachu.png
+26,Raichu,['Electric'],0.8,66.1,30,https://img.pokemondb.net/sprites/scarlet-violet/icon/raichu.png
+27,Sandshrew,['Ground'],0.6,26.5,12,https://img.pokemondb.net/sprites/scarlet-violet/icon/sandshrew.png
+28,Sandslash,['Ground'],1,65,29.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/sandslash.png
+29,Nidoran,['Poison'],0.4,15.4,7,https://img.pokemondb.net/sprites/scarlet-violet/icon/nidoran-f.png
+30,Nidorina,['Poison'],0.8,44.1,20,https://img.pokemondb.net/sprites/scarlet-violet/icon/nidorina.png
+31,Nidoqueen,"['Poison', 'Ground']",1.3,132.3,60,https://img.pokemondb.net/sprites/scarlet-violet/icon/nidoqueen.png
+32,Nidoran,['Poison'],19.8,9,https://img.pokemondb.net/sprites/scarlet-violet/icon/nidoran-m.png,
+33,Nidorino,['Poison'],0.9,43,19.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/nidorino.png
+34,Nidoking,"['Poison', 'Ground']",1.4,136.7,62,https://img.pokemondb.net/sprites/scarlet-violet/icon/nidoking.png
+35,Clefairy,['Fairy'],0.6,16.5,7.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/clefairy.png
+36,Clefable,['Fairy'],1.3,88.2,40,https://img.pokemondb.net/sprites/scarlet-violet/icon/clefable.png
+37,Vulpix,['Fire'],0.6,21.8,9.9,https://img.pokemondb.net/sprites/scarlet-violet/icon/vulpix.png
+38,Ninetales,['Fire'],1.1,43.9,19.9,https://img.pokemondb.net/sprites/scarlet-violet/icon/ninetales.png
+39,Jigglypuff,"['Normal', 'Fairy']",0.5,12.1,5.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/jigglypuff.png
+40,Wigglytuff,"['Normal', 'Fairy']",1,26.5,12,https://img.pokemondb.net/sprites/scarlet-violet/icon/wigglytuff.png
+41,Zubat,"['Poison', 'Flying']",0.8,16.5,7.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/zubat.png
+42,Golbat,"['Poison', 'Flying']",1.6,121.3,55,https://img.pokemondb.net/sprites/scarlet-violet/icon/golbat.png
+43,Oddish,"['Grass', 'Poison']",0.5,11.9,5.4,https://img.pokemondb.net/sprites/scarlet-violet/icon/oddish.png
+44,Gloom,"['Grass', 'Poison']",0.8,19,8.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/gloom.png
+45,Vileplume,"['Grass', 'Poison']",1.2,41,18.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/vileplume.png
+46,Paras,"['Bug', 'Grass']",0.3,11.9,5.4,https://img.pokemondb.net/sprites/scarlet-violet/icon/paras.png
+47,Parasect,"['Bug', 'Grass']",1,65,29.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/parasect.png
+48,Venonat,"['Bug', 'Poison']",1,66.1,30,https://img.pokemondb.net/sprites/scarlet-violet/icon/venonat.png
+49,Venomoth,"['Bug', 'Poison']",1.5,27.6,12.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/venomoth.png
+50,Diglett,['Ground'],0.2,1.8,0.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/diglett.png
+51,Dugtrio,['Ground'],0.7,73.4,33.3,https://img.pokemondb.net/sprites/scarlet-violet/icon/dugtrio.png
+52,Meowth,['Normal'],0.4,9.3,4.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/meowth.png
+53,Persian,['Normal'],1,70.5,32,https://img.pokemondb.net/sprites/scarlet-violet/icon/persian.png
+54,Psyduck,['Water'],0.8,43.2,19.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/psyduck.png
+55,Golduck,['Water'],1.7,168.9,76.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/golduck.png
+56,Mankey,['Fighting'],0.5,61.7,28,https://img.pokemondb.net/sprites/scarlet-violet/icon/mankey.png
+57,Primeape,['Fighting'],1,70.5,32,https://img.pokemondb.net/sprites/scarlet-violet/icon/primeape.png
+58,Growlithe,['Fire'],0.7,41.9,19,https://img.pokemondb.net/sprites/scarlet-violet/icon/growlithe.png
+59,Arcanine,['Fire'],1.9,341.7,155,https://img.pokemondb.net/sprites/scarlet-violet/icon/arcanine.png
+60,Poliwag,['Water'],0.6,27.3,12.4,https://img.pokemondb.net/sprites/scarlet-violet/icon/poliwag.png
+61,Poliwhirl,['Water'],1,44.1,20,https://img.pokemondb.net/sprites/scarlet-violet/icon/poliwhirl.png
+62,Poliwrath,"['Water', 'Fighting']",1.3,119,54,https://img.pokemondb.net/sprites/scarlet-violet/icon/poliwrath.png
+63,Abra,['Psychic'],0.9,43,19.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/abra.png
+64,Kadabra,['Psychic'],1.3,124.6,56.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/kadabra.png
+65,Alakazam,['Psychic'],1.5,105.8,48,https://img.pokemondb.net/sprites/scarlet-violet/icon/alakazam.png
+66,Machop,['Fighting'],0.8,43,19.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/machop.png
+67,Machoke,['Fighting'],1.5,155.4,70.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/machoke.png
+68,Machamp,['Fighting'],1.6,286.6,130,https://img.pokemondb.net/sprites/scarlet-violet/icon/machamp.png
+69,Bellsprout,"['Grass', 'Poison']",0.7,8.8,4,https://img.pokemondb.net/sprites/scarlet-violet/icon/bellsprout.png
+70,Weepinbell,"['Grass', 'Poison']",1,14.1,6.4,https://img.pokemondb.net/sprites/scarlet-violet/icon/weepinbell.png
+71,Victreebel,"['Grass', 'Poison']",1.7,34.2,15.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/victreebel.png
+72,Tentacool,"['Water', 'Poison']",0.9,100.3,45.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/tentacool.png
+73,Tentacruel,"['Water', 'Poison']",1.6,121.3,55,https://img.pokemondb.net/sprites/scarlet-violet/icon/tentacruel.png
+74,Geodude,"['Rock', 'Ground']",0.4,44.1,20,https://img.pokemondb.net/sprites/scarlet-violet/icon/geodude.png
+75,Graveler,"['Rock', 'Ground']",1,231.5,105,https://img.pokemondb.net/sprites/scarlet-violet/icon/graveler.png
+76,Golem,"['Rock', 'Ground']",1.4,661.4,300,https://img.pokemondb.net/sprites/scarlet-violet/icon/golem.png
+77,Ponyta,['Fire'],1,66.1,30,https://img.pokemondb.net/sprites/scarlet-violet/icon/ponyta.png
+78,Rapidash,['Fire'],1.7,209.4,95,https://img.pokemondb.net/sprites/scarlet-violet/icon/rapidash.png
+79,Slowpoke,"['Water', 'Psychic']",1.2,79.4,36,https://img.pokemondb.net/sprites/scarlet-violet/icon/slowpoke.png
+80,Slowbro,"['Water', 'Psychic']",1.6,173.1,78.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/slowbro.png
+81,Magnemite,"['Electric', 'Metal']",0.3,13.2,6,https://img.pokemondb.net/sprites/scarlet-violet/icon/magnemite.png
+82,Magneton,"['Electric', 'Metal']",1,132.3,60,https://img.pokemondb.net/sprites/scarlet-violet/icon/magneton.png
+83,Farfetch'd,"['Normal', 'Flying']",0.8,33.1,15,https://img.pokemondb.net/sprites/scarlet-violet/icon/farfetchd.png
+84,Doduo,"['Normal', 'Flying']",1.4,86.4,39.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/doduo.png
+85,Dodrio,"['Normal', 'Flying']",1.8,187.8,85.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/dodrio.png
+86,Seel,['Water'],1.1,198.4,90,https://img.pokemondb.net/sprites/scarlet-violet/icon/seel.png
+87,Dewgong,"['Water', 'Ice']",1.7,264.6,120,https://img.pokemondb.net/sprites/scarlet-violet/icon/dewgong.png
+88,Grimer,['Poison'],0.9,66.1,30,https://img.pokemondb.net/sprites/scarlet-violet/icon/grimer.png
+89,Muk,['Poison'],1.2,66.1,30,https://img.pokemondb.net/sprites/scarlet-violet/icon/muk.png
+90,Shellder,['Water'],0.3,8.8,4,https://img.pokemondb.net/sprites/scarlet-violet/icon/shellder.png
+91,Cloyster,"['Water', 'Ice']",1.5,292.1,132.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/cloyster.png
+92,Gastly,"['Ghost', 'Poison']",1.3,0.2,0.1,https://img.pokemondb.net/sprites/scarlet-violet/icon/gastly.png
+93,Haunter,"['Ghost', 'Poison']",1.6,0.2,0.1,https://img.pokemondb.net/sprites/scarlet-violet/icon/haunter.png
+94,Gengar,"['Ghost', 'Poison']",1.5,89.3,40.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/gengar.png
+95,Onix,"['Rock', 'Ground']",8.8,463,210,https://img.pokemondb.net/sprites/scarlet-violet/icon/onix.png
+96,Drowzee,['Psychic'],1,71.4,32.4,https://img.pokemondb.net/sprites/scarlet-violet/icon/drowzee.png
+97,Hypno,['Psychic'],1.6,166.7,75.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/hypno.png
+98,Krabby,['Water'],0.4,14.3,6.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/krabby.png
+99,Kingler,['Water'],1.3,132.3,60,https://img.pokemondb.net/sprites/scarlet-violet/icon/kingler.png
+100,Voltorb,['Electric'],0.5,22.9,10.4,https://img.pokemondb.net/sprites/scarlet-violet/icon/voltorb.png
+101,Electrode,['Electric'],1.2,146.8,66.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/electrode.png
+102,Exeggcute,"['Grass', 'Psychic']",0.4,5.5,2.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/exeggcute.png
+103,Exeggutor,"['Grass', 'Psychic']",2,264.6,120,https://img.pokemondb.net/sprites/scarlet-violet/icon/exeggutor.png
+104,Cubone,['Ground'],0.4,14.3,6.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/cubone.png
+105,Marowak,['Ground'],1,99.2,45,https://img.pokemondb.net/sprites/scarlet-violet/icon/marowak.png
+106,Hitmonlee,['Fighting'],1.5,109.8,49.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/hitmonlee.png
+107,Hitmonchan,['Fighting'],1.4,110.7,50.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/hitmonchan.png
+108,Lickitung,['Normal'],1.2,144.4,65.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/lickitung.png
+109,Koffing,['Poison'],0.6,2.2,1,https://img.pokemondb.net/sprites/scarlet-violet/icon/koffing.png
+110,Weezing,['Poison'],1.2,20.9,9.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/weezing.png
+111,Rhyhorn,"['Ground', 'Rock']",1,253.5,115,https://img.pokemondb.net/sprites/scarlet-violet/icon/rhyhorn.png
+112,Rhydon,"['Ground', 'Rock']",1.9,264.6,120,https://img.pokemondb.net/sprites/scarlet-violet/icon/rhydon.png
+113,Chansey,['Normal'],1.1,76.3,34.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/chansey.png
+114,Tangela,['Grass'],1,77.2,35,https://img.pokemondb.net/sprites/scarlet-violet/icon/tangela.png
+115,Kangaskhan,['Normal'],2.2,176.4,80,https://img.pokemondb.net/sprites/scarlet-violet/icon/kangaskhan.png
+116,Horsea,['Water'],0.4,17.6,8,https://img.pokemondb.net/sprites/scarlet-violet/icon/horsea.png
+117,Seadra,['Water'],1.2,55.1,25,https://img.pokemondb.net/sprites/scarlet-violet/icon/seadra.png
+118,Goldeen,['Water'],0.6,33.1,15,https://img.pokemondb.net/sprites/scarlet-violet/icon/goldeen.png
+119,Seaking,['Water'],1.3,86,39,https://img.pokemondb.net/sprites/scarlet-violet/icon/seaking.png
+120,Staryu,['Water'],0.8,76.1,34.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/staryu.png
+121,Starmie,"['Water', 'Psychic']",1.1,176.4,80,https://img.pokemondb.net/sprites/scarlet-violet/icon/starmie.png
+122,Mr. Mime,"['Psychic', 'Fairy']",1.3,120.2,54.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/mr-mime.png
+123,Scyther,"['Bug', 'Flying']",1.5,123.5,56,https://img.pokemondb.net/sprites/scarlet-violet/icon/scyther.png
+124,Jynx,"['Ice', 'Psychic']",1.4,89.5,40.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/jynx.png
+125,Electabuzz,['Electric'],1.1,66.1,30,https://img.pokemondb.net/sprites/scarlet-violet/icon/electabuzz.png
+126,Magmar,['Fire'],1.3,98.1,44.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/magmar.png
+127,Pinsir,['Bug'],1.5,121.3,55,https://img.pokemondb.net/sprites/scarlet-violet/icon/pinsir.png
+128,Tauros,['Normal'],1.4,194.9,88.4,https://img.pokemondb.net/sprites/scarlet-violet/icon/tauros.png
+129,Magikarp,['Water'],0.9,22,10,https://img.pokemondb.net/sprites/scarlet-violet/icon/magikarp.png
+130,Gyarados,"['Water', 'Flying']",6.5,518.1,235,https://img.pokemondb.net/sprites/scarlet-violet/icon/gyarados.png
+131,Lapras,"['Water', 'Ice']",2.5,485,220,https://img.pokemondb.net/sprites/scarlet-violet/icon/lapras.png
+132,Ditto,['Normal'],0.3,8.8,4,https://img.pokemondb.net/sprites/scarlet-violet/icon/ditto.png
+133,Eevee,['Normal'],0.3,14.3,6.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/eevee.png
+134,Vaporeon,['Water'],1,63.9,29,https://img.pokemondb.net/sprites/scarlet-violet/icon/vaporeon.png
+135,Jolteon,['Electric'],0.8,54,24.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/jolteon.png
+136,Flareon,['Fire'],0.9,55.1,25,https://img.pokemondb.net/sprites/scarlet-violet/icon/flareon.png
+137,Porygon,['Normal'],0.8,80.5,36.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/porygon.png
+138,Omanyte,"['Rock', 'Water']",0.4,16.5,7.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/omanyte.png
+139,Omastar,"['Rock', 'Water']",1,77.2,35,https://img.pokemondb.net/sprites/scarlet-violet/icon/omastar.png
+140,Kabuto,"['Rock', 'Water']",0.5,25.4,11.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/kabuto.png
+141,Kabutops,"['Rock', 'Water']",1.3,89.3,40.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/kabutops.png
+142,Aerodactyl,"['Rock', 'Flying']",1.8,130.1,59,https://img.pokemondb.net/sprites/scarlet-violet/icon/aerodactyl.png
+143,Snorlax,['Normal'],2.1,1014.1,460,https://img.pokemondb.net/sprites/scarlet-violet/icon/snorlax.png
+144,Articuno,"['Ice', 'Flying']",1.7,122.1,55.4,https://img.pokemondb.net/sprites/scarlet-violet/icon/articuno.png
+145,Zapdos,"['Electric', 'Flying']",1.6,116,52.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/zapdos.png
+146,Moltres,"['Fire', 'Flying']",2,132.3,60,https://img.pokemondb.net/sprites/scarlet-violet/icon/moltres.png
+147,Dratini,['Dragon'],1.8,7.3,3.3,https://img.pokemondb.net/sprites/scarlet-violet/icon/dratini.png
+148,Dragonair,['Dragon'],4,36.4,16.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/dragonair.png
+149,Dragonite,"['Dragon', 'Flying']",2.2,463,210,https://img.pokemondb.net/sprites/scarlet-violet/icon/dragonite.png
+150,Mewtwo,['Psychic'],2,269,122,https://img.pokemondb.net/sprites/scarlet-violet/icon/mewtwo.png
+151,Mew,['Psychic'],0.4,8.8,4,https://img.pokemondb.net/sprites/scarlet-violet/icon/mew.png
+152,Chikorita,['Grass'],0.9,14.1,6.4,https://img.pokemondb.net/sprites/scarlet-violet/icon/chikorita.png
+153,Bayleef,['Grass'],1.2,34.8,15.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/bayleef.png
+154,Meganium,['Grass'],1.8,221.6,100.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/meganium.png
+155,Cyndaquil,['Fire'],0.5,17.4,7.9,https://img.pokemondb.net/sprites/scarlet-violet/icon/cyndaquil.png
+156,Quilava,['Fire'],0.9,41.9,19,https://img.pokemondb.net/sprites/scarlet-violet/icon/quilava.png
+157,Typhlosion,['Fire'],1.7,175.3,79.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/typhlosion.png
+158,Totodile,['Water'],0.6,20.9,9.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/totodile.png
+159,Croconaw,['Water'],1.1,55.1,25,https://img.pokemondb.net/sprites/scarlet-violet/icon/croconaw.png
+160,Feraligatr,['Water'],2.3,195.8,88.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/feraligatr.png
+161,Sentret,['Normal'],0.8,13.2,6,https://img.pokemondb.net/sprites/scarlet-violet/icon/sentret.png
+162,Furret,['Normal'],1.8,71.7,32.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/furret.png
+163,Hoothoot,"['Normal', 'Flying']",0.7,46.7,21.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/hoothoot.png
+164,Noctowl,"['Normal', 'Flying']",1.6,89.9,40.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/noctowl.png
+165,Ledyba,"['Bug', 'Flying']",1,23.8,10.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/ledyba.png
+166,Ledian,"['Bug', 'Flying']",1.4,78.5,35.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/ledian.png
+167,Spinarak,"['Bug', 'Poison']",0.5,18.7,8.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/spinarak.png
+168,Ariados,"['Bug', 'Poison']",1.1,73.9,33.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/ariados.png
+169,Crobat,"['Poison', 'Flying']",1.8,165.3,75,https://img.pokemondb.net/sprites/scarlet-violet/icon/crobat.png
+170,Chinchou,"['Water', 'Electric']",0.5,26.5,12,https://img.pokemondb.net/sprites/scarlet-violet/icon/chinchou.png
+171,Lanturn,"['Water', 'Electric']",1.2,49.6,22.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/lanturn.png
+172,Pichu,['Electric'],0.3,4.4,2,https://img.pokemondb.net/sprites/scarlet-violet/icon/pichu.png
+173,Cleffa,['Fairy'],0.3,6.6,3,https://img.pokemondb.net/sprites/scarlet-violet/icon/cleffa.png
+174,Igglybuff,"['Normal', 'Fairy']",0.3,2.2,1,https://img.pokemondb.net/sprites/scarlet-violet/icon/igglybuff.png
+175,Togepi,['Fairy'],0.3,3.3,1.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/togepi.png
+176,Togetic,"['Fairy', 'Flying']",0.6,7.1,3.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/togetic.png
+177,Natu,"['Psychic', 'Flying']",0.2,4.4,2,https://img.pokemondb.net/sprites/scarlet-violet/icon/natu.png
+178,Xatu,"['Psychic', 'Flying']",1.5,33.1,15,https://img.pokemondb.net/sprites/scarlet-violet/icon/xatu.png
+179,Mareep,['Electric'],0.6,17.2,7.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/mareep.png
+180,Flaaffy,['Electric'],0.8,29.3,13.3,https://img.pokemondb.net/sprites/scarlet-violet/icon/flaaffy.png
+181,Ampharos,['Electric'],1.4,135.6,61.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/ampharos.png
+182,Bellossom,['Grass'],0.4,12.8,5.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/bellossom.png
+183,Marill,"['Water', 'Fairy']",0.4,18.7,8.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/marill.png
+184,Azumarill,"['Water', 'Fairy']",0.8,62.8,28.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/azumarill.png
+185,Sudowoodo,['Rock'],1.2,83.8,38,https://img.pokemondb.net/sprites/scarlet-violet/icon/sudowoodo.png
+186,Politoed,['Water'],1.1,74.7,33.9,https://img.pokemondb.net/sprites/scarlet-violet/icon/politoed.png
+187,Hoppip,"['Grass', 'Flying']",0.4,1.1,0.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/hoppip.png
+188,Skiploom,"['Grass', 'Flying']",0.6,2.2,1,https://img.pokemondb.net/sprites/scarlet-violet/icon/skiploom.png
+189,Jumpluff,"['Grass', 'Flying']",0.8,6.6,3,https://img.pokemondb.net/sprites/scarlet-violet/icon/jumpluff.png
+190,Aipom,['Normal'],0.8,25.4,11.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/aipom.png
+191,Sunkern,['Grass'],0.3,4,1.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/sunkern.png
+192,Sunflora,['Grass'],0.8,18.7,8.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/sunflora.png
+193,Yanma,"['Bug', 'Flying']",1.2,83.8,38,https://img.pokemondb.net/sprites/scarlet-violet/icon/yanma.png
+194,Wooper,"['Water', 'Ground']",0.4,18.7,8.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/wooper.png
+195,Quagsire,"['Water', 'Ground']",1.4,165.3,75,https://img.pokemondb.net/sprites/scarlet-violet/icon/quagsire.png
+196,Espeon,['Psychic'],0.9,58.4,26.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/espeon.png
+197,Umbreon,['Darkness'],1,59.5,27,https://img.pokemondb.net/sprites/scarlet-violet/icon/umbreon.png
+198,Murkrow,"['Darkness', 'Flying']",0.5,4.6,2.1,https://img.pokemondb.net/sprites/scarlet-violet/icon/murkrow.png
+199,Slowking,"['Water', 'Psychic']",2,175.3,79.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/slowking.png
+200,Misdreavus,['Ghost'],0.7,2.2,1,https://img.pokemondb.net/sprites/scarlet-violet/icon/misdreavus.png
+201,Unown,['Psychic'],0.5,11,5,https://img.pokemondb.net/sprites/scarlet-violet/icon/unown.png
+202,Wobbuffet,['Psychic'],1.3,62.8,28.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/wobbuffet.png
+203,Girafarig,"['Normal', 'Psychic']",1.5,91.5,41.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/girafarig.png
+204,Pineco,['Bug'],0.6,15.9,7.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/pineco.png
+205,Forretress,"['Bug', 'Metal']",1.2,277.3,125.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/forretress.png
+206,Dunsparce,['Normal'],1.5,30.9,14,https://img.pokemondb.net/sprites/scarlet-violet/icon/dunsparce.png
+207,Gligar,"['Ground', 'Flying']",1.1,142.9,64.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/gligar.png
+208,Steelix,"['Metal', 'Ground']",9.2,881.8,400,https://img.pokemondb.net/sprites/scarlet-violet/icon/steelix.png
+209,Snubbull,['Fairy'],0.6,17.2,7.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/snubbull.png
+210,Granbull,['Fairy'],1.4,107.4,48.7,https://img.pokemondb.net/sprites/scarlet-violet/icon/granbull.png
+211,Qwilfish,"['Water', 'Poison']",0.5,8.6,3.9,https://img.pokemondb.net/sprites/scarlet-violet/icon/qwilfish.png
+212,Scizor,"['Bug', 'Metal']",1.8,260.1,118,https://img.pokemondb.net/sprites/scarlet-violet/icon/scizor.png
+213,Shuckle,"['Bug', 'Rock']",0.6,45.2,20.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/shuckle.png
+214,Heracross,"['Bug', 'Fighting']",1.5,119,54,https://img.pokemondb.net/sprites/scarlet-violet/icon/heracross.png
+215,Sneasel,"['Darkness', 'Ice']",0.9,61.7,28,https://img.pokemondb.net/sprites/scarlet-violet/icon/sneasel.png
+216,Teddiursa,['Normal'],0.6,19.4,8.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/teddiursa.png
+217,Ursaring,['Normal'],1.8,277.3,125.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/ursaring.png
+218,Slugma,['Fire'],0.7,77.2,35,https://img.pokemondb.net/sprites/scarlet-violet/icon/slugma.png
+219,Magcargo,"['Fire', 'Rock']",0.8,121.3,55,https://img.pokemondb.net/sprites/scarlet-violet/icon/magcargo.png
+220,Swinub,"['Ice', 'Ground']",0.4,14.3,6.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/swinub.png
+221,Piloswine,"['Ice', 'Ground']",1.1,123,55.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/piloswine.png
+222,Corsola,"['Water', 'Rock']",0.6,11,5,https://img.pokemondb.net/sprites/scarlet-violet/icon/corsola.png
+223,Remoraid,['Water'],0.6,26.5,12,https://img.pokemondb.net/sprites/scarlet-violet/icon/remoraid.png
+224,Octillery,['Water'],0.9,62.8,28.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/octillery.png
+225,Delibird,"['Ice', 'Flying']",0.9,35.3,16,https://img.pokemondb.net/sprites/scarlet-violet/icon/delibird.png
+226,Mantine,"['Water', 'Flying']",2.1,485,220,https://img.pokemondb.net/sprites/scarlet-violet/icon/mantine.png
+227,Skarmory,"['Metal', 'Flying']",1.7,111.3,50.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/skarmory.png
+228,Houndour,"['Darkness', 'Fire']",0.6,23.8,10.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/houndour.png
+229,Houndoom,"['Darkness', 'Fire']",1.4,77.2,35,https://img.pokemondb.net/sprites/scarlet-violet/icon/houndoom.png
+230,Kingdra,"['Water', 'Dragon']",1.8,335.1,152,https://img.pokemondb.net/sprites/scarlet-violet/icon/kingdra.png
+231,Phanpy,['Ground'],0.5,73.9,33.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/phanpy.png
+232,Donphan,['Ground'],1.1,264.6,120,https://img.pokemondb.net/sprites/scarlet-violet/icon/donphan.png
+233,Porygon2,['Normal'],0.6,71.7,32.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/porygon2.png
+234,Stantler,['Normal'],1.4,157,71.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/stantler.png
+235,Smeargle,['Normal'],1.2,127.9,58,https://img.pokemondb.net/sprites/scarlet-violet/icon/smeargle.png
+236,Tyrogue,['Fighting'],0.7,46.3,21,https://img.pokemondb.net/sprites/scarlet-violet/icon/tyrogue.png
+237,Hitmontop,['Fighting'],1.4,105.8,48,https://img.pokemondb.net/sprites/scarlet-violet/icon/hitmontop.png
+238,Smoochum,"['Ice', 'Psychic']",0.4,13.2,6,https://img.pokemondb.net/sprites/scarlet-violet/icon/smoochum.png
+239,Elekid,['Electric'],0.6,51.8,23.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/elekid.png
+240,Magby,['Fire'],0.7,47.2,21.4,https://img.pokemondb.net/sprites/scarlet-violet/icon/magby.png
+241,Miltank,['Normal'],1.2,166.4,75.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/miltank.png
+242,Blissey,['Normal'],1.5,103.2,46.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/blissey.png
+243,Raikou,['Electric'],1.9,392.4,178,https://img.pokemondb.net/sprites/scarlet-violet/icon/raikou.png
+244,Entei,['Fire'],2.1,436.5,198,https://img.pokemondb.net/sprites/scarlet-violet/icon/entei.png
+245,Suicune,['Water'],2,412.3,187,https://img.pokemondb.net/sprites/scarlet-violet/icon/suicune.png
+246,Larvitar,"['Rock', 'Ground']",0.6,158.7,72,https://img.pokemondb.net/sprites/scarlet-violet/icon/larvitar.png
+247,Pupitar,"['Rock', 'Ground']",1.2,335.1,152,https://img.pokemondb.net/sprites/scarlet-violet/icon/pupitar.png
+248,Tyranitar,"['Rock', 'Darkness']",2,445.3,202,https://img.pokemondb.net/sprites/scarlet-violet/icon/tyranitar.png
+249,Lugia,"['Psychic', 'Flying']",5.2,476.2,216,https://img.pokemondb.net/sprites/scarlet-violet/icon/lugia.png
+250,Ho-oh,"['Fire', 'Flying']",3.8,438.7,199,https://img.pokemondb.net/sprites/scarlet-violet/icon/ho-oh.png
+251,Celebi,"['Psychic', 'Grass']",0.6,11,5,https://img.pokemondb.net/sprites/scarlet-violet/icon/celebi.png
+252,Treecko,['Grass'],0.5,11,5,https://img.pokemondb.net/sprites/scarlet-violet/icon/treecko.png
+253,Grovyle,['Grass'],0.9,47.6,21.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/grovyle.png
+254,Sceptile,['Grass'],1.7,115.1,52.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/sceptile.png
+255,Torchic,['Fire'],0.4,5.5,2.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/torchic.png
+256,Combusken,"['Fire', 'Fighting']",0.9,43,19.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/combusken.png
+257,Blaziken,"['Fire', 'Fighting']",1.9,114.6,52,https://img.pokemondb.net/sprites/scarlet-violet/icon/blaziken.png
+258,Mudkip,['Water'],0.4,16.8,7.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/mudkip.png
+259,Marshtomp,"['Water', 'Ground']",0.7,61.7,28,https://img.pokemondb.net/sprites/scarlet-violet/icon/marshtomp.png
+260,Swampert,"['Water', 'Ground']",1.5,180.6,81.9,https://img.pokemondb.net/sprites/scarlet-violet/icon/swampert.png
+261,Poochyena,['Darkness'],0.5,30,13.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/poochyena.png
+262,Mightyena,['Darkness'],1,81.6,37,https://img.pokemondb.net/sprites/scarlet-violet/icon/mightyena.png
+263,Zigzagoon,['Normal'],0.4,38.6,17.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/zigzagoon.png
+264,Linoone,['Normal'],0.5,71.7,32.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/linoone.png
+265,Wurmple,['Bug'],0.3,7.9,3.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/wurmple.png
+266,Silcoon,['Bug'],0.6,22,10,https://img.pokemondb.net/sprites/scarlet-violet/icon/silcoon.png
+267,Beautifly,"['Bug', 'Flying']",1,62.6,28.4,https://img.pokemondb.net/sprites/scarlet-violet/icon/beautifly.png
+268,Cascoon,['Bug'],0.7,25.4,11.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/cascoon.png
+269,Dustox,"['Bug', 'Poison']",1.2,69.7,31.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/dustox.png
+270,Lotad,"['Water', 'Grass']",0.5,5.7,2.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/lotad.png
+271,Lombre,"['Water', 'Grass']",1.2,71.7,32.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/lombre.png
+272,Ludicolo,"['Water', 'Grass']",1.5,121.3,55,https://img.pokemondb.net/sprites/scarlet-violet/icon/ludicolo.png
+273,Seedot,['Grass'],0.5,8.8,4,https://img.pokemondb.net/sprites/scarlet-violet/icon/seedot.png
+274,Nuzleaf,"['Grass', 'Darkness']",1,61.7,28,https://img.pokemondb.net/sprites/scarlet-violet/icon/nuzleaf.png
+275,Shiftry,"['Grass', 'Darkness']",1.3,131.4,59.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/shiftry.png
+276,Taillow,"['Normal', 'Flying']",0.3,5.1,2.3,https://img.pokemondb.net/sprites/scarlet-violet/icon/taillow.png
+277,Swellow,"['Normal', 'Flying']",0.7,43.7,19.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/swellow.png
+278,Wingull,"['Water', 'Flying']",0.6,20.9,9.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/wingull.png
+279,Pelipper,"['Water', 'Flying']",1.2,61.7,28,https://img.pokemondb.net/sprites/scarlet-violet/icon/pelipper.png
+280,Ralts,"['Psychic', 'Fairy']",0.4,14.6,6.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/ralts.png
+281,Kirlia,"['Psychic', 'Fairy']",0.8,44.5,20.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/kirlia.png
+282,Gardevoir,"['Psychic', 'Fairy']",1.6,106.7,48.4,https://img.pokemondb.net/sprites/scarlet-violet/icon/gardevoir.png
+283,Surskit,"['Bug', 'Water']",0.5,3.7,1.7,https://img.pokemondb.net/sprites/scarlet-violet/icon/surskit.png
+284,Masquerain,"['Bug', 'Flying']",0.8,7.9,3.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/masquerain.png
+285,Shroomish,['Grass'],0.4,9.9,4.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/shroomish.png
+286,Breloom,"['Grass', 'Fighting']",1.2,86.4,39.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/breloom.png
+287,Slakoth,['Normal'],0.8,52.9,24,https://img.pokemondb.net/sprites/scarlet-violet/icon/slakoth.png
+288,Vigoroth,['Normal'],1.4,102.5,46.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/vigoroth.png
+289,Slaking,['Normal'],2,287.7,130.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/slaking.png
+290,Nincada,"['Bug', 'Ground']",0.5,12.1,5.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/nincada.png
+291,Ninjask,"['Bug', 'Flying']",0.8,26.5,12,https://img.pokemondb.net/sprites/scarlet-violet/icon/ninjask.png
+292,Shedinja,"['Bug', 'Ghost']",0.8,2.6,1.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/shedinja.png
+293,Whismur,['Normal'],0.6,35.9,16.3,https://img.pokemondb.net/sprites/scarlet-violet/icon/whismur.png
+294,Loudred,['Normal'],1,89.3,40.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/loudred.png
+295,Exploud,['Normal'],1.5,185.2,84,https://img.pokemondb.net/sprites/scarlet-violet/icon/exploud.png
+296,Makuhita,['Fighting'],1,190.5,86.4,https://img.pokemondb.net/sprites/scarlet-violet/icon/makuhita.png
+297,Hariyama,['Fighting'],2.3,559.5,253.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/hariyama.png
+298,Azurill,"['Normal', 'Fairy']",0.2,4.4,2,https://img.pokemondb.net/sprites/scarlet-violet/icon/azurill.png
+299,Nosepass,['Rock'],1,213.8,97,https://img.pokemondb.net/sprites/scarlet-violet/icon/nosepass.png
+300,Skitty,['Normal'],0.6,24.3,11,https://img.pokemondb.net/sprites/scarlet-violet/icon/skitty.png
+301,Delcatty,['Normal'],1.1,71.9,32.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/delcatty.png
+302,Sableye,"['Darkness', 'Ghost']",0.5,24.3,11,https://img.pokemondb.net/sprites/scarlet-violet/icon/sableye.png
+303,Mawile,"['Metal', 'Fairy']",0.6,25.4,11.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/mawile.png
+304,Aron,"['Metal', 'Rock']",0.4,132.3,60,https://img.pokemondb.net/sprites/scarlet-violet/icon/aron.png
+305,Lairon,"['Metal', 'Rock']",0.9,264.6,120,https://img.pokemondb.net/sprites/scarlet-violet/icon/lairon.png
+306,Aggron,"['Metal', 'Rock']",2.1,793.7,360,https://img.pokemondb.net/sprites/scarlet-violet/icon/aggron.png
+307,Meditite,"['Fighting', 'Psychic']",0.6,24.7,11.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/meditite.png
+308,Medicham,"['Fighting', 'Psychic']",1.3,69.4,31.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/medicham.png
+309,Electrike,['Electric'],0.6,33.5,15.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/electrike.png
+310,Manectric,['Electric'],1.5,88.6,40.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/manectric.png
+311,Plusle,['Electric'],0.4,9.3,4.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/plusle.png
+312,Minun,['Electric'],0.4,9.3,4.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/minun.png
+313,Volbeat,['Bug'],0.7,39,17.7,https://img.pokemondb.net/sprites/scarlet-violet/icon/volbeat.png
+314,Illumise,['Bug'],0.6,39,17.7,https://img.pokemondb.net/sprites/scarlet-violet/icon/illumise.png
+315,Roselia,"['Grass', 'Poison']",0.3,4.4,2,https://img.pokemondb.net/sprites/scarlet-violet/icon/roselia.png
+316,Gulpin,['Poison'],0.4,22.7,10.3,https://img.pokemondb.net/sprites/scarlet-violet/icon/gulpin.png
+317,Swalot,['Poison'],1.7,176.4,80,https://img.pokemondb.net/sprites/scarlet-violet/icon/swalot.png
+318,Carvanha,"['Water', 'Darkness']",0.8,45.9,20.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/carvanha.png
+319,Sharpedo,"['Water', 'Darkness']",1.8,195.8,88.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/sharpedo.png
+320,Wailmer,['Water'],2,286.6,130,https://img.pokemondb.net/sprites/scarlet-violet/icon/wailmer.png
+321,Wailord,['Water'],14.5,877.4,398,https://img.pokemondb.net/sprites/scarlet-violet/icon/wailord.png
+322,Numel,"['Fire', 'Ground']",0.7,52.9,24,https://img.pokemondb.net/sprites/scarlet-violet/icon/numel.png
+323,Camerupt,"['Fire', 'Ground']",1.9,485,220,https://img.pokemondb.net/sprites/scarlet-violet/icon/camerupt.png
+324,Torkoal,['Fire'],0.5,177.3,80.4,https://img.pokemondb.net/sprites/scarlet-violet/icon/torkoal.png
+325,Spoink,['Psychic'],0.7,67.5,30.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/spoink.png
+326,Grumpig,['Psychic'],0.9,157.6,71.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/grumpig.png
+327,Spinda,['Normal'],1.1,11,5,https://img.pokemondb.net/sprites/scarlet-violet/icon/spinda.png
+328,Trapinch,['Ground'],0.7,33.1,15,https://img.pokemondb.net/sprites/scarlet-violet/icon/trapinch.png
+329,Vibrava,"['Ground', 'Dragon']",1.1,33.7,15.3,https://img.pokemondb.net/sprites/scarlet-violet/icon/vibrava.png
+330,Flygon,"['Ground', 'Dragon']",2,180.8,82,https://img.pokemondb.net/sprites/scarlet-violet/icon/flygon.png
+331,Cacnea,['Grass'],0.4,113.1,51.3,https://img.pokemondb.net/sprites/scarlet-violet/icon/cacnea.png
+332,Cacturne,"['Grass', 'Darkness']",1.3,170.6,77.4,https://img.pokemondb.net/sprites/scarlet-violet/icon/cacturne.png
+333,Swablu,"['Normal', 'Flying']",0.4,2.6,1.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/swablu.png
+334,Altaria,"['Dragon', 'Flying']",1.1,45.4,20.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/altaria.png
+335,Zangoose,['Normal'],1.3,88.8,40.3,https://img.pokemondb.net/sprites/scarlet-violet/icon/zangoose.png
+336,Seviper,['Poison'],2.7,115.7,52.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/seviper.png
+337,Lunatone,"['Rock', 'Psychic']",1,370.4,168,https://img.pokemondb.net/sprites/scarlet-violet/icon/lunatone.png
+338,Solrock,"['Rock', 'Psychic']",1.2,339.5,154,https://img.pokemondb.net/sprites/scarlet-violet/icon/solrock.png
+339,Barboach,"['Water', 'Ground']",0.4,4.2,1.9,https://img.pokemondb.net/sprites/scarlet-violet/icon/barboach.png
+340,Whiscash,"['Water', 'Ground']",0.9,52,23.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/whiscash.png
+341,Corphish,['Water'],0.6,25.4,11.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/corphish.png
+342,Crawdaunt,"['Water', 'Darkness']",1.1,72.3,32.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/crawdaunt.png
+343,Baltoy,"['Ground', 'Psychic']",0.5,47.4,21.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/baltoy.png
+344,Claydol,"['Ground', 'Psychic']",1.5,238.1,108,https://img.pokemondb.net/sprites/scarlet-violet/icon/claydol.png
+345,Lileep,"['Rock', 'Grass']",1,52.5,23.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/lileep.png
+346,Cradily,"['Rock', 'Grass']",1.5,133.2,60.4,https://img.pokemondb.net/sprites/scarlet-violet/icon/cradily.png
+347,Anorith,"['Rock', 'Bug']",0.7,27.6,12.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/anorith.png
+348,Armaldo,"['Rock', 'Bug']",1.5,150.4,68.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/armaldo.png
+349,Feebas,['Water'],0.6,16.3,7.4,https://img.pokemondb.net/sprites/scarlet-violet/icon/feebas.png
+350,Milotic,['Water'],6.2,357.1,162,https://img.pokemondb.net/sprites/scarlet-violet/icon/milotic.png
+351,Castform,['Normal'],0.3,1.8,0.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/castform.png
+352,Kecleon,['Normal'],1,48.5,22,https://img.pokemondb.net/sprites/scarlet-violet/icon/kecleon.png
+353,Shuppet,['Ghost'],0.6,5.1,2.3,https://img.pokemondb.net/sprites/scarlet-violet/icon/shuppet.png
+354,Banette,['Ghost'],1.1,27.6,12.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/banette.png
+355,Duskull,['Ghost'],0.8,33.1,15,https://img.pokemondb.net/sprites/scarlet-violet/icon/duskull.png
+356,Dusclops,['Ghost'],1.6,67.5,30.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/dusclops.png
+357,Tropius,"['Grass', 'Flying']",2,220.5,100,https://img.pokemondb.net/sprites/scarlet-violet/icon/tropius.png
+358,Chimecho,['Psychic'],0.6,2.2,1,https://img.pokemondb.net/sprites/scarlet-violet/icon/chimecho.png
+359,Absol,['Darkness'],1.2,103.6,47,https://img.pokemondb.net/sprites/scarlet-violet/icon/absol.png
+360,Wynaut,['Psychic'],0.6,30.9,14,https://img.pokemondb.net/sprites/scarlet-violet/icon/wynaut.png
+361,Snorunt,['Ice'],0.7,37,16.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/snorunt.png
+362,Glalie,['Ice'],1.5,565.5,256.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/glalie.png
+363,Spheal,"['Ice', 'Water']",0.8,87.1,39.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/spheal.png
+364,Sealeo,"['Ice', 'Water']",1.1,193.1,87.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/sealeo.png
+365,Walrein,"['Ice', 'Water']",1.4,332,150.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/walrein.png
+366,Clamperl,['Water'],0.4,115.7,52.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/clamperl.png
+367,Huntail,['Water'],1.7,59.5,27,https://img.pokemondb.net/sprites/scarlet-violet/icon/huntail.png
+368,Gorebyss,['Water'],1.8,49.8,22.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/gorebyss.png
+369,Relicanth,"['Water', 'Rock']",1,51.6,23.4,https://img.pokemondb.net/sprites/scarlet-violet/icon/relicanth.png
+370,Luvdisc,['Water'],0.6,19.2,8.7,https://img.pokemondb.net/sprites/scarlet-violet/icon/luvdisc.png
+371,Bagon,['Dragon'],0.6,92.8,42.1,https://img.pokemondb.net/sprites/scarlet-violet/icon/bagon.png
+372,Shelgon,['Dragon'],1.1,243.6,110.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/shelgon.png
+373,Salamence,"['Dragon', 'Flying']",1.5,226.2,102.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/salamence.png
+374,Beldum,"['Metal', 'Psychic']",0.6,209.9,95.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/beldum.png
+375,Metang,"['Metal', 'Psychic']",1.2,446.4,202.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/metang.png
+376,Metagross,"['Metal', 'Psychic']",1.6,1212.5,550,https://img.pokemondb.net/sprites/scarlet-violet/icon/metagross.png
+377,Regirock,['Rock'],1.7,507.1,230,https://img.pokemondb.net/sprites/scarlet-violet/icon/regirock.png
+378,Regice,['Ice'],1.8,385.8,175,https://img.pokemondb.net/sprites/scarlet-violet/icon/regice.png
+379,Registeel,['Metal'],1.9,451.9,205,https://img.pokemondb.net/sprites/scarlet-violet/icon/registeel.png
+380,Latias,"['Dragon', 'Psychic']",1.4,88.2,40,https://img.pokemondb.net/sprites/scarlet-violet/icon/latias.png
+381,Latios,"['Dragon', 'Psychic']",2,132.3,60,https://img.pokemondb.net/sprites/scarlet-violet/icon/latios.png
+382,Kyogre,['Water'],4.5,776,352,https://img.pokemondb.net/sprites/scarlet-violet/icon/kyogre.png
+383,Groudon,['Ground'],3.5,2094.4,950,https://img.pokemondb.net/sprites/scarlet-violet/icon/groudon.png
+384,Rayquaza,"['Dragon', 'Flying']",7,455.3,206.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/rayquaza.png
+385,Jirachi,"['Metal', 'Psychic']",0.3,2.4,1.1,https://img.pokemondb.net/sprites/scarlet-violet/icon/jirachi.png
+386,Deoxys,['Psychic'],1.7,134,60.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/deoxys-normal.png
+387,Turtwig,['Grass'],0.4,22.5,10.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/turtwig.png
+388,Grotle,['Grass'],1.1,213.8,97,https://img.pokemondb.net/sprites/scarlet-violet/icon/grotle.png
+389,Torterra,"['Grass', 'Ground']",2.2,683.4,310,https://img.pokemondb.net/sprites/scarlet-violet/icon/torterra.png
+390,Chimchar,['Fire'],0.5,13.7,6.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/chimchar.png
+391,Monferno,"['Fire', 'Fighting']",0.9,48.5,22,https://img.pokemondb.net/sprites/scarlet-violet/icon/monferno.png
+392,Infernape,"['Fire', 'Fighting']",1.2,121.3,55,https://img.pokemondb.net/sprites/scarlet-violet/icon/infernape.png
+393,Piplup,['Water'],0.4,11.5,5.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/piplup.png
+394,Prinplup,['Water'],0.8,50.7,23,https://img.pokemondb.net/sprites/scarlet-violet/icon/prinplup.png
+395,Empoleon,"['Water', 'Metal']",1.7,186.3,84.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/empoleon.png
+396,Starly,"['Normal', 'Flying']",0.3,4.4,2,https://img.pokemondb.net/sprites/scarlet-violet/icon/starly.png
+397,Staravia,"['Normal', 'Flying']",0.6,34.2,15.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/staravia.png
+398,Staraptor,"['Normal', 'Flying']",1.2,54.9,24.9,https://img.pokemondb.net/sprites/scarlet-violet/icon/staraptor.png
+399,Bidoof,['Normal'],0.5,44.1,20,https://img.pokemondb.net/sprites/scarlet-violet/icon/bidoof.png
+400,Bibarel,"['Normal', 'Water']",1,69.4,31.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/bibarel.png
+401,Kricketot,['Bug'],0.3,4.9,2.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/kricketot.png
+402,Kricketune,['Bug'],1,56.2,25.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/kricketune.png
+403,Shinx,['Electric'],0.5,20.9,9.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/shinx.png
+404,Luxio,['Electric'],0.9,67.2,30.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/luxio.png
+405,Luxray,['Electric'],1.4,92.6,42,https://img.pokemondb.net/sprites/scarlet-violet/icon/luxray.png
+406,Budew,"['Grass', 'Poison']",0.2,2.6,1.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/budew.png
+407,Roserade,"['Grass', 'Poison']",0.9,32,14.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/roserade.png
+408,Cranidos,['Rock'],0.9,69.4,31.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/cranidos.png
+409,Rampardos,['Rock'],1.6,226,102.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/rampardos.png
+410,Shieldon,"['Rock', 'Metal']",0.5,125.7,57,https://img.pokemondb.net/sprites/scarlet-violet/icon/shieldon.png
+411,Bastiodon,"['Rock', 'Metal']",1.3,329.6,149.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/bastiodon.png
+412,Burmy,['Bug'],0.2,7.5,3.4,https://img.pokemondb.net/sprites/scarlet-violet/icon/burmy-plant.png
+413,Wormadam,"['Bug', 'Grass']",0.5,14.3,6.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/wormadam-plant.png
+414,Mothim,"['Bug', 'Flying']",0.9,51.4,23.3,https://img.pokemondb.net/sprites/scarlet-violet/icon/mothim.png
+415,Combee,"['Bug', 'Flying']",0.3,12.1,5.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/combee.png
+416,Vespiquen,"['Bug', 'Flying']",1.2,84.9,38.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/vespiquen.png
+417,Pachirisu,['Electric'],0.4,8.6,3.9,https://img.pokemondb.net/sprites/scarlet-violet/icon/pachirisu.png
+418,Buizel,['Water'],0.7,65,29.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/buizel.png
+419,Floatzel,['Water'],1.1,73.9,33.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/floatzel.png
+420,Cherubi,['Grass'],0.4,7.3,3.3,https://img.pokemondb.net/sprites/scarlet-violet/icon/cherubi.png
+421,Cherrim,['Grass'],0.5,20.5,9.3,https://img.pokemondb.net/sprites/scarlet-violet/icon/cherrim.png
+422,Shellos,['Water'],0.3,13.9,6.3,https://img.pokemondb.net/sprites/scarlet-violet/icon/shellos.png
+423,Gastrodon,"['Water', 'Ground']",0.9,65.9,29.9,https://img.pokemondb.net/sprites/scarlet-violet/icon/gastrodon.png
+424,Ambipom,['Normal'],1.2,44.8,20.3,https://img.pokemondb.net/sprites/scarlet-violet/icon/ambipom.png
+425,Drifloon,"['Ghost', 'Flying']",0.4,2.6,1.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/drifloon.png
+426,Drifblim,"['Ghost', 'Flying']",1.2,33.1,15,https://img.pokemondb.net/sprites/scarlet-violet/icon/drifblim.png
+427,Buneary,['Normal'],0.4,12.1,5.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/buneary.png
+428,Lopunny,['Normal'],1.2,73.4,33.3,https://img.pokemondb.net/sprites/scarlet-violet/icon/lopunny.png
+429,Mismagius,['Ghost'],0.9,9.7,4.4,https://img.pokemondb.net/sprites/scarlet-violet/icon/mismagius.png
+430,Honchkrow,"['Darkness', 'Flying']",0.9,60.2,27.3,https://img.pokemondb.net/sprites/scarlet-violet/icon/honchkrow.png
+431,Glameow,['Normal'],0.5,8.6,3.9,https://img.pokemondb.net/sprites/scarlet-violet/icon/glameow.png
+432,Purugly,['Normal'],1,96.6,43.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/purugly.png
+433,Chingling,['Psychic'],0.2,1.3,0.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/chingling.png
+434,Stunky,"['Poison', 'Darkness']",0.4,42.3,19.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/stunky.png
+435,Skuntank,"['Poison', 'Darkness']",1,83.8,38,https://img.pokemondb.net/sprites/scarlet-violet/icon/skuntank.png
+436,Bronzor,"['Metal', 'Psychic']",0.5,133.4,60.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/bronzor.png
+437,Bronzong,"['Metal', 'Psychic']",1.3,412.3,187,https://img.pokemondb.net/sprites/scarlet-violet/icon/bronzong.png
+438,Bonsly,['Rock'],0.5,33.1,15,https://img.pokemondb.net/sprites/scarlet-violet/icon/bonsly.png
+439,Mime Jr.,"['Psychic', 'Fairy']",0.6,28.7,13,https://img.pokemondb.net/sprites/scarlet-violet/icon/mime-jr.png
+440,Happiny,['Normal'],0.6,53.8,24.4,https://img.pokemondb.net/sprites/scarlet-violet/icon/happiny.png
+441,Chatot,"['Normal', 'Flying']",0.5,4.2,1.9,https://img.pokemondb.net/sprites/scarlet-violet/icon/chatot.png
+442,Spiritomb,"['Ghost', 'Darkness']",1,238.1,108,https://img.pokemondb.net/sprites/scarlet-violet/icon/spiritomb.png
+443,Gible,"['Dragon', 'Ground']",0.7,45.2,20.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/gible.png
+444,Gabite,"['Dragon', 'Ground']",1.4,123.5,56,https://img.pokemondb.net/sprites/scarlet-violet/icon/gabite.png
+445,Garchomp,"['Dragon', 'Ground']",1.9,209.4,95,https://img.pokemondb.net/sprites/scarlet-violet/icon/garchomp.png
+446,Munchlax,['Normal'],0.6,231.5,105,https://img.pokemondb.net/sprites/scarlet-violet/icon/munchlax.png
+447,Riolu,['Fighting'],0.7,44.5,20.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/riolu.png
+448,Lucario,"['Fighting', 'Metal']",1.2,119,54,https://img.pokemondb.net/sprites/scarlet-violet/icon/lucario.png
+449,Hippopotas,['Ground'],0.8,109.1,49.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/hippopotas.png
+450,Hippowdon,['Ground'],2,661.4,300,https://img.pokemondb.net/sprites/scarlet-violet/icon/hippowdon.png
+451,Skorupi,"['Poison', 'Bug']",0.8,26.5,12,https://img.pokemondb.net/sprites/scarlet-violet/icon/skorupi.png
+452,Drapion,"['Poison', 'Darkness']",1.3,135.6,61.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/drapion.png
+453,Croagunk,"['Poison', 'Fighting']",0.7,50.7,23,https://img.pokemondb.net/sprites/scarlet-violet/icon/croagunk.png
+454,Toxicroak,"['Poison', 'Fighting']",1.3,97.9,44.4,https://img.pokemondb.net/sprites/scarlet-violet/icon/toxicroak.png
+455,Carnivine,['Grass'],1.4,59.5,27,https://img.pokemondb.net/sprites/scarlet-violet/icon/carnivine.png
+456,Finneon,['Water'],0.4,15.4,7,https://img.pokemondb.net/sprites/scarlet-violet/icon/finneon.png
+457,Lumineon,['Water'],1.2,52.9,24,https://img.pokemondb.net/sprites/scarlet-violet/icon/lumineon.png
+458,Mantyke,"['Water', 'Flying']",1,143.3,65,https://img.pokemondb.net/sprites/scarlet-violet/icon/mantyke.png
+459,Snover,"['Grass', 'Ice']",1,111.3,50.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/snover.png
+460,Abomasnow,"['Grass', 'Ice']",2.2,298.7,135.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/abomasnow.png
+461,Weavile,"['Darkness', 'Ice']",1.1,75,34,https://img.pokemondb.net/sprites/scarlet-violet/icon/weavile.png
+462,Magnezone,"['Electric', 'Metal']",1.2,396.8,180,https://img.pokemondb.net/sprites/scarlet-violet/icon/magnezone.png
+463,Lickilicky,['Normal'],1.7,308.6,140,https://img.pokemondb.net/sprites/scarlet-violet/icon/lickilicky.png
+464,Rhyperior,"['Ground', 'Rock']",2.4,623.5,282.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/rhyperior.png
+465,Tangrowth,['Grass'],2,283.5,128.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/tangrowth.png
+466,Electivire,['Electric'],1.8,305.6,138.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/electivire.png
+467,Magmortar,['Fire'],1.6,149.9,68,https://img.pokemondb.net/sprites/scarlet-violet/icon/magmortar.png
+468,Togekiss,"['Fairy', 'Flying']",1.5,83.8,38,https://img.pokemondb.net/sprites/scarlet-violet/icon/togekiss.png
+469,Yanmega,"['Bug', 'Flying']",1.9,113.5,51.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/yanmega.png
+470,Leafeon,['Grass'],1,56.2,25.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/leafeon.png
+471,Glaceon,['Ice'],0.8,57.1,25.9,https://img.pokemondb.net/sprites/scarlet-violet/icon/glaceon.png
+472,Gliscor,"['Ground', 'Flying']",2,93.7,42.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/gliscor.png
+473,Mamoswine,"['Ice', 'Ground']",2.5,641.5,291,https://img.pokemondb.net/sprites/scarlet-violet/icon/mamoswine.png
+474,Porygon-Z,['Normal'],0.9,75,34,https://img.pokemondb.net/sprites/scarlet-violet/icon/porygon-z.png
+475,Gallade,"['Psychic', 'Fighting']",1.6,114.6,52,https://img.pokemondb.net/sprites/scarlet-violet/icon/gallade.png
+476,Probopass,"['Rock', 'Metal']",1.4,749.6,340,https://img.pokemondb.net/sprites/scarlet-violet/icon/probopass.png
+477,Dusknoir,['Ghost'],2.2,235,106.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/dusknoir.png
+478,Froslass,"['Ice', 'Ghost']",1.3,58.6,26.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/froslass.png
+479,Rotom,"['Electric', 'Ghost']",0.3,0.7,0.3,https://img.pokemondb.net/sprites/scarlet-violet/icon/rotom.png
+480,Uxie,['Psychic'],0.3,0.7,0.3,https://img.pokemondb.net/sprites/scarlet-violet/icon/uxie.png
+481,Mesprit,['Psychic'],0.3,0.7,0.3,https://img.pokemondb.net/sprites/scarlet-violet/icon/mesprit.png
+482,Azelf,['Psychic'],0.3,0.7,0.3,https://img.pokemondb.net/sprites/scarlet-violet/icon/azelf.png
+483,Dialga,"['Metal', 'Dragon']",5.4,1505.8,683,https://img.pokemondb.net/sprites/scarlet-violet/icon/dialga.png
+484,Palkia,"['Water', 'Dragon']",4.2,740.8,336,https://img.pokemondb.net/sprites/scarlet-violet/icon/palkia.png
+485,Heatran,"['Fire', 'Metal']",1.7,948,430,https://img.pokemondb.net/sprites/scarlet-violet/icon/heatran.png
+486,Regigigas,['Normal'],3.7,925.9,420,https://img.pokemondb.net/sprites/scarlet-violet/icon/regigigas.png
+487,Giratina,"['Ghost', 'Dragon']",4.5,1653.5,750,https://img.pokemondb.net/sprites/scarlet-violet/icon/giratina-altered.png
+488,Cresselia,['Psychic'],1.5,188.7,85.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/cresselia.png
+489,Phione,['Water'],0.4,6.8,3.1,https://img.pokemondb.net/sprites/scarlet-violet/icon/phione.png
+490,Manaphy,['Water'],0.3,3.1,1.4,https://img.pokemondb.net/sprites/scarlet-violet/icon/manaphy.png
+491,Darknessrai,['Darkness'],1.5,111.3,50.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/Darknessrai.png
+492,Shaymin,['Grass'],0.2,4.6,2.1,https://img.pokemondb.net/sprites/scarlet-violet/icon/shaymin-land.png
+493,Arceus,['Normal'],3.2,705.5,320,https://img.pokemondb.net/sprites/scarlet-violet/icon/arceus.png
+494,Victini,"['Psychic', 'Fire']",0.4,8.8,4,https://img.pokemondb.net/sprites/scarlet-violet/icon/victini.png
+495,Snivy,['Grass'],0.6,17.9,8.1,https://img.pokemondb.net/sprites/scarlet-violet/icon/snivy.png
+496,Servine,['Grass'],0.8,35.3,16,https://img.pokemondb.net/sprites/scarlet-violet/icon/servine.png
+497,Serperior,['Grass'],3.3,138.9,63,https://img.pokemondb.net/sprites/scarlet-violet/icon/serperior.png
+498,Tepig,['Fire'],0.5,21.8,9.9,https://img.pokemondb.net/sprites/scarlet-violet/icon/tepig.png
+499,Pignite,"['Fire', 'Fighting']",1,122.4,55.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/pignite.png
+500,Emboar,"['Fire', 'Fighting']",1.6,330.7,150,https://img.pokemondb.net/sprites/scarlet-violet/icon/emboar.png
+501,Oshawott,['Water'],0.5,13,5.9,https://img.pokemondb.net/sprites/scarlet-violet/icon/oshawott.png
+502,Dewott,['Water'],0.8,54,24.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/dewott.png
+503,Samurott,['Water'],1.5,208.6,94.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/samurott.png
+504,Patrat,['Normal'],0.5,25.6,11.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/patrat.png
+505,Watchog,['Normal'],1.1,59.5,27,https://img.pokemondb.net/sprites/scarlet-violet/icon/watchog.png
+506,Lillipup,['Normal'],0.4,9,4.1,https://img.pokemondb.net/sprites/scarlet-violet/icon/lillipup.png
+507,Herdier,['Normal'],0.9,32.4,14.7,https://img.pokemondb.net/sprites/scarlet-violet/icon/herdier.png
+508,Stoutland,['Normal'],1.2,134.5,61,https://img.pokemondb.net/sprites/scarlet-violet/icon/stoutland.png
+509,Purrloin,['Darkness'],0.4,22.3,10.1,https://img.pokemondb.net/sprites/scarlet-violet/icon/purrloin.png
+510,Liepard,['Darkness'],1.1,82.7,37.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/liepard.png
+511,Pansage,['Grass'],0.6,23.1,10.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/pansage.png
+512,Simisage,['Grass'],1.1,67.2,30.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/simisage.png
+513,Pansear,['Fire'],0.6,24.3,11,https://img.pokemondb.net/sprites/scarlet-violet/icon/pansear.png
+514,Simisear,['Fire'],1,61.7,28,https://img.pokemondb.net/sprites/scarlet-violet/icon/simisear.png
+515,Panpour,['Water'],0.6,29.8,13.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/panpour.png
+516,Simipour,['Water'],1,63.9,29,https://img.pokemondb.net/sprites/scarlet-violet/icon/simipour.png
+517,Munna,['Psychic'],0.6,51.4,23.3,https://img.pokemondb.net/sprites/scarlet-violet/icon/munna.png
+518,Musharna,['Psychic'],1.1,133.4,60.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/musharna.png
+519,Pidove,"['Normal', 'Flying']",0.3,4.6,2.1,https://img.pokemondb.net/sprites/scarlet-violet/icon/pidove.png
+520,Tranquill,"['Normal', 'Flying']",0.6,33.1,15,https://img.pokemondb.net/sprites/scarlet-violet/icon/tranquill.png
+521,Unfezant,"['Normal', 'Flying']",1.2,63.9,29,https://img.pokemondb.net/sprites/scarlet-violet/icon/unfezant.png
+522,Blitzle,['Electric'],0.8,65.7,29.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/blitzle.png
+523,Zebstrika,['Electric'],1.6,175.3,79.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/zebstrika.png
+524,Roggenrola,['Rock'],0.4,39.7,18,https://img.pokemondb.net/sprites/scarlet-violet/icon/roggenrola.png
+525,Boldore,['Rock'],0.9,224.9,102,https://img.pokemondb.net/sprites/scarlet-violet/icon/boldore.png
+526,Gigalith,['Rock'],1.7,573.2,260,https://img.pokemondb.net/sprites/scarlet-violet/icon/gigalith.png
+527,Woobat,"['Psychic', 'Flying']",0.4,4.6,2.1,https://img.pokemondb.net/sprites/scarlet-violet/icon/woobat.png
+528,Swoobat,"['Psychic', 'Flying']",0.9,23.1,10.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/swoobat.png
+529,Drilbur,['Ground'],0.3,18.7,8.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/drilbur.png
+530,Excadrill,"['Ground', 'Metal']",0.7,89.1,40.4,https://img.pokemondb.net/sprites/scarlet-violet/icon/excadrill.png
+531,Audino,['Normal'],1.1,68.3,31,https://img.pokemondb.net/sprites/scarlet-violet/icon/audino.png
+532,Timburr,['Fighting'],0.6,27.6,12.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/timburr.png
+533,Gurdurr,['Fighting'],1.2,88.2,40,https://img.pokemondb.net/sprites/scarlet-violet/icon/gurdurr.png
+534,Conkeldurr,['Fighting'],1.4,191.8,87,https://img.pokemondb.net/sprites/scarlet-violet/icon/conkeldurr.png
+535,Tympole,['Water'],0.5,9.9,4.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/tympole.png
+536,Palpitoad,"['Water', 'Ground']",0.8,37.5,17,https://img.pokemondb.net/sprites/scarlet-violet/icon/palpitoad.png
+537,Seismitoad,"['Water', 'Ground']",1.5,136.7,62,https://img.pokemondb.net/sprites/scarlet-violet/icon/seismitoad.png
+538,Throh,['Fighting'],1.3,122.4,55.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/throh.png
+539,Sawk,['Fighting'],1.4,112.4,51,https://img.pokemondb.net/sprites/scarlet-violet/icon/sawk.png
+540,Sewaddle,"['Bug', 'Grass']",0.3,5.5,2.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/sewaddle.png
+541,Swadloon,"['Bug', 'Grass']",0.5,16.1,7.3,https://img.pokemondb.net/sprites/scarlet-violet/icon/swadloon.png
+542,Leavanny,"['Bug', 'Grass']",1.2,45.2,20.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/leavanny.png
+543,Venipede,"['Bug', 'Poison']",0.4,11.7,5.3,https://img.pokemondb.net/sprites/scarlet-violet/icon/venipede.png
+544,Whirlipede,"['Bug', 'Poison']",1.2,129,58.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/whirlipede.png
+545,Scolipede,"['Bug', 'Poison']",2.5,442,200.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/scolipede.png
+546,Cottonee,"['Grass', 'Fairy']",0.3,1.3,0.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/cottonee.png
+547,Whimsicott,"['Grass', 'Fairy']",0.7,14.6,6.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/whimsicott.png
+548,Petilil,['Grass'],0.5,14.6,6.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/petilil.png
+549,Lilligant,['Grass'],1.1,35.9,16.3,https://img.pokemondb.net/sprites/scarlet-violet/icon/lilligant.png
+550,Basculin,['Water'],1,39.7,18,https://img.pokemondb.net/sprites/scarlet-violet/icon/basculin-red-striped.png
+551,Sandile,"['Ground', 'Darkness']",0.7,33.5,15.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/sandile.png
+552,Krokorok,"['Ground', 'Darkness']",1,73.6,33.4,https://img.pokemondb.net/sprites/scarlet-violet/icon/krokorok.png
+553,Krookodile,"['Ground', 'Darkness']",1.5,212.3,96.3,https://img.pokemondb.net/sprites/scarlet-violet/icon/krookodile.png
+554,Darumaka,['Fire'],0.6,82.7,37.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/darumaka.png
+555,Darmanitan,['Fire'],1.3,204.8,92.9,https://img.pokemondb.net/sprites/scarlet-violet/icon/darmanitan-standard.png
+556,Maractus,['Grass'],1,61.7,28,https://img.pokemondb.net/sprites/scarlet-violet/icon/maractus.png
+557,Dwebble,"['Bug', 'Rock']",0.3,32,14.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/dwebble.png
+558,Crustle,"['Bug', 'Rock']",1.4,440.9,200,https://img.pokemondb.net/sprites/scarlet-violet/icon/crustle.png
+559,Scraggy,"['Darkness', 'Fighting']",0.6,26,11.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/scraggy.png
+560,Scrafty,"['Darkness', 'Fighting']",1.1,66.1,30,https://img.pokemondb.net/sprites/scarlet-violet/icon/scrafty.png
+561,Sigilyph,"['Psychic', 'Flying']",1.4,30.9,14,https://img.pokemondb.net/sprites/scarlet-violet/icon/sigilyph.png
+562,Yamask,['Ghost'],0.5,3.3,1.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/yamask.png
+563,Cofagrigus,['Ghost'],1.7,168.7,76.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/cofagrigus.png
+564,Tirtouga,"['Water', 'Rock']",0.7,36.4,16.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/tirtouga.png
+565,Carracosta,"['Water', 'Rock']",1.2,178.6,81,https://img.pokemondb.net/sprites/scarlet-violet/icon/carracosta.png
+566,Archen,"['Rock', 'Flying']",0.5,20.9,9.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/archen.png
+567,Archeops,"['Rock', 'Flying']",1.4,70.5,32,https://img.pokemondb.net/sprites/scarlet-violet/icon/archeops.png
+568,Trubbish,['Poison'],0.6,68.3,31,https://img.pokemondb.net/sprites/scarlet-violet/icon/trubbish.png
+569,Garbodor,['Poison'],1.9,236.6,107.3,https://img.pokemondb.net/sprites/scarlet-violet/icon/garbodor.png
+570,Zorua,['Darkness'],0.7,27.6,12.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/zorua.png
+571,Zoroark,['Darkness'],1.6,178.8,81.1,https://img.pokemondb.net/sprites/scarlet-violet/icon/zoroark.png
+572,Minccino,['Normal'],0.4,12.8,5.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/minccino.png
+573,Cinccino,['Normal'],0.5,16.5,7.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/cinccino.png
+574,Gothita,['Psychic'],0.4,12.8,5.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/gothita.png
+575,Gothorita,['Psychic'],0.7,39.7,18,https://img.pokemondb.net/sprites/scarlet-violet/icon/gothorita.png
+576,Gothitelle,['Psychic'],1.5,97,44,https://img.pokemondb.net/sprites/scarlet-violet/icon/gothitelle.png
+577,Solosis,['Psychic'],0.3,2.2,1,https://img.pokemondb.net/sprites/scarlet-violet/icon/solosis.png
+578,Duosion,['Psychic'],0.6,17.6,8,https://img.pokemondb.net/sprites/scarlet-violet/icon/duosion.png
+579,Reuniclus,['Psychic'],1,44.3,20.1,https://img.pokemondb.net/sprites/scarlet-violet/icon/reuniclus.png
+580,Ducklett,"['Water', 'Flying']",0.5,12.1,5.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/ducklett.png
+581,Swanna,"['Water', 'Flying']",1.3,53.4,24.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/swanna.png
+582,Vanillite,['Ice'],0.4,12.6,5.7,https://img.pokemondb.net/sprites/scarlet-violet/icon/vanillite.png
+583,Vanillish,['Ice'],1.1,90.4,41,https://img.pokemondb.net/sprites/scarlet-violet/icon/vanillish.png
+584,Vanilluxe,['Ice'],1.3,126.8,57.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/vanilluxe.png
+585,Deerling,"['Normal', 'Grass']",0.6,43,19.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/deerling.png
+586,Sawsbuck,"['Normal', 'Grass']",1.9,203.9,92.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/sawsbuck.png
+587,Emolga,"['Electric', 'Flying']",0.4,11,5,https://img.pokemondb.net/sprites/scarlet-violet/icon/emolga.png
+588,Karrablast,['Bug'],0.5,13,5.9,https://img.pokemondb.net/sprites/scarlet-violet/icon/karrablast.png
+589,Escavalier,"['Bug', 'Metal']",1,72.8,33,https://img.pokemondb.net/sprites/scarlet-violet/icon/escavalier.png
+590,Foongus,"['Grass', 'Poison']",0.2,2.2,1,https://img.pokemondb.net/sprites/scarlet-violet/icon/foongus.png
+591,Amoonguss,"['Grass', 'Poison']",0.6,23.1,10.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/amoonguss.png
+592,Frillish,"['Water', 'Ghost']",1.2,72.8,33,https://img.pokemondb.net/sprites/scarlet-violet/icon/frillish.png
+593,Jellicent,"['Water', 'Ghost']",2.2,297.6,135,https://img.pokemondb.net/sprites/scarlet-violet/icon/jellicent.png
+594,Alomomola,['Water'],1.2,69.7,31.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/alomomola.png
+595,Joltik,"['Bug', 'Electric']",0.1,1.3,0.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/joltik.png
+596,Galvantula,"['Bug', 'Electric']",0.8,31.5,14.3,https://img.pokemondb.net/sprites/scarlet-violet/icon/galvantula.png
+597,Ferroseed,"['Grass', 'Metal']",0.6,41.4,18.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/ferroseed.png
+598,Ferrothorn,"['Grass', 'Metal']",1,242.5,110,https://img.pokemondb.net/sprites/scarlet-violet/icon/ferrothorn.png
+599,Klink,['Metal'],0.3,46.3,21,https://img.pokemondb.net/sprites/scarlet-violet/icon/klink.png
+600,Klang,['Metal'],0.6,112.4,51,https://img.pokemondb.net/sprites/scarlet-violet/icon/klang.png
+601,Klinklang,['Metal'],0.6,178.6,81,https://img.pokemondb.net/sprites/scarlet-violet/icon/klinklang.png
+602,Tynamo,['Electric'],0.2,0.7,0.3,https://img.pokemondb.net/sprites/scarlet-violet/icon/tynamo.png
+603,Eelektrik,['Electric'],1.2,48.5,22,https://img.pokemondb.net/sprites/scarlet-violet/icon/eelektrik.png
+604,Eelektross,['Electric'],2.1,177.5,80.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/eelektross.png
+605,Elgyem,['Psychic'],0.5,19.8,9,https://img.pokemondb.net/sprites/scarlet-violet/icon/elgyem.png
+606,Beheeyem,['Psychic'],1,76.1,34.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/beheeyem.png
+607,Litwick,"['Ghost', 'Fire']",0.3,6.8,3.1,https://img.pokemondb.net/sprites/scarlet-violet/icon/litwick.png
+608,Lampent,"['Ghost', 'Fire']",0.6,28.7,13,https://img.pokemondb.net/sprites/scarlet-violet/icon/lampent.png
+609,Chandelure,"['Ghost', 'Fire']",1,75.6,34.3,https://img.pokemondb.net/sprites/scarlet-violet/icon/chandelure.png
+610,Axew,['Dragon'],0.6,39.7,18,https://img.pokemondb.net/sprites/scarlet-violet/icon/axew.png
+611,Fraxure,['Dragon'],1,79.4,36,https://img.pokemondb.net/sprites/scarlet-violet/icon/fraxure.png
+612,Haxorus,['Dragon'],1.8,232.6,105.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/haxorus.png
+613,Cubchoo,['Ice'],0.5,18.7,8.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/cubchoo.png
+614,Beartic,['Ice'],2.6,573.2,260,https://img.pokemondb.net/sprites/scarlet-violet/icon/beartic.png
+615,Cryogonal,['Ice'],1.1,326.3,148,https://img.pokemondb.net/sprites/scarlet-violet/icon/cryogonal.png
+616,Shelmet,['Bug'],0.4,17,7.7,https://img.pokemondb.net/sprites/scarlet-violet/icon/shelmet.png
+617,Accelgor,['Bug'],0.8,55.8,25.3,https://img.pokemondb.net/sprites/scarlet-violet/icon/accelgor.png
+618,Stunfisk,"['Ground', 'Electric']",0.7,24.3,11,https://img.pokemondb.net/sprites/scarlet-violet/icon/stunfisk.png
+619,Mienfoo,['Fighting'],0.9,44.1,20,https://img.pokemondb.net/sprites/scarlet-violet/icon/mienfoo.png
+620,Mienshao,['Fighting'],1.4,78.3,35.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/mienshao.png
+621,Druddigon,['Dragon'],1.6,306.4,139,https://img.pokemondb.net/sprites/scarlet-violet/icon/druddigon.png
+622,Golett,"['Ground', 'Ghost']",1,202.8,92,https://img.pokemondb.net/sprites/scarlet-violet/icon/golett.png
+623,Golurk,"['Ground', 'Ghost']",2.8,727.5,330,https://img.pokemondb.net/sprites/scarlet-violet/icon/golurk.png
+624,Pawniard,"['Darkness', 'Metal']",0.5,22.5,10.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/pawniard.png
+625,Bisharp,"['Darkness', 'Metal']",1.6,154.3,70,https://img.pokemondb.net/sprites/scarlet-violet/icon/bisharp.png
+626,Bouffalant,['Normal'],1.6,208.6,94.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/bouffalant.png
+627,Rufflet,"['Normal', 'Flying']",0.5,23.1,10.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/rufflet.png
+628,Braviary,"['Normal', 'Flying']",1.5,90.4,41,https://img.pokemondb.net/sprites/scarlet-violet/icon/braviary.png
+629,Vullaby,"['Darkness', 'Flying']",0.5,19.8,9,https://img.pokemondb.net/sprites/scarlet-violet/icon/vullaby.png
+630,Mandibuzz,"['Darkness', 'Flying']",1.2,87.1,39.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/mandibuzz.png
+631,Heatmor,['Fire'],1.4,127.9,58,https://img.pokemondb.net/sprites/scarlet-violet/icon/heatmor.png
+632,Durant,"['Bug', 'Metal']",0.3,72.8,33,https://img.pokemondb.net/sprites/scarlet-violet/icon/durant.png
+633,Deino,"['Darkness', 'Dragon']",0.8,38.1,17.3,https://img.pokemondb.net/sprites/scarlet-violet/icon/deino.png
+634,Zweilous,"['Darkness', 'Dragon']",1.4,110.2,50,https://img.pokemondb.net/sprites/scarlet-violet/icon/zweilous.png
+635,Hydreigon,"['Darkness', 'Dragon']",1.8,352.7,160,https://img.pokemondb.net/sprites/scarlet-violet/icon/hydreigon.png
+636,Larvesta,"['Bug', 'Fire']",1.1,63.5,28.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/larvesta.png
+637,Volcarona,"['Bug', 'Fire']",1.6,101.4,46,https://img.pokemondb.net/sprites/scarlet-violet/icon/volcarona.png
+638,Cobalion,"['Metal', 'Fighting']",2.1,551.2,250,https://img.pokemondb.net/sprites/scarlet-violet/icon/cobalion.png
+639,Terrakion,"['Rock', 'Fighting']",1.9,573.2,260,https://img.pokemondb.net/sprites/scarlet-violet/icon/terrakion.png
+640,Virizion,"['Grass', 'Fighting']",2,440.9,200,https://img.pokemondb.net/sprites/scarlet-violet/icon/virizion.png
+641,Tornadus,['Flying'],1.5,138.9,63,https://img.pokemondb.net/sprites/scarlet-violet/icon/tornadus-incarnate.png
+642,Thundurus,"['Electric', 'Flying']",1.5,134.5,61,https://img.pokemondb.net/sprites/scarlet-violet/icon/thundurus-incarnate.png
+643,Reshiram,"['Dragon', 'Fire']",3.2,727.5,330,https://img.pokemondb.net/sprites/scarlet-violet/icon/reshiram.png
+644,Zekrom,"['Dragon', 'Electric']",2.9,760.6,345,https://img.pokemondb.net/sprites/scarlet-violet/icon/zekrom.png
+645,Landorus,"['Ground', 'Flying']",1.5,149.9,68,https://img.pokemondb.net/sprites/scarlet-violet/icon/landorus-incarnate.png
+646,Kyurem,"['Dragon', 'Ice']",3,716.5,325,https://img.pokemondb.net/sprites/scarlet-violet/icon/kyurem.png
+647,Keldeo,"['Water', 'Fighting']",1.4,106.9,48.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/keldeo-ordinary.png
+648,Meloetta,"['Normal', 'Psychic']",0.6,14.3,6.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/meloetta-aria.png
+649,Genesect,"['Bug', 'Metal']",1.5,181.9,82.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/genesect.png
+650,Chespin,['Grass'],0.4,19.8,9,https://img.pokemondb.net/sprites/scarlet-violet/icon/chespin.png
+651,Quilladin,['Grass'],0.7,63.9,29,https://img.pokemondb.net/sprites/scarlet-violet/icon/quilladin.png
+652,Chesnaught,"['Grass', 'Fighting']",1.6,198.4,90,https://img.pokemondb.net/sprites/scarlet-violet/icon/chesnaught.png
+653,Fennekin,['Fire'],0.4,20.7,9.4,https://img.pokemondb.net/sprites/scarlet-violet/icon/fennekin.png
+654,Braixen,['Fire'],1,32,14.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/braixen.png
+655,Delphox,"['Fire', 'Psychic']",1.5,86,39,https://img.pokemondb.net/sprites/scarlet-violet/icon/delphox.png
+656,Froakie,['Water'],0.3,15.4,7,https://img.pokemondb.net/sprites/scarlet-violet/icon/froakie.png
+657,Frogadier,['Water'],0.6,24,10.9,https://img.pokemondb.net/sprites/scarlet-violet/icon/frogadier.png
+658,Greninja,"['Water', 'Darkness']",1.5,88.2,40,https://img.pokemondb.net/sprites/scarlet-violet/icon/greninja.png
+659,Bunnelby,['Normal'],0.4,11,5,https://img.pokemondb.net/sprites/scarlet-violet/icon/bunnelby.png
+660,Diggersby,"['Normal', 'Ground']",1,93.5,42.4,https://img.pokemondb.net/sprites/scarlet-violet/icon/diggersby.png
+661,Fletchling,"['Normal', 'Flying']",0.3,3.7,1.7,https://img.pokemondb.net/sprites/scarlet-violet/icon/fletchling.png
+662,Fletchinder,"['Fire', 'Flying']",0.7,35.3,16,https://img.pokemondb.net/sprites/scarlet-violet/icon/fletchinder.png
+663,Talonflame,"['Fire', 'Flying']",1.2,54,24.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/talonflame.png
+664,Scatterbug,['Bug'],0.3,5.5,2.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/scatterbug.png
+665,Spewpa,['Bug'],0.3,18.5,8.4,https://img.pokemondb.net/sprites/scarlet-violet/icon/spewpa.png
+666,Vivillon,"['Bug', 'Flying']",1.2,37.5,17,https://img.pokemondb.net/sprites/scarlet-violet/icon/vivillon.png
+667,Litleo,"['Fire', 'Normal']",0.6,29.8,13.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/litleo.png
+668,Pyroar,"['Fire', 'Normal']",1.5,179.7,81.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/pyroar.png
+669,Flab,['Fairy'],0.1,0.2,0.1,https://img.pokemondb.net/sprites/scarlet-violet/icon/flabebe.png
+670,Floette,['Fairy'],0.2,2,0.9,https://img.pokemondb.net/sprites/scarlet-violet/icon/floette.png
+671,Florges,['Fairy'],1.1,22,10,https://img.pokemondb.net/sprites/scarlet-violet/icon/florges.png
+672,Skiddo,['Grass'],0.9,68.3,31,https://img.pokemondb.net/sprites/scarlet-violet/icon/skiddo.png
+673,Gogoat,['Grass'],1.7,200.6,91,https://img.pokemondb.net/sprites/scarlet-violet/icon/gogoat.png
+674,Pancham,['Fighting'],0.6,17.6,8,https://img.pokemondb.net/sprites/scarlet-violet/icon/pancham.png
+675,Pangoro,"['Fighting', 'Darkness']",2.1,299.8,136,https://img.pokemondb.net/sprites/scarlet-violet/icon/pangoro.png
+676,Furfrou,['Normal'],1.2,61.7,28,https://img.pokemondb.net/sprites/scarlet-violet/icon/furfrou.png
+677,Espurr,['Psychic'],0.3,7.7,3.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/espurr.png
+678,Meowstic,['Psychic'],0.6,18.7,8.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/meowstic-male.png
+679,Honedge,"['Metal', 'Ghost']",0.8,4.4,2,https://img.pokemondb.net/sprites/scarlet-violet/icon/honedge.png
+680,Doublade,"['Metal', 'Ghost']",0.8,9.9,4.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/doublade.png
+681,Aegislash,"['Metal', 'Ghost']",1.7,116.8,53,https://img.pokemondb.net/sprites/scarlet-violet/icon/aegislash-shield.png
+682,Spritzee,['Fairy'],0.2,1.1,0.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/spritzee.png
+683,Aromatisse,['Fairy'],0.8,34.2,15.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/aromatisse.png
+684,Swirlix,['Fairy'],0.4,7.7,3.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/swirlix.png
+685,Slurpuff,['Fairy'],0.8,11,5,https://img.pokemondb.net/sprites/scarlet-violet/icon/slurpuff.png
+686,Inkay,"['Darkness', 'Psychic']",0.4,7.7,3.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/inkay.png
+687,Malamar,"['Darkness', 'Psychic']",1.5,103.6,47,https://img.pokemondb.net/sprites/scarlet-violet/icon/malamar.png
+688,Binacle,"['Rock', 'Water']",0.5,68.3,31,https://img.pokemondb.net/sprites/scarlet-violet/icon/binacle.png
+689,Barbaracle,"['Rock', 'Water']",1.3,211.6,96,https://img.pokemondb.net/sprites/scarlet-violet/icon/barbaracle.png
+690,Skrelp,"['Poison', 'Water']",0.5,16.1,7.3,https://img.pokemondb.net/sprites/scarlet-violet/icon/skrelp.png
+691,Dragalge,"['Poison', 'Dragon']",1.8,179.7,81.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/dragalge.png
+692,Clauncher,['Water'],0.5,18.3,8.3,https://img.pokemondb.net/sprites/scarlet-violet/icon/clauncher.png
+693,Clawitzer,['Water'],1.3,77.8,35.3,https://img.pokemondb.net/sprites/scarlet-violet/icon/clawitzer.png
+694,Helioptile,"['Electric', 'Normal']",0.5,13.2,6,https://img.pokemondb.net/sprites/scarlet-violet/icon/helioptile.png
+695,Heliolisk,"['Electric', 'Normal']",1,46.3,21,https://img.pokemondb.net/sprites/scarlet-violet/icon/heliolisk.png
+696,Tyrunt,"['Rock', 'Dragon']",0.8,57.3,26,https://img.pokemondb.net/sprites/scarlet-violet/icon/tyrunt.png
+697,Tyrantrum,"['Rock', 'Dragon']",2.5,595.2,270,https://img.pokemondb.net/sprites/scarlet-violet/icon/tyrantrum.png
+698,Amaura,"['Rock', 'Ice']",1.3,55.6,25.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/amaura.png
+699,Aurorus,"['Rock', 'Ice']",2.7,496,225,https://img.pokemondb.net/sprites/scarlet-violet/icon/aurorus.png
+700,Sylveon,['Fairy'],1,51.8,23.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/sylveon.png
+701,Hawlucha,"['Fighting', 'Flying']",0.8,47.4,21.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/hawlucha.png
+702,Dedenne,"['Electric', 'Fairy']",0.2,4.9,2.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/dedenne.png
+703,Carbink,"['Rock', 'Fairy']",0.3,12.6,5.7,https://img.pokemondb.net/sprites/scarlet-violet/icon/carbink.png
+704,Goomy,['Dragon'],0.3,6.2,2.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/goomy.png
+705,Sliggoo,['Dragon'],0.8,38.6,17.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/sliggoo.png
+706,Goodra,['Dragon'],2,331.8,150.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/goodra.png
+707,Klefki,"['Metal', 'Fairy']",0.2,6.6,3,https://img.pokemondb.net/sprites/scarlet-violet/icon/klefki.png
+708,Phantump,"['Ghost', 'Grass']",0.4,15.4,7,https://img.pokemondb.net/sprites/scarlet-violet/icon/phantump.png
+709,Trevenant,"['Ghost', 'Grass']",1.5,156.5,71,https://img.pokemondb.net/sprites/scarlet-violet/icon/trevenant.png
+710,Pumpkaboo,"['Ghost', 'Grass']",0.4,11,5,https://img.pokemondb.net/sprites/scarlet-violet/icon/pumpkaboo-average.png
+711,Gourgeist,"['Ghost', 'Grass']",0.9,27.6,12.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/gourgeist-average.png
+712,Bergmite,['Ice'],1,219.4,99.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/bergmite.png
+713,Avalugg,['Ice'],2,1113.3,505,https://img.pokemondb.net/sprites/scarlet-violet/icon/avalugg.png
+714,Noibat,"['Flying', 'Dragon']",0.5,17.6,8,https://img.pokemondb.net/sprites/scarlet-violet/icon/noibat.png
+715,Noivern,"['Flying', 'Dragon']",1.5,187.4,85,https://img.pokemondb.net/sprites/scarlet-violet/icon/noivern.png
+716,Xerneas,['Fairy'],3,474,215,https://img.pokemondb.net/sprites/scarlet-violet/icon/xerneas.png
+717,Yveltal,"['Darkness', 'Flying']",5.8,447.5,203,https://img.pokemondb.net/sprites/scarlet-violet/icon/yveltal.png
+718,Zygarde,"['Dragon', 'Ground']",5,672.4,305,https://img.pokemondb.net/sprites/scarlet-violet/icon/zygarde-50.png
+719,Diancie,"['Rock', 'Fairy']",0.7,19.4,8.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/diancie.png
+720,Hoopa,"['Psychic', 'Ghost']",0.5,19.8,9,https://img.pokemondb.net/sprites/scarlet-violet/icon/hoopa-confined.png
+721,Volcanion,"['Fire', 'Water']",1.7,429.9,195,https://img.pokemondb.net/sprites/scarlet-violet/icon/volcanion.png
+722,Rowlet,"['Grass', 'Flying']",0.3,3.3,1.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/rowlet.png
+723,Dartrix,"['Grass', 'Flying']",0.7,35.3,16,https://img.pokemondb.net/sprites/scarlet-violet/icon/dartrix.png
+724,Decidueye,"['Grass', 'Ghost']",1.6,80.7,36.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/decidueye.png
+725,Litten,['Fire'],0.4,9.5,4.3,https://img.pokemondb.net/sprites/scarlet-violet/icon/litten.png
+726,Torracat,['Fire'],0.7,55.1,25,https://img.pokemondb.net/sprites/scarlet-violet/icon/torracat.png
+727,Incineroar,"['Fire', 'Darkness']",1.8,183,83,https://img.pokemondb.net/sprites/scarlet-violet/icon/incineroar.png
+728,Popplio,['Water'],0.4,16.5,7.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/popplio.png
+729,Brionne,['Water'],0.6,38.6,17.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/brionne.png
+730,Primarina,"['Water', 'Fairy']",1.8,97,44,https://img.pokemondb.net/sprites/scarlet-violet/icon/primarina.png
+731,Pikipek,"['Normal', 'Flying']",0.3,2.6,1.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/pikipek.png
+732,Trumbeak,"['Normal', 'Flying']",0.6,32.6,14.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/trumbeak.png
+733,Toucannon,"['Normal', 'Flying']",1.1,57.3,26,https://img.pokemondb.net/sprites/scarlet-violet/icon/toucannon.png
+734,Yungoos,['Normal'],0.4,13.2,6,https://img.pokemondb.net/sprites/scarlet-violet/icon/yungoos.png
+735,Gumshoos,['Normal'],0.7,31.3,14.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/gumshoos.png
+736,Grubbin,['Bug'],0.4,9.7,4.4,https://img.pokemondb.net/sprites/scarlet-violet/icon/grubbin.png
+737,Charjabug,"['Bug', 'Electric']",0.5,23.1,10.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/charjabug.png
+738,Vikavolt,"['Bug', 'Electric']",1.5,99.2,45,https://img.pokemondb.net/sprites/scarlet-violet/icon/vikavolt.png
+739,Crabrawler,['Fighting'],0.6,15.4,7,https://img.pokemondb.net/sprites/scarlet-violet/icon/crabrawler.png
+740,Crabominable,"['Fighting', 'Ice']",1.7,396.8,180,https://img.pokemondb.net/sprites/scarlet-violet/icon/crabominable.png
+741,Oricorio,"['Fire', 'Flying']",0.6,7.5,3.4,https://img.pokemondb.net/sprites/scarlet-violet/icon/oricorio-baile.png
+742,Cutiefly,"['Bug', 'Fairy']",0.1,0.4,0.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/cutiefly.png
+743,Ribombee,"['Bug', 'Fairy']",0.2,1.1,0.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/ribombee.png
+744,Rockruff,['Rock'],0.5,20.3,9.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/rockruff.png
+745,Lycanroc,['Rock'],0.8,55.1,25,https://img.pokemondb.net/sprites/scarlet-violet/icon/lycanroc-midday.png
+746,Wishiwashi,['Water'],0.2,0.7,0.3,https://img.pokemondb.net/sprites/scarlet-violet/icon/wishiwashi-solo.png
+747,Mareanie,"['Poison', 'Water']",0.4,17.6,8,https://img.pokemondb.net/sprites/scarlet-violet/icon/mareanie.png
+748,Toxapex,"['Poison', 'Water']",0.7,32,14.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/toxapex.png
+749,Mudbray,['Ground'],1,242.5,110,https://img.pokemondb.net/sprites/scarlet-violet/icon/mudbray.png
+750,Mudsdale,['Ground'],2.5,2028.3,920,https://img.pokemondb.net/sprites/scarlet-violet/icon/mudsdale.png
+751,Dewpider,"['Water', 'Bug']",0.3,8.8,4,https://img.pokemondb.net/sprites/scarlet-violet/icon/dewpider.png
+752,Araquanid,"['Water', 'Bug']",1.8,180.8,82,https://img.pokemondb.net/sprites/scarlet-violet/icon/araquanid.png
+753,Fomantis,['Grass'],0.3,3.3,1.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/fomantis.png
+754,Lurantis,['Grass'],0.9,40.8,18.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/lurantis.png
+755,Morelull,"['Grass', 'Fairy']",0.2,3.3,1.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/morelull.png
+756,Shiinotic,"['Grass', 'Fairy']",1,25.4,11.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/shiinotic.png
+757,Salandit,"['Poison', 'Fire']",0.6,10.6,4.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/salandit.png
+758,Salazzle,"['Poison', 'Fire']",1.2,48.9,22.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/salazzle.png
+759,Stufful,"['Normal', 'Fighting']",0.5,15,6.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/stufful.png
+760,Bewear,"['Normal', 'Fighting']",2.1,297.6,135,https://img.pokemondb.net/sprites/scarlet-violet/icon/bewear.png
+761,Bounsweet,['Grass'],0.3,7.1,3.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/bounsweet.png
+762,Steenee,['Grass'],0.7,18.1,8.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/steenee.png
+763,Tsareena,['Grass'],1.2,47.2,21.4,https://img.pokemondb.net/sprites/scarlet-violet/icon/tsareena.png
+764,Comfey,['Fairy'],0.1,0.7,0.3,https://img.pokemondb.net/sprites/scarlet-violet/icon/comfey.png
+765,Oranguru,"['Normal', 'Psychic']",1.5,167.6,76,https://img.pokemondb.net/sprites/scarlet-violet/icon/oranguru.png
+766,Passimian,['Fighting'],2,182.5,82.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/passimian.png
+767,Wimpod,"['Bug', 'Water']",0.5,26.5,12,https://img.pokemondb.net/sprites/scarlet-violet/icon/wimpod.png
+768,Golisopod,"['Bug', 'Water']",2,238.1,108,https://img.pokemondb.net/sprites/scarlet-violet/icon/golisopod.png
+769,Sandygast,"['Ghost', 'Ground']",0.5,154.3,70,https://img.pokemondb.net/sprites/scarlet-violet/icon/sandygast.png
+770,Palossand,"['Ghost', 'Ground']",1.3,551.2,250,https://img.pokemondb.net/sprites/scarlet-violet/icon/palossand.png
+771,Pyukumuku,['Water'],0.3,2.6,1.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/pyukumuku.png
+772,Type: Null,['Normal'],1.9,265.7,120.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/type-null.png
+773,Silvally,['Normal'],2.3,221.6,100.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/silvally.png
+774,Minior,"['Rock', 'Flying']",0.3,88.2,40,https://img.pokemondb.net/sprites/scarlet-violet/icon/minior-meteor.png
+775,Komala,['Normal'],0.4,43.9,19.9,https://img.pokemondb.net/sprites/scarlet-violet/icon/komala.png
+776,Turtonator,"['Fire', 'Dragon']",2,467.4,212,https://img.pokemondb.net/sprites/scarlet-violet/icon/turtonator.png
+777,Togedemaru,"['Electric', 'Metal']",0.3,7.3,3.3,https://img.pokemondb.net/sprites/scarlet-violet/icon/togedemaru.png
+778,Mimikyu,"['Ghost', 'Fairy']",0.2,1.5,0.7,https://img.pokemondb.net/sprites/scarlet-violet/icon/mimikyu.png
+779,Bruxish,"['Water', 'Psychic']",0.9,41.9,19,https://img.pokemondb.net/sprites/scarlet-violet/icon/bruxish.png
+780,Drampa,"['Normal', 'Dragon']",3,407.9,185,https://img.pokemondb.net/sprites/scarlet-violet/icon/drampa.png
+781,Dhelmise,"['Ghost', 'Grass']",3.9,463,210,https://img.pokemondb.net/sprites/scarlet-violet/icon/dhelmise.png
+782,Jangmo-o,['Dragon'],0.6,65.5,29.7,https://img.pokemondb.net/sprites/scarlet-violet/icon/jangmo-o.png
+783,Hakamo-o,"['Dragon', 'Fighting']",1.2,103.6,47,https://img.pokemondb.net/sprites/scarlet-violet/icon/hakamo-o.png
+784,Kommo-o,"['Dragon', 'Fighting']",1.6,172.4,78.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/kommo-o.png
+785,Tapu Koko,"['Electric', 'Fairy']",1.8,45.2,20.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/tapu-koko.png
+786,Tapu Lele,"['Psychic', 'Fairy']",1.2,41,18.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/tapu-lele.png
+787,Tapu Bulu,"['Grass', 'Fairy']",1.9,100.3,45.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/tapu-bulu.png
+788,Tapu Fini,"['Water', 'Fairy']",1.3,46.7,21.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/tapu-fini.png
+789,Cosmog,['Psychic'],0.2,0.2,0.1,https://img.pokemondb.net/sprites/scarlet-violet/icon/cosmog.png
+790,Cosmoem,['Psychic'],0.1,2204.4,999.9,https://img.pokemondb.net/sprites/scarlet-violet/icon/cosmoem.png
+791,Solgaleo,"['Psychic', 'Metal']",3.4,507.1,230,https://img.pokemondb.net/sprites/scarlet-violet/icon/solgaleo.png
+792,Lunala,"['Psychic', 'Ghost']",4,264.6,120,https://img.pokemondb.net/sprites/scarlet-violet/icon/lunala.png
+793,Nihilego,"['Rock', 'Poison']",1.2,122.4,55.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/nihilego.png
+794,Buzzwole,"['Bug', 'Fighting']",2.4,735.5,333.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/buzzwole.png
+795,Pheromosa,"['Bug', 'Fighting']",1.8,55.1,25,https://img.pokemondb.net/sprites/scarlet-violet/icon/pheromosa.png
+796,Xurkitree,['Electric'],3.8,220.5,100,https://img.pokemondb.net/sprites/scarlet-violet/icon/xurkitree.png
+797,Celesteela,"['Metal', 'Flying']",9.2,2204.4,999.9,https://img.pokemondb.net/sprites/scarlet-violet/icon/celesteela.png
+798,Kartana,"['Grass', 'Metal']",0.3,0.2,0.1,https://img.pokemondb.net/sprites/scarlet-violet/icon/kartana.png
+799,Guzzlord,"['Darkness', 'Dragon']",5.5,1957.7,888,https://img.pokemondb.net/sprites/scarlet-violet/icon/guzzlord.png
+800,Necrozma,['Psychic'],2.4,507.1,230,https://img.pokemondb.net/sprites/scarlet-violet/icon/necrozma.png
+801,Magearna,"['Metal', 'Fairy']",1,177.5,80.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/magearna.png
+802,Marshadow,"['Fighting', 'Ghost']",0.7,48.9,22.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/marshadow.png
+803,Poipole,['Poison'],0.6,4,1.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/poipole.png
+804,Naganadel,"['Poison', 'Dragon']",3.6,330.7,150,https://img.pokemondb.net/sprites/scarlet-violet/icon/naganadel.png
+805,Stakataka,"['Rock', 'Metal']",5.5,1807.8,820,https://img.pokemondb.net/sprites/scarlet-violet/icon/stakataka.png
+806,Blacephalon,"['Fire', 'Ghost']",1.8,28.7,13,https://img.pokemondb.net/sprites/scarlet-violet/icon/blacephalon.png
+807,Zeraora,['Electric'],1.5,98.1,44.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/zeraora.png
+808,Meltan,['Metal'],0.2,17.6,8,https://img.pokemondb.net/sprites/scarlet-violet/icon/meltan.png
+809,Melmetal,['Metal'],2.5,1763.7,800,https://img.pokemondb.net/sprites/scarlet-violet/icon/melmetal.png
+810,Grookey,['Grass'],0.3,11,5,https://img.pokemondb.net/sprites/scarlet-violet/icon/grookey.png
+811,Thwackey,['Grass'],0.7,30.9,14,https://img.pokemondb.net/sprites/scarlet-violet/icon/thwackey.png
+812,Rillaboom,['Grass'],2.1,198.4,90,https://img.pokemondb.net/sprites/scarlet-violet/icon/rillaboom.png
+813,Scorbunny,['Fire'],0.3,9.9,4.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/scorbunny.png
+814,Raboot,['Fire'],0.6,19.8,9,https://img.pokemondb.net/sprites/scarlet-violet/icon/raboot.png
+815,Cinderace,['Fire'],1.4,72.8,33,https://img.pokemondb.net/sprites/scarlet-violet/icon/cinderace.png
+816,Sobble,['Water'],0.3,8.8,4,https://img.pokemondb.net/sprites/scarlet-violet/icon/sobble.png
+817,Drizzile,['Water'],0.7,25.4,11.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/drizzile.png
+818,Inteleon,['Water'],1.9,99.6,45.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/inteleon.png
+819,Skwovet,['Normal'],0.3,5.5,2.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/skwovet.png
+820,Greedent,['Normal'],0.6,13.2,6,https://img.pokemondb.net/sprites/scarlet-violet/icon/greedent.png
+821,Rookidee,['Flying'],0.2,4,1.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/rookidee.png
+822,Corvisquire,['Flying'],0.8,35.3,16,https://img.pokemondb.net/sprites/scarlet-violet/icon/corvisquire.png
+823,Corviknight,"['Flying', 'Metal']",2.2,165.3,75,https://img.pokemondb.net/sprites/scarlet-violet/icon/corviknight.png
+824,Blipbug,['Bug'],0.4,17.6,8,https://img.pokemondb.net/sprites/scarlet-violet/icon/blipbug.png
+825,Dottler,"['Bug', 'Psychic']",0.4,43,19.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/dottler.png
+826,Orbeetle,"['Bug', 'Psychic']",0.4,89.9,40.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/orbeetle.png
+827,Nickit,['Darkness'],0.6,19.6,8.9,https://img.pokemondb.net/sprites/scarlet-violet/icon/nickit.png
+828,Thievul,['Darkness'],1.2,43.9,19.9,https://img.pokemondb.net/sprites/scarlet-violet/icon/thievul.png
+829,Gossifleur,['Grass'],0.4,4.9,2.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/gossifleur.png
+830,Eldegoss,['Grass'],0.5,5.5,2.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/eldegoss.png
+831,Wooloo,['Normal'],0.6,13.2,6,https://img.pokemondb.net/sprites/scarlet-violet/icon/wooloo.png
+832,Dubwool,['Normal'],1.3,94.8,43,https://img.pokemondb.net/sprites/scarlet-violet/icon/dubwool.png
+833,Chewtle,['Water'],0.3,18.7,8.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/chewtle.png
+834,Drednaw,"['Water', 'Rock']",1,254.6,115.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/drednaw.png
+835,Yamper,['Electric'],0.3,29.8,13.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/yamper.png
+836,Boltund,['Electric'],1,75,34,https://img.pokemondb.net/sprites/scarlet-violet/icon/boltund.png
+837,Rolycoly,['Rock'],0.3,26.5,12,https://img.pokemondb.net/sprites/scarlet-violet/icon/rolycoly.png
+838,Carkol,"['Rock', 'Fire']",1.1,172,78,https://img.pokemondb.net/sprites/scarlet-violet/icon/carkol.png
+839,Coalossal,"['Rock', 'Fire']",2.8,684.5,310.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/coalossal.png
+840,Applin,"['Grass', 'Dragon']",0.2,1.1,0.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/applin.png
+841,Flapple,"['Grass', 'Dragon']",0.3,2.2,1,https://img.pokemondb.net/sprites/scarlet-violet/icon/flapple.png
+842,Appletun,"['Grass', 'Dragon']",0.4,28.7,13,https://img.pokemondb.net/sprites/scarlet-violet/icon/appletun.png
+843,Silicobra,['Ground'],2.2,16.8,7.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/silicobra.png
+844,Sandaconda,['Ground'],3.8,144.4,65.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/sandaconda.png
+845,Cramorant,"['Flying', 'Water']",0.8,39.7,18,https://img.pokemondb.net/sprites/scarlet-violet/icon/cramorant.png
+846,Arrokuda,['Water'],0.5,2.2,1,https://img.pokemondb.net/sprites/scarlet-violet/icon/arrokuda.png
+847,Barraskewda,['Water'],1.3,66.1,30,https://img.pokemondb.net/sprites/scarlet-violet/icon/barraskewda.png
+848,Toxel,"['Electric', 'Poison']",0.4,24.3,11,https://img.pokemondb.net/sprites/scarlet-violet/icon/toxel.png
+849,Toxtricity,"['Electric', 'Poison']",1.6,88.2,40,https://img.pokemondb.net/sprites/scarlet-violet/icon/toxtricity-amped.png
+850,Sizzlipede,"['Fire', 'Bug']",0.7,2.2,1,https://img.pokemondb.net/sprites/scarlet-violet/icon/sizzlipede.png
+851,Centiskorch,"['Fire', 'Bug']",3,264.6,120,https://img.pokemondb.net/sprites/scarlet-violet/icon/centiskorch.png
+852,Clobbopus,['Fighting'],0.6,8.8,4,https://img.pokemondb.net/sprites/scarlet-violet/icon/clobbopus.png
+853,Grapploct,['Fighting'],1.6,86,39,https://img.pokemondb.net/sprites/scarlet-violet/icon/grapploct.png
+854,Sinistea,['Ghost'],0.1,0.4,0.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/sinistea.png
+855,Polteageist,['Ghost'],0.2,0.9,0.4,https://img.pokemondb.net/sprites/scarlet-violet/icon/polteageist.png
+856,Hatenna,['Psychic'],0.4,7.5,3.4,https://img.pokemondb.net/sprites/scarlet-violet/icon/hatenna.png
+857,Hattrem,['Psychic'],0.6,10.6,4.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/hattrem.png
+858,Hatterene,"['Psychic', 'Fairy']",2.1,11.2,5.1,https://img.pokemondb.net/sprites/scarlet-violet/icon/hatterene.png
+859,Impidimp,"['Darkness', 'Fairy']",0.4,12.1,5.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/impidimp.png
+860,Morgrem,"['Darkness', 'Fairy']",0.8,27.6,12.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/morgrem.png
+861,Grimmsnarl,"['Darkness', 'Fairy']",1.5,134.5,61,https://img.pokemondb.net/sprites/scarlet-violet/icon/grimmsnarl.png
+862,Obstagoon,"['Darkness', 'Normal']",1.6,101.4,46,https://img.pokemondb.net/sprites/scarlet-violet/icon/obstagoon.png
+863,Perrserker,['Metal'],0.8,61.7,28,https://img.pokemondb.net/sprites/scarlet-violet/icon/perrserker.png
+864,Cursola,['Ghost'],1,0.9,0.4,https://img.pokemondb.net/sprites/scarlet-violet/icon/cursola.png
+865,Sirfetch'd,['Fighting'],0.8,257.9,117,https://img.pokemondb.net/sprites/scarlet-violet/icon/sirfetchd.png
+866,Mr. Rime,"['Ice', 'Psychic']",1.5,128.3,58.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/mr-rime.png
+867,Runerigus,"['Ground', 'Ghost']",1.6,146.8,66.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/runerigus.png
+868,Milcery,['Fairy'],0.2,0.7,0.3,https://img.pokemondb.net/sprites/scarlet-violet/icon/milcery.png
+869,Alcremie,['Fairy'],0.3,1.1,0.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/alcremie.png
+870,Falinks,['Fighting'],3,136.7,62,https://img.pokemondb.net/sprites/scarlet-violet/icon/falinks.png
+871,Pincurchin,['Electric'],0.3,2.2,1,https://img.pokemondb.net/sprites/scarlet-violet/icon/pincurchin.png
+872,Snom,"['Ice', 'Bug']",0.3,8.4,3.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/snom.png
+873,Frosmoth,"['Ice', 'Bug']",1.3,92.6,42,https://img.pokemondb.net/sprites/scarlet-violet/icon/frosmoth.png
+874,Stonjourner,['Rock'],2.5,1146.4,520,https://img.pokemondb.net/sprites/scarlet-violet/icon/stonjourner.png
+875,Eiscue,['Ice'],1.4,196.2,89,https://img.pokemondb.net/sprites/scarlet-violet/icon/eiscue-ice.png
+876,Indeedee,"['Psychic', 'Normal']",0.9,61.7,28,https://img.pokemondb.net/sprites/scarlet-violet/icon/indeedee-male.png
+877,Morpeko,"['Electric', 'Darkness']",0.3,6.6,3,https://img.pokemondb.net/sprites/scarlet-violet/icon/morpeko-full-belly.png
+878,Cufant,['Metal'],1.2,220.5,100,https://img.pokemondb.net/sprites/scarlet-violet/icon/cufant.png
+879,Copperajah,['Metal'],3,1433,650,https://img.pokemondb.net/sprites/scarlet-violet/icon/copperajah.png
+880,Dracozolt,"['Electric', 'Dragon']",1.8,418.9,190,https://img.pokemondb.net/sprites/scarlet-violet/icon/dracozolt.png
+881,Arctozolt,"['Electric', 'Ice']",2.3,330.7,150,https://img.pokemondb.net/sprites/scarlet-violet/icon/arctozolt.png
+882,Dracovish,"['Water', 'Dragon']",2.3,474,215,https://img.pokemondb.net/sprites/scarlet-violet/icon/dracovish.png
+883,Arctovish,"['Water', 'Ice']",2,385.8,175,https://img.pokemondb.net/sprites/scarlet-violet/icon/arctovish.png
+884,Duraludon,"['Metal', 'Dragon']",1.8,88.2,40,https://img.pokemondb.net/sprites/scarlet-violet/icon/duraludon.png
+885,Dreepy,"['Dragon', 'Ghost']",0.5,4.4,2,https://img.pokemondb.net/sprites/scarlet-violet/icon/dreepy.png
+886,Drakloak,"['Dragon', 'Ghost']",1.4,24.3,11,https://img.pokemondb.net/sprites/scarlet-violet/icon/drakloak.png
+887,Dragapult,"['Dragon', 'Ghost']",3,110.2,50,https://img.pokemondb.net/sprites/scarlet-violet/icon/dragapult.png
+888,Zacian,['Fairy'],2.8,242.5,110,https://img.pokemondb.net/sprites/scarlet-violet/icon/zacian-hero.png
+889,Zamazenta,['Fighting'],2.9,463,210,https://img.pokemondb.net/sprites/scarlet-violet/icon/zamazenta-hero.png
+890,Eternatus,"['Poison', 'Dragon']",20,2094.4,950,https://img.pokemondb.net/sprites/scarlet-violet/icon/eternatus.png
+891,Kubfu,['Fighting'],0.6,26.5,12,https://img.pokemondb.net/sprites/scarlet-violet/icon/kubfu.png
+892,Urshifu,"['Fighting', 'Darkness']",1.9,231.5,105,https://img.pokemondb.net/sprites/scarlet-violet/icon/urshifu-single-strike.png
+893,Zarude,"['Darkness', 'Grass']",1.8,154.3,70,https://img.pokemondb.net/sprites/scarlet-violet/icon/zarude.png
+894,Regieleki,['Electric'],1.2,319.7,145,https://img.pokemondb.net/sprites/scarlet-violet/icon/regieleki.png
+895,Regidrago,['Dragon'],2.1,440.9,200,https://img.pokemondb.net/sprites/scarlet-violet/icon/regidrago.png
+896,Glastrier,['Ice'],2.2,1763.7,800,https://img.pokemondb.net/sprites/scarlet-violet/icon/glastrier.png
+897,Spectrier,['Ghost'],2,98.1,44.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/spectrier.png
+898,Calyrex,"['Psychic', 'Grass']",1.1,17,7.7,https://img.pokemondb.net/sprites/scarlet-violet/icon/calyrex.png
+899,Wyrdeer,"['Normal', 'Psychic']",1.8,209.7,95.1,https://img.pokemondb.net/sprites/scarlet-violet/icon/wyrdeer.png
+900,Kleavor,"['Bug', 'Rock']",1.8,196.2,89,https://img.pokemondb.net/sprites/scarlet-violet/icon/kleavor.png
+901,Ursaluna,"['Ground', 'Normal']",2.4,639.3,290,https://img.pokemondb.net/sprites/scarlet-violet/icon/ursaluna.png
+902,Basculegion,"['Water', 'Ghost']",3,242.5,110,https://img.pokemondb.net/sprites/scarlet-violet/icon/basculegion-male.png
+903,Sneasler,"['Fighting', 'Poison']",1.3,94.8,43,https://img.pokemondb.net/sprites/scarlet-violet/icon/sneasler.png
+904,Overqwil,"['Darkness', 'Poison']",2.5,133.4,60.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/overqwil.png
+905,Enamorus,"['Fairy', 'Flying']",1.6,105.8,48,https://img.pokemondb.net/sprites/scarlet-violet/icon/enamorus-incarnate.png
+906,Sprigatito,['Grass'],0.4,9,4.1,https://img.pokemondb.net/sprites/scarlet-violet/icon/sprigatito.png
+907,Floragato,['Grass'],0.9,26.9,12.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/floragato.png
+908,Meowscarada,"['Grass', 'Darkness']",1.5,68.8,31.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/meowscarada.png
+909,Fuecoco,['Fire'],0.4,21.6,9.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/fuecoco.png
+910,Crocalor,['Fire'],1,67.7,30.7,https://img.pokemondb.net/sprites/scarlet-violet/icon/crocalor.png
+911,Skeledirge,"['Fire', 'Ghost']",1.6,719.8,326.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/skeledirge.png
+912,Quaxly,['Water'],0.5,13.4,6.1,https://img.pokemondb.net/sprites/scarlet-violet/icon/quaxly.png
+913,Quaxwell,['Water'],1.2,47.4,21.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/quaxwell.png
+914,Quaquaval,"['Water', 'Fighting']",1.8,136.5,61.9,https://img.pokemondb.net/sprites/scarlet-violet/icon/quaquaval.png
+915,Lechonk,['Normal'],0.5,22.5,10.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/lechonk.png
+916,Oinkologne,['Normal'],1,264.6,120,https://img.pokemondb.net/sprites/scarlet-violet/icon/oinkologne-male.png
+917,Tarountula,['Bug'],0.3,8.8,4,https://img.pokemondb.net/sprites/scarlet-violet/icon/tarountula.png
+918,Spidops,['Bug'],1,36.4,16.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/spidops.png
+919,Nymble,['Bug'],0.2,2.2,1,https://img.pokemondb.net/sprites/scarlet-violet/icon/nymble.png
+920,Lokix,"['Bug', 'Darkness']",1,38.6,17.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/lokix.png
+921,Pawmi,['Electric'],0.3,5.5,2.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/pawmi.png
+922,Pawmo,"['Electric', 'Fighting']",0.4,14.3,6.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/pawmo.png
+923,Pawmot,"['Electric', 'Fighting']",0.9,90.4,41,https://img.pokemondb.net/sprites/scarlet-violet/icon/pawmot.png
+924,Tandemaus,['Normal'],0.3,4,1.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/tandemaus.png
+925,Maushold,['Normal'],0.3,6.2,2.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/maushold-family4.png
+926,Fidough,['Fairy'],0.3,24,10.9,https://img.pokemondb.net/sprites/scarlet-violet/icon/fidough.png
+927,Dachsbun,['Fairy'],0.5,32.8,14.9,https://img.pokemondb.net/sprites/scarlet-violet/icon/dachsbun.png
+928,Smoliv,"['Grass', 'Normal']",0.3,14.3,6.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/smoliv.png
+929,Dolliv,"['Grass', 'Normal']",0.6,26.2,11.9,https://img.pokemondb.net/sprites/scarlet-violet/icon/dolliv.png
+930,Arboliva,"['Grass', 'Normal']",1.4,106.3,48.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/arboliva.png
+931,Squawkabilly,"['Normal', 'Flying']",0.6,5.3,2.4,https://img.pokemondb.net/sprites/scarlet-violet/icon/squawkabilly-green.png
+932,Nacli,['Rock'],0.4,35.3,16,https://img.pokemondb.net/sprites/scarlet-violet/icon/nacli.png
+933,Naclstack,['Rock'],0.6,231.5,105,https://img.pokemondb.net/sprites/scarlet-violet/icon/naclstack.png
+934,Garganacl,['Rock'],2.3,529.1,240,https://img.pokemondb.net/sprites/scarlet-violet/icon/garganacl.png
+935,Charcadet,['Fire'],0.6,23.1,10.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/charcadet.png
+936,Armarouge,"['Fire', 'Psychic']",1.5,187.4,85,https://img.pokemondb.net/sprites/scarlet-violet/icon/armarouge.png
+937,Ceruledge,"['Fire', 'Ghost']",1.6,136.7,62,https://img.pokemondb.net/sprites/scarlet-violet/icon/ceruledge.png
+938,Tadbulb,['Electric'],0.3,0.9,0.4,https://img.pokemondb.net/sprites/scarlet-violet/icon/tadbulb.png
+939,Bellibolt,['Electric'],1.2,249.1,113,https://img.pokemondb.net/sprites/scarlet-violet/icon/bellibolt.png
+940,Wattrel,"['Electric', 'Flying']",0.4,7.9,3.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/wattrel.png
+941,Kilowattrel,"['Electric', 'Flying']",1.4,85.1,38.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/kilowattrel.png
+942,Maschiff,['Darkness'],0.5,35.3,16,https://img.pokemondb.net/sprites/scarlet-violet/icon/maschiff.png
+943,Mabosstiff,['Darkness'],1.1,134.5,61,https://img.pokemondb.net/sprites/scarlet-violet/icon/mabosstiff.png
+944,Shroodle,"['Poison', 'Normal']",0.2,1.5,0.7,https://img.pokemondb.net/sprites/scarlet-violet/icon/shroodle.png
+945,Grafaiai,"['Poison', 'Normal']",0.7,60,27.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/grafaiai.png
+946,Bramblin,"['Grass', 'Ghost']",0.6,1.3,0.6,https://img.pokemondb.net/sprites/scarlet-violet/icon/bramblin.png
+947,Brambleghast,"['Grass', 'Ghost']",1.2,13.2,6,https://img.pokemondb.net/sprites/scarlet-violet/icon/brambleghast.png
+948,Toedscool,"['Ground', 'Grass']",0.9,72.8,33,https://img.pokemondb.net/sprites/scarlet-violet/icon/toedscool.png
+949,Toedscruel,"['Ground', 'Grass']",1.9,127.9,58,https://img.pokemondb.net/sprites/scarlet-violet/icon/toedscruel.png
+950,Klawf,['Rock'],1.3,174.2,79,https://img.pokemondb.net/sprites/scarlet-violet/icon/klawf.png
+951,Capsakid,['Grass'],0.3,6.6,3,https://img.pokemondb.net/sprites/scarlet-violet/icon/capsakid.png
+952,Scovillain,"['Grass', 'Fire']",0.9,33.1,15,https://img.pokemondb.net/sprites/scarlet-violet/icon/scovillain.png
+953,Rellor,['Bug'],0.2,2.2,1,https://img.pokemondb.net/sprites/scarlet-violet/icon/rellor.png
+954,Rabsca,"['Bug', 'Psychic']",0.3,7.7,3.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/rabsca.png
+955,Flittle,['Psychic'],0.2,3.3,1.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/flittle.png
+956,Espathra,['Psychic'],1.9,198.4,90,https://img.pokemondb.net/sprites/scarlet-violet/icon/espathra.png
+957,Tinkatink,"['Fairy', 'Metal']",0.4,19.6,8.9,https://img.pokemondb.net/sprites/scarlet-violet/icon/tinkatink.png
+958,Tinkatuff,"['Fairy', 'Metal']",0.7,130.3,59.1,https://img.pokemondb.net/sprites/scarlet-violet/icon/tinkatuff.png
+959,Tinkaton,"['Fairy', 'Metal']",0.7,248.7,112.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/tinkaton.png
+960,Wiglett,['Water'],1.2,4,1.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/wiglett.png
+961,Wugtrio,['Water'],1.2,11.9,5.4,https://img.pokemondb.net/sprites/scarlet-violet/icon/wugtrio.png
+962,Bombirdier,"['Flying', 'Darkness']",1.5,94.6,42.9,https://img.pokemondb.net/sprites/scarlet-violet/icon/bombirdier.png
+963,Finizen,['Water'],1.3,132.7,60.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/finizen.png
+964,Palafin,['Water'],1.3,132.7,60.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/palafin-zero.png
+965,Varoom,"['Metal', 'Poison']",1,77.2,35,https://img.pokemondb.net/sprites/scarlet-violet/icon/varoom.png
+966,Revavroom,"['Metal', 'Poison']",1.8,264.6,120,https://img.pokemondb.net/sprites/scarlet-violet/icon/revavroom.png
+967,Cyclizar,"['Dragon', 'Normal']",1.6,138.9,63,https://img.pokemondb.net/sprites/scarlet-violet/icon/cyclizar.png
+968,Orthworm,['Metal'],2.5,683.4,310,https://img.pokemondb.net/sprites/scarlet-violet/icon/orthworm.png
+969,Glimmet,"['Rock', 'Poison']",0.7,17.6,8,https://img.pokemondb.net/sprites/scarlet-violet/icon/glimmet.png
+970,Glimmora,"['Rock', 'Poison']",1.5,99.2,45,https://img.pokemondb.net/sprites/scarlet-violet/icon/glimmora.png
+971,Greavard,['Ghost'],0.6,77.2,35,https://img.pokemondb.net/sprites/scarlet-violet/icon/greavard.png
+972,Houndstone,['Ghost'],2,33.1,15,https://img.pokemondb.net/sprites/scarlet-violet/icon/houndstone.png
+973,Flamigo,"['Flying', 'Fighting']",1.6,81.6,37,https://img.pokemondb.net/sprites/scarlet-violet/icon/flamigo.png
+974,Cetoddle,['Ice'],1.2,99.2,45,https://img.pokemondb.net/sprites/scarlet-violet/icon/cetoddle.png
+975,Cetitan,['Ice'],4.5,1543.2,700,https://img.pokemondb.net/sprites/scarlet-violet/icon/cetitan.png
+976,Veluza,"['Water', 'Psychic']",2.5,198.4,90,https://img.pokemondb.net/sprites/scarlet-violet/icon/veluza.png
+977,Dondozo,['Water'],12,485,220,https://img.pokemondb.net/sprites/scarlet-violet/icon/dondozo.png
+978,Tatsugiri,"['Dragon', 'Water']",0.3,17.6,8,https://img.pokemondb.net/sprites/scarlet-violet/icon/tatsugiri-curly.png
+979,Annihilape,"['Fighting', 'Ghost']",1.2,123.5,56,https://img.pokemondb.net/sprites/scarlet-violet/icon/annihilape.png
+980,Clodsire,"['Poison', 'Ground']",1.8,491.6,223,https://img.pokemondb.net/sprites/scarlet-violet/icon/clodsire.png
+981,Farigiraf,"['Normal', 'Psychic']",3.2,352.7,160,https://img.pokemondb.net/sprites/scarlet-violet/icon/farigiraf.png
+982,Dudunsparce,['Normal'],3.6,86.4,39.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/dudunsparce-two-segment.png
+983,Kingambit,"['Darkness', 'Metal']",2,264.6,120,https://img.pokemondb.net/sprites/scarlet-violet/icon/kingambit.png
+984,Great Tusk,"['Ground', 'Fighting']",2.2,705.5,320,https://img.pokemondb.net/sprites/scarlet-violet/icon/great-tusk.png
+985,Scream Tail,"['Fairy', 'Psychic']",1.2,17.6,8,https://img.pokemondb.net/sprites/scarlet-violet/icon/scream-tail.png
+986,Brute Bonnet,"['Grass', 'Darkness']",1.2,46.3,21,https://img.pokemondb.net/sprites/scarlet-violet/icon/brute-bonnet.png
+987,Flutter Mane,"['Ghost', 'Fairy']",1.4,8.8,4,https://img.pokemondb.net/sprites/scarlet-violet/icon/flutter-mane.png
+988,Slither Wing,"['Bug', 'Fighting']",3.2,202.8,92,https://img.pokemondb.net/sprites/scarlet-violet/icon/slither-wing.png
+989,Sandy Shocks,"['Electric', 'Ground']",2.3,132.3,60,https://img.pokemondb.net/sprites/scarlet-violet/icon/sandy-shocks.png
+990,Iron Treads,"['Ground', 'Metal']",0.9,529.1,240,https://img.pokemondb.net/sprites/scarlet-violet/icon/iron-treads.png
+991,Iron Bundle,"['Ice', 'Water']",0.6,24.3,11,https://img.pokemondb.net/sprites/scarlet-violet/icon/iron-bundle.png
+992,Iron Hands,"['Fighting', 'Electric']",1.8,839.3,380.7,https://img.pokemondb.net/sprites/scarlet-violet/icon/iron-hands.png
+993,Iron Jugulis,"['Darkness', 'Flying']",1.3,244.7,111,https://img.pokemondb.net/sprites/scarlet-violet/icon/iron-jugulis.png
+994,Iron Moth,"['Fire', 'Poison']",1.2,79.4,36,https://img.pokemondb.net/sprites/scarlet-violet/icon/iron-moth.png
+995,Iron Thorns,"['Rock', 'Electric']",1.6,668,303,https://img.pokemondb.net/sprites/scarlet-violet/icon/iron-thorns.png
+996,Frigibax,"['Dragon', 'Ice']",0.5,37.5,17,https://img.pokemondb.net/sprites/scarlet-violet/icon/frigibax.png
+997,Arctibax,"['Dragon', 'Ice']",0.8,66.1,30,https://img.pokemondb.net/sprites/scarlet-violet/icon/arctibax.png
+998,Baxcalibur,"['Dragon', 'Ice']",2.1,463,210,https://img.pokemondb.net/sprites/scarlet-violet/icon/baxcalibur.png
+999,Gimmighoul,['Ghost'],0.3,11,5,https://img.pokemondb.net/sprites/scarlet-violet/icon/gimmighoul-chest.png
+1000,Gholdengo,"['Metal', 'Ghost']",1.2,66.1,30,https://img.pokemondb.net/sprites/scarlet-violet/icon/gholdengo.png
+1001,Wo-Chien,"['Darkness', 'Grass']",1.5,163.6,74.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/wo-chien.png
+1002,Chien-Pao,"['Darkness', 'Ice']",1.9,335.5,152.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/chien-pao.png
+1003,Ting-Lu,"['Darkness', 'Ground']",2.7,1542.6,699.7,https://img.pokemondb.net/sprites/scarlet-violet/icon/ting-lu.png
+1004,Chi-Yu,"['Darkness', 'Fire']",0.4,10.8,4.9,https://img.pokemondb.net/sprites/scarlet-violet/icon/chi-yu.png
+1005,Roaring Moon,"['Dragon', 'Darkness']",2,837.8,380,https://img.pokemondb.net/sprites/scarlet-violet/icon/roaring-moon.png
+1006,Iron Valiant,"['Fairy', 'Fighting']",1.4,77.2,35,https://img.pokemondb.net/sprites/scarlet-violet/icon/iron-valiant.png
+1007,Koraidon,"['Fighting', 'Dragon']",2.5,668,303,https://img.pokemondb.net/sprites/scarlet-violet/icon/koraidon.png
+1008,Miraidon,"['Electric', 'Dragon']",3.5,529.1,240,https://img.pokemondb.net/sprites/scarlet-violet/icon/miraidon.png
+1009,Walking Wake,"['Water', 'Dragon']",3.5,617.3,280,https://img.pokemondb.net/sprites/scarlet-violet/icon/walking-wake.png
+1010,Iron Leaves,"['Grass', 'Psychic']",1.5,275.6,125,https://img.pokemondb.net/sprites/scarlet-violet/icon/iron-leaves.png
+1011,Dipplin,"['Grass', 'Dragon']",0.4,9.7,4.4,https://img.pokemondb.net/sprites/scarlet-violet/icon/dipplin.png
+1012,Poltchageist,"['Grass', 'Ghost']",0.1,2.4,1.1,https://img.pokemondb.net/sprites/scarlet-violet/icon/poltchageist.png
+1013,Sinistcha,"['Grass', 'Ghost']",0.2,4.9,2.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/sinistcha.png
+1014,Okidogi,"['Poison', 'Fighting']",1.8,202.8,92,https://img.pokemondb.net/sprites/scarlet-violet/icon/okidogi.png
+1015,Munkidori,"['Poison', 'Psychic']",1,26.9,12.2,https://img.pokemondb.net/sprites/scarlet-violet/icon/munkidori.png
+1016,Fezandipiti,"['Poison', 'Fairy']",1.4,66.4,30.1,https://img.pokemondb.net/sprites/scarlet-violet/icon/fezandipiti.png
+1017,Ogerpon,['Grass'],1.2,87.7,39.8,https://img.pokemondb.net/sprites/scarlet-violet/icon/ogerpon-teal.png
+1018,Archaludon,"['Metal', 'Dragon']",2,132.3,60,https://img.pokemondb.net/sprites/scarlet-violet/icon/archaludon.png
+1019,Hydrapple,"['Grass', 'Dragon']",1.8,205,93,https://img.pokemondb.net/sprites/scarlet-violet/icon/hydrapple.png
+1020,Gouging Fire,"['Fire', 'Dragon']",3.5,1300.7,590,https://img.pokemondb.net/sprites/scarlet-violet/icon/gouging-fire.png
+1021,Raging Bolt,"['Electric', 'Dragon']",5.2,1058.2,480,https://img.pokemondb.net/sprites/scarlet-violet/icon/raging-bolt.png
+1022,Iron Boulder,"['Rock', 'Psychic']",1.5,358.3,162.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/iron-boulder.png
+1023,Iron Crown,"['Metal', 'Psychic']",1.6,343.9,156,https://img.pokemondb.net/sprites/scarlet-violet/icon/iron-crown.png
+1024,Terapagos,['Normal'],0.2,14.3,6.5,https://img.pokemondb.net/sprites/scarlet-violet/icon/terapagos-normal.png
+1025,Pecharunt,"['Poison', 'Ghost']",0.3,0.7,0.3,https://img.pokemondb.net/sprites/scarlet-violet/icon/pecharunt.png
